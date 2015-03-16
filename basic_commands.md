@@ -12,8 +12,17 @@ will close R without asking you.
 a <- 1:10
 b <- sin(a)
 plot(a, b)
+```
+will plot an image.
+```
 plot(a, b, main="My plot")
+```
+will work.
+```
 plot(a, b, "My plot")
+```
+will not work, because the engine do not know that `"My plot"` links to `main`.
+```
 plot(x=a, y=b, main="My plot")
 help(plot)
 apropos("svd")
