@@ -1,9 +1,14 @@
 ### Basic R commands
 ```
  q()
+```
+will close R.
+```
  q("n")
  q(save="n")
-
+```
+will close R without asking.
+```
  a <- 1:10
  b <- sin(a)
  plot(a, b)
