@@ -276,4 +276,9 @@ To generate a vector with constant increment (e.g. 2, 4, 6 ... 10):
 ```R
 x<-2*1:5
 ```
+You can reverse the order of a vector by:
+```R
+x<-2*1:5
+x[5:1]
+```
 
