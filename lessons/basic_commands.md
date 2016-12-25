@@ -1,74 +1,74 @@
 ### Basic R commands
 First function in R will ask you whether you want to save data and then it will close R:
-```
+```R
 q()
 ```
 This will close R without asking you:
-```
+```R
 q("n")
 q(save="n")
 ```
 To see something, type:
-```
+```R
 a <- 1:10
 b <- sin(a)
 plot(a, b)
 ```
 This will work:
-```
+```R
 plot(a, b, main="My plot")
 ```
 This will not work, because the engine do not know that `"My plot"` links to `main`.
-```
+```R
 plot(a, b, "My plot")
 ```
 It is possible to specify all options:
-```
+```R
 plot(x=a, y=b, main="My plot")
 ```
 Help could be found by:
-```
+```R
 help(plot)
 apropos("svd")
 help.search("svd")
 ```
 Example or demo can be found as well:
-```
+```R
 example(image)
 demo(graphics)
 ```
 Basic operations:
-```
+```R
 1+1
 2-1
 3*3
 6/3
 ```
 R recognizes integers and floats from the context:
-```
+```R
 5/2
 5.0/2.0
 ```
 power, modulo ...
-```
+```R
 3ˆ3
 5%%2
 5%/%2
 ```
 R waits until command finished:
-```
+```R
 1+
 1
 ```
 Spaces are ignored:
-```
+```R
 1+1
 1 + 1
 1+         1
 1           +1
 ```
 Basic constants and fuctions:
-```
+```R
 pi
 cos(pi)
 sin(pi)
@@ -76,18 +76,18 @@ exp(1)
 abs(-4)
 ```
 Logarithm is natural by default, decadic and binnary are available as well:
-```
+```R
 log(exp(2))
 log10(1000)
 log2(16)
 ```
 Complex numbers are supported as well:
-```
+```R
 2i
 2i*2i
 ```
 One can assign a value to a variable
-```
+```R
 x <- 20
 x
 y <- 10
@@ -95,26 +95,26 @@ y
 x+y
 ```
 Logical and string variables are available as well:
-```
+```R
 x<-FALSE
 x
 y<-"string"
 y
 ```
 Equal works as well in most cases, but use `<-` to be on the safe side.
-```
+```R
 x = 20
 y = 10
 x+y
 ```
 It is possible 
-```
+```R
 x <- 10
 x <- x + 1
 x
 ```
 R recognizes capitals and small letters:
-```
+```R
 a<-1
 A<-2
 a
@@ -122,17 +122,17 @@ A
 a+A
 ```
 Vectors can be defined by:
-```
+```R
 x <- c(1, 3, 2)
 x
 ```
 Or:
-```
+```R
 x <- 1:10
 x
 ```
 One can dissect some items from the vector:
-```
+```R
 x <- c(1,5,2,3,4,7)
 x
 x[1]
@@ -141,13 +141,13 @@ x[3:6]
 x[c(1,3)]
 ```
 Another way how to make a vector:
-```
+```R
 seq(from=6, to=21, by=2)
 rep((1:4), times=2)
 rep((1:4), each=2)
 ```
 It is possible to add, substract, multiply or divide a vector by a float number:
-```
+```R
 x<-1:5
 x*2.5
 x/2.5
@@ -155,33 +155,33 @@ x+2.5
 x-2.5
 ```
 or make a total of two vectors:
-```
+```R
 x<-c(1,3,2)
 y<-4:6
 x+y
 ```
 Multiplication by `*` gives `c(x[1]*y[1], x[2]*y[2], ...)`:
-```
+```R
 x<-1:4
 y<-c(7,2,3,1)
 x*y
 ```
 To get dot product you need to type:
-```
+```R
 x%*%y
 ```
 You can apply a function to each item of the vector:
-```
+```R
 x<-1:4
 exp(x)
 ```
 Matrix:
-```
+```R
 x<-matrix(1:12, ncol=3, byrow=TRUE)
 x
 ```
 Transpose:
-```
+```R
 t(x)
 
 x<-matrix(1:12, ncol=3, byrow=FALSE)
