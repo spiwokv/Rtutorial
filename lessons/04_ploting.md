@@ -54,8 +54,15 @@ x<-c(1,1,2,3,2)
 nam<-c("first", "second", "third", "fourth", "fiveth")
 pie(x, labels=nam)
 ```
-Histograms can be plotted by `hist` with breaks controlable by `breaks` parameter:
+Histograms can be ploted by `hist` with breaks controlable by `breaks` parameter:
 ```R
 hist(faithful$waiting, breaks=20)
 ```
+Tukey's boxplots can be ploted by `boxplot` function:
+```R
+x<-c(1.2,2.2,1.3,4.4,3.0,2.2,2.5,2.6)
+y<-c(3.3,2.3,1.8,5.5,7.7,7.3,1.9,4.7)
+boxplot(x, y)
+```
+
 
