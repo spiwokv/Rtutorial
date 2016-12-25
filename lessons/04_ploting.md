@@ -1,3 +1,4 @@
+```R
 x<-1:1000/100
 y<-sin(x)
 plot(x,y)
@@ -31,5 +32,5 @@ text(x, y, labels=pointnames)
 x<-c(1,1,2,3,2)
 nam<-c("first", "second", "third", "fourth", "fiveth")
 pie(x, labels=nam)
-
+```
 
