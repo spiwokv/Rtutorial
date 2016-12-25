@@ -265,4 +265,4 @@ installed.packages()
 install.packages("igraph")
 library(igraph)
 ```
-That's all, lets try to analyse some datasets. 
+That's all, lets try to read some data in the next lesson and then we will analyse them. 
