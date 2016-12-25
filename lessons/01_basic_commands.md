@@ -268,15 +268,19 @@ library(igraph)
 That's all, lets try to read some data in the next lesson and then we will analyse them. 
 
 ####Tips and tricks
-You don't remember exactly the command (e.g. you are not sure whether it is `len` or `length`)? Just type the begining of the command and double-click tabulator. You can use it also for parameters of a function.
 
-It is better not to use trivial names for variables because you can overwrite some existing variables.
+* you don't remember exactly the command (e.g. you are not sure whether it is `len` or `length`)? Just type the begining of the command and double-click tabulator. You can use it also for parameters of a function.
 
-To generate a vector with constant increment (e.g. 2, 4, 6 ... 10):
+* if the command is too long you can separate it on two or more lines (R waits untill the command is closed).
+
+* it is better not to use trivial names for variables because you can overwrite some existing variables.
+
+* to generate a vector with constant increment (e.g. 2, 4, 6 ... 10):
 ```R
 x<-2*1:5
 ```
-You can reverse the order of a vector by:
+
+* you can reverse the order of a vector by:
 ```R
 x<-2*1:5
 x[5:1]
