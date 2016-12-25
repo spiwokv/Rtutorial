@@ -54,4 +54,8 @@ x<-c(1,1,2,3,2)
 nam<-c("first", "second", "third", "fourth", "fiveth")
 pie(x, labels=nam)
 ```
+Histograms can be plotted by `hist` with breaks controlable by `breaks` parameter:
+```R
+hist(faithful$waiting, breaks=20)
+```
 
