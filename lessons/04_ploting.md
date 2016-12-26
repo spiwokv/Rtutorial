@@ -93,4 +93,15 @@ plot(x, cos(x))
 plot(x, tan(x))
 plot(x, atan(x))
 ```
-R can use a wide range of colors. Pre-defined colors can be shown by functions `colors`. 
+R can use a wide range of colors. Pre-defined colors can be shown by functions `colors`:
+```R
+colors()
+barplot(1:6, col="sienna")
+```
+If colors are supplied as a vector, they alternate as shown bellow:
+```R
+barplot(1:6, col=c("sienna", "steelblue", "olivedrab",
+                    "navy", "whitesmoke", "whitesmoke"))
+barplot(1:6, col=c("sienna", "steelblue"))
+```
+
