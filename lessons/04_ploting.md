@@ -40,6 +40,8 @@ z<-6:1
 xyz<-data.frame(x,y,z)
 plot(xyz)
 ```
+The function `plot` can be used to other objects as will be shown later.
+
 Using function `text` it is possible to add short strings to points with coordinates x and y:
 ```R
 x<-1:4*2
@@ -64,5 +66,13 @@ x<-c(1.2,2.2,1.3,4.4,3.0,2.2,2.5,2.6)
 y<-c(3.3,2.3,1.8,5.5,7.7,7.3,1.9,4.7)
 boxplot(x, y)
 ```
-
+Three-dimensional plots can be presented using image, contour or persp function:
+```R
+x<-0:100
+y<-0:100
+gauss<-exp(-outer((x-50)**2/200,(y-50)**2/200,"+"))
+image(x, y, gauss, col=heat.colors(100))
+contour(x, y, gauss, levels=0:10/10, add=TRUE)
+persp(x, y, gauss, col="red", theta=30, phi=30, shade=0.75, ltheta=100)
+```
 
