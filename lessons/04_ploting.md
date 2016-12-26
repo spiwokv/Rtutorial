@@ -104,4 +104,27 @@ barplot(1:6, col=c("sienna", "steelblue", "olivedrab",
                     "navy", "whitesmoke", "whitesmoke"))
 barplot(1:6, col=c("sienna", "steelblue"))
 ```
+Shades of gray can be used by the function `gray`:
+```R
+x<-1:50/50
+gray(x)
+barplot(x, col=gray(x))
+```
+Colors can be also mixed from red, green and blue by the function `rgb`:
+```R
+x<-0:10/10
+rgb(1,1,x)
+barplot(x, col=rgb(1,1,x))
+```
+Attractive palets such as `rainbow`, `heat.colors`, `terrain.colors`, `topo.colors` and `cm.colors`.
+
+Plots can be saved in many bitmap and vector graphical formats by functions `png`, `jpeg`, `pdf`, `svg` or `ps`. After invoking this function with file name as the argument no plot is shown. Instead it is saved to file. This property can be stoped by function `dev.off()`:
+```R
+png("plot.png")
+barplot(1:6)
+dev.off()
+```
+The plot is saved into working directory (see funcitons `getwd` and `setwd`).
+
+R together with its packages makes it possible to plot graphs (in the sense of graph theory), heatmaps, word clouds, geographical maps and other special plot types.
 
