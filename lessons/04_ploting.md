@@ -56,6 +56,10 @@ x<-c(1,1,2,3,2)
 nam<-c("first", "second", "third", "fourth", "fiveth")
 pie(x, labels=nam)
 ```
+Barplots can be drawn using function barplot:
+```R
+barplot(c(10.1,8.1,9.5,8.3), names.arg=c(10.1,8.1,9.5,8.3))
+```
 Histograms can be ploted by `hist` with breaks controlable by `breaks` parameter:
 ```R
 hist(faithful$waiting, breaks=20)
@@ -74,5 +78,19 @@ gauss<-exp(-outer((x-50)**2/200,(y-50)**2/200,"+"))
 image(x, y, gauss, col=heat.colors(100))
 contour(x, y, gauss, levels=0:10/10, add=TRUE)
 persp(x, y, gauss, col="red", theta=30, phi=30, shade=0.75, ltheta=100)
+```
+Nice 3D plots can be made by the `wireframe` function from the `lattice` library:
+```R
+library(lattice)
+wireframe(gauss, shade=TRUE,light.source = c(10,0,10))
+```
+Appearence of plots can be odified by `par` function invoked before the funcion `plot` or other plotting functions. As an example we can show plotting of four plots on one canvas:
+```R
+par(mfrow=c(2,2))
+x<-1:100/10
+plot(x, sin(x))
+plot(x, cos(x))
+plot(x, tan(x))
+plot(x, atan(x))
 ```
 
