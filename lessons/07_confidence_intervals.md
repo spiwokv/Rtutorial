@@ -20,6 +20,7 @@ for(i in 1:100) {
     good<-good+1
   }
 }
+good
 ```
 I obtained 97, close to expected 95.
 
