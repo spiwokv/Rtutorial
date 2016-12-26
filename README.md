@@ -4,4 +4,9 @@ This tutorial introduce you to basic statistics and data visualisation in R. It 
 You need R.
 https://www.r-project.org/
 ## Contents
-
+01_basic_commands.md
+02_file_input_output.md
+04_ploting.md
+05_random_numbers.md
+06_univariate_descriptive_statistics.md
+07_confidence_intervals.md
