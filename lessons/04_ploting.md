@@ -131,6 +131,11 @@ R together with its packages makes it possible to plot graphs (in the sense of g
 #### Tips and tricks
 * high-resolution bitmap plots can be made in vector format and then converted to bitmap using your favorit graphical software
 
+* i often use function rainbow without the violet color:
+```R
+barplot(1:20, col=rainbow(27)[1:20])
+```
+
 * alternatively, it is possible to use functions for bitmap plotting (e.g. png) with following modification:
 ```R
 x<-0:100
