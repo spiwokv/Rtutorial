@@ -1,6 +1,6 @@
 ### Random numbers in R
 R can generate random numbers with different distributions. It is possible to generate ten random number with normal distribution
-with mean set to 20 and standart deviation set to 2:
+with mean set to 20 and standart deviation set to 2 (defaul values are 0 and 1, respectively):
 ```R
 x<-rnorm(10, mean=20, sd=2)
 x
@@ -48,3 +48,14 @@ x<-qnorm(y, mean=20, sd=2)
 points(pnorm(x, mean=20, sd=2), x)
 ```
 There are similar functions for other distributions such as chi-squared distribution (`dchisq`, `pchisq`, `qchisq` and `rchisq`), t-distribution (`dt`, `pt`, `qt` and `rt`) or F-distribution (`df`, `pf`, `qf` and `rf`).
+
+#### Tips and tricks
+* you can set seed if you want to generate same random numbers:
+```R
+set.seed(666)
+rnorm(5)
+rnorm(5)
+set.seed(666)
+rnorm(5)
+```
+
