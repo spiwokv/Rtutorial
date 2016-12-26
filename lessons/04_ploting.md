@@ -93,4 +93,4 @@ plot(x, cos(x))
 plot(x, tan(x))
 plot(x, atan(x))
 ```
-
+R can use a wide range of colors. Pre-defined colors can be shown by functions `colors`. 
