@@ -7,7 +7,6 @@ mean(x)+sem*qt(p=c(0.025,0.975), df=(length(x)-1))
 ```
 The funcion `qt(p=c(0.025,0.975), df=(length(x)-1))` returns quantile of t-distribution for p=0.025 and 0.975, i.e. for 95 %
 probability. For 90 % use `p=c(0.05,0.95)`, for 99 % use `p=c(0.005,0.995)` etc.
-function as will be shown in another lesson.
 
 If you generate 100 random samples (each with 10 items) with mean set to 20 and standart deviation set to 2, you shold
 expect that 95 samples will contain 20 in the confidence interval and 5 will not. Let's try:
