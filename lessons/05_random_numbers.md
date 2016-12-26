@@ -26,4 +26,25 @@ mean(x)
 sd(x)
 hist(x, br=20, xlim=c(10,30), col="gray")
 ```
-
+For normal distribution you can also calculate density by `dnorm`, distribution function by `pnorm` and quantile function by `qnorm`:
+```R
+x<-0:400/10
+plot(x, dnorm(x, mean=20, sd=2), type="l")
+plot(x, pnorm(x, mean=20, sd=2), type="l")
+y<-1:99/100
+plot(y, qnorm(y, mean=20, sd=2), type="l")
+```
+The function `pnorm` is an integral of `dnorm` as you can see:
+```R
+x<-0.1*0:230
+sum(0.1*dnorm(x, mean=20, sd=2))
+pnorm(23, mean=20, sd=2)
+```
+The function `qnorm` is an inverse function of `pnorm`:
+```R
+y<-1:99/100
+plot(y, qnorm(y, mean=20, sd=2), type="l")
+x<-qnorm(y, mean=20, sd=2)
+points(pnorm(x, mean=20, sd=2), x)
+```
+There are similar functions for other distributions such as chi-squared distribution (`dchisq`, `pchisq`, `qchisq` and `rchisq`), t-distribution (`dt`, `pt`, `qt` and `rt`) or F-distribution (`df`, `pf`, `qf` and `rf`).
