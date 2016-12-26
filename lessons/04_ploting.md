@@ -149,7 +149,7 @@ axis(2, lwd=2)
 box(lwd=2)
 dev.off()
 ```
-This plots the plot in doubled size. In order to further increase the size it is possible to multiply width, height and pointsize in png. However, it keeps the same widths of lines and other parameters. To fix this, avoid plotting axes by function image (axes=F) and instead plot wide axes and box separately. It can be easily modified for other plotting functions.
+This plots the plot in doubled size. In order to further increase the size it is possible to multiply `width`, `height` and `pointsize` in `png`. However, it keeps the same widths of lines and other parameters. To fix this, avoid plotting axes by function `image` (`axes=F`) and instead plot wide axes and box separately. It can be easily modified for other plotting functions.
 
 * to make a movie, use the output file name with regular expression and a loop:
 ```R
