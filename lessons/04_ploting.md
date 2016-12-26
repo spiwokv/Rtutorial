@@ -128,3 +128,34 @@ The plot is saved into working directory (see funcitons `getwd` and `setwd`).
 
 R together with its packages makes it possible to plot graphs (in the sense of graph theory), heatmaps, word clouds, geographical maps and other special plot types.
 
+#### Tips and tricks
+* high-resolution bitmap plots can be made in vector format and then converted to bitmap using your favorit graphical software
+
+* alternatively, it is possible to use functions for bitmap plotting (e.g. png) with following modification:
+```R
+x<-0:100
+y<-0:100
+png("plot.png", width=960, height=960, pointsize=24)
+gauss<-exp(-outer((x-50)**2/400,(y-50)**2/400,"+"))
+image(x, y, gauss, col=heat.colors(100), axes=F)
+contour(x, y, gauss, levels=0:10/10, add=TRUE, lwd=2, labcex=1.2)
+axis(1, lwd=2)
+axis(2, lwd=2)
+box(lwd=2)
+dev.off()
+```
+This plots the plot in doubled size. In order to further increase the size it is possible to multiply width, height and pointsize in png. However, it keeps the same widths of lines and other parameters. To fix this, avoid plotting axes by function image (axes=F) and instead plot wide axes and box separately. It can be easily modified for other plotting functions.
+
+* to make a movie, use the output file name with regular expression and a loop:
+```R
+png("plot%03d.png")
+x<-0:100
+y<-0:100
+for(i in 25:75) {
+  gauss<-exp(-outer((x-i)**2/400,(y-i)**2/400,"+"))
+  image(x, y, gauss, col=heat.colors(100))
+  contour(x, y, gauss, levels=0:10/10, add=TRUE)
+}
+dev.off()
+```
+You can then use some video software (e.g. mencoder from Mplayer) to make a movie.
