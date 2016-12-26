@@ -34,7 +34,7 @@ points(1:4, c(quantile(x1,0.25),quantile(x2,0.25),quantile(x3,0.25),quantile(x4,
 points(1:4, c(quantile(x1,0.75),quantile(x2,0.75),quantile(x3,0.75),quantile(x4,0.75)), col="red")
 ```
 #### Tips and tricks
-* it is possible to index the function `summary`:
+* it is possible to index the function `summary`, e.g. to get minimum by index 1:
 ```R
 summary(x)[1]
 ```
