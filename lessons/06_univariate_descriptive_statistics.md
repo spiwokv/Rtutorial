@@ -17,6 +17,8 @@ mean(x)
 quantile(x, probs=0.75)
 max(x)
 ```
+Another useful function can be `range`.
+
 Important plot of univariate descriptive statistics is Tukey's box plot. It plots a box with bottom and top at
 lower and upper quartile (exactly, at values nearest to lower and upper quartile). The horizontal line is located
 at median. The whiskers start from the bottom and top of the box. Each whisker goes to maximum/minimum, but it is
