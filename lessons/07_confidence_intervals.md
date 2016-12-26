@@ -26,6 +26,7 @@ I obtained 97, close to expected 95.
 
 #### Tips and tricks
 * confidence inteval can be obtained more easily by `t.test` as will be shown later:
+```R
 x<-rnorm(10, mean=20, sd=2)
 t.test(x)$conf.int
 t.test(x)$conf.int[1:2]
