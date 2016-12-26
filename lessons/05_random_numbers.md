@@ -47,7 +47,7 @@ plot(y, qnorm(y, mean=20, sd=2), type="l")
 x<-qnorm(y, mean=20, sd=2)
 points(pnorm(x, mean=20, sd=2), x)
 ```
-There are similar functions for other distributions such as chi-squared distribution (`dchisq`, `pchisq`, `qchisq` and `rchisq`), t-distribution (`dt`, `pt`, `qt` and `rt`) or F-distribution (`df`, `pf`, `qf` and `rf`).
+There are similar functions for other distributions such as chi-squared distribution (`dchisq`, `pchisq`, `qchisq` and `rchisq`), t-distribution (`dt`, `pt`, `qt` and `rt`), F-distribution (`df`, `pf`, `qf` and `rf`) and many others.
 
 #### Tips and tricks
 * you can set seed if you want to generate same random numbers:
