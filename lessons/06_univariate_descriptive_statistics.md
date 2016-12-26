@@ -33,9 +33,30 @@ points(1:4, c(median(x1),median(x2),median(x3),median(x4)), col="red")
 points(1:4, c(quantile(x1,0.25),quantile(x2,0.25),quantile(x3,0.25),quantile(x4,0.25)), col="red")
 points(1:4, c(quantile(x1,0.75),quantile(x2,0.75),quantile(x3,0.75),quantile(x4,0.75)), col="red")
 ```
+Mean estimate can be calculated by function `mean`, or manually:
+```R
+mean(x)
+sum(x)/length(x)
+```
+Variance estimate can be calculated by function `var`, or manually:
+```R
+var(x)
+sum((x-mean(x))**2/(length(x)-1))
+```
+Standart deviation estimate can be calculated by function `sd`, or manually:
+```R
+sd(x)
+sqrt(var(x))
+sqrt(sum((x-mean(x))**2/(length(x)-1)))
+```
+Standart error of the mean does not have own function in (basic) R, so we can calculate it manually:
+```R
+sd(x)/sqrt(length(x))
+```
 #### Tips and tricks
 * it is possible to index the function `summary`, e.g. to get minimum by index 1:
 ```R
 summary(x)[1]
 ```
 It is not really useful for this function, but you can use it later for other functions.
+
