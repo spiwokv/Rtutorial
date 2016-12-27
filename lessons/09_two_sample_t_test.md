@@ -20,6 +20,8 @@ t.test(healthy, sick, var.equal=TRUE)
 t.test(healthy, sick, var.equal=FALSE)
 ```
 
+Paired
+
 #### Tips and tricks
 * the function `t.test` always gives a résumé on the alternative hypothesis, you can use it if you are not shure which test to use
 
@@ -27,7 +29,7 @@ t.test(healthy, sick, var.equal=FALSE)
 ```R
 healthy<-rnorm(10, mean=12.3, sd=3.3)
 sick<-rnorm(10, mean=8.5, sd=3.3)
-growths<-c(healthy, sick)
+growth<-c(healthy, sick)
 health<-rep(c("healthy", "sick"), each=10)
 df<-data.frame(health, growth)
 plot(growth~health, data=df)
