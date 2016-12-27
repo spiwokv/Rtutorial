@@ -25,7 +25,7 @@ Paired!!!!!!!
 #### Tips and tricks
 * the function `t.test` always gives a résumé on the alternative hypothesis, you can use it if you are not shure which variant of test should be used
 
-* the function `t.test` (as well as `plot`) can use class 'formula' as the input. We will use it frequently in next lessons, so let use try it now:
+* the function `t.test` (as well as `plot`) can use class 'formula' as the input. We will use it frequently in next lessons, so let us try it now:
 ```R
 healthy<-rnorm(10, mean=12.3, sd=3.3)
 sick<-rnorm(10, mean=8.5, sd=3.3)
