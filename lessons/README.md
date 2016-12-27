@@ -6,7 +6,7 @@
 * [05_random_numbers.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/05_random_numbers.md)
 * [06_univariate_descriptive_statistics.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/06_univariate_descriptive_statistics.md)
 * [07_confidence_intervals.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/07_confidence_intervals.md)
-* 08_one_sample_t_test.md (to do)
+* [08_one_sample_t_test.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/08_one_sample_t_test.md)
 * 09_two_sample_t_test.md (to do)
 * 10_non_parametric_tests.md (to do)
 * 11_analysis_of_variance.md (to do)
