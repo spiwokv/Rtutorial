@@ -32,7 +32,16 @@ t.test(x, mu=20, alternative="less")
 mean(x)+sem*qt(p=c(0.05,1), df=(length(x)-1))
 t.test(x, mu=20, alternative="greater")
 ```
-
-iterate
-conf.level
-
+#### Tips and tricks
+* you can iterate on the results of the function t.test:
+```R
+tt<-t.test(x, mu=20)
+tt
+tt[3]
+```
+* you can change the significance level for the confidence interval by parameter `conf.level`:
+```R
+t.test(x, mu=20)
+t.test(x, mu=20, conf.level=0.99)
+t.test(x, mu=20, conf.level=0.999)
+```
