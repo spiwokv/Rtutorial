@@ -1,4 +1,4 @@
-### Univariate descriptive statistics
+### Univariate descriptive statistics in R
 Lets create a sample with mean and standart deviation set to 20 and 2, respectively:
 ```R
 x<-rnorm(10, mean=20, sd=2)
