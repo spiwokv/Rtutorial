@@ -53,6 +53,7 @@ R recognizes integers and floats from the context:
 Power, modulo, integer division:
 ```R
 3ˆ3
+3**3
 5%%2
 5%/%2
 ```
