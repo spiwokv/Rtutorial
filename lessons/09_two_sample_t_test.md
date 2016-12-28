@@ -20,7 +20,17 @@ t.test(healthy, sick, var.equal=TRUE)
 t.test(healthy, sick, var.equal=FALSE)
 ```
 
-Paired!!!!!!!
+Paired t-test is used when values in both samples can be paired, e.g. one sample represents blood preasure of
+patients before and one sample after treatement. It is better to evaluate differences for individual pationts one by one,
+rather than whole samples. The t-test can be swiched to paired by `paired=TRUE`:
+```R
+x<-rnorm(10, mean=20, sd=5)
+x
+y<-x+rnorm(10, mean=2, sd=0.5)
+y
+t.test(x,y)
+t.test(x,y, paired=TRUE)
+```
 
 #### Tips and tricks
 * the function `t.test` always gives a résumé on the alternative hypothesis, you can use it if you are not shure which variant of test should be used
