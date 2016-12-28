@@ -1,5 +1,5 @@
 ### Analysis of variance in R
-Analysis of variance (ANOVA) is an extension of t-test to more than two samples. Firts let us show a "manual" version of ANOVA
+Analysis of variance (ANOVA) is an extension of t-test to more than two samples. First, let us show a "manual" version of ANOVA
 for three samples, one representing a biological parameter of patients who were administred a drug, one representing a control
 grou and one representing patients administered a placebo:
 ```R
