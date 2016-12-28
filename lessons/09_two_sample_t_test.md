@@ -1,4 +1,4 @@
-### Two-sample t-test
+### Two-sample t-test in R
 Let us skip a "manual" version of the t-test and proceed directly to the function `t.test`. There are two vatriants
 of two-sample t-test, one for equal variances and one for inequal variances. First let us test whether the variances
 are equal:
