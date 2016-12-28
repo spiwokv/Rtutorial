@@ -1,6 +1,6 @@
 ### Two-sample t-test
 Let us skip a "manual" version of the t-test and proceed directly to the function `t.test`. There are two vatriants
-of two-sample t-test, one for eqaul variances and one for inequal variances. First let us test whether the variances
+of two-sample t-test, one for equal variances and one for inequal variances. First let us test whether the variances
 are equal:
 ```R
 healthy<-rnorm(10, mean=12.3, sd=3.3)
