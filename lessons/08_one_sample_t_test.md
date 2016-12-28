@@ -7,8 +7,8 @@ sem<-sd(x)/sqrt(length(x))
 mean(x)+sem*qt(p=c(0.025,0.975), df=(length(x)-1))
 ```
 We can make a two-tailed t-test (at the significance level  of 5 %) with the null hypothesis that the mean of x is equal to 20.
-The null hypothesis is rejected if 20 is outside the confidence interval. You can replace by `p=c(0.05, 0.995)` for
-the significance level 1 % etc.
+The null hypothesis is rejected if 20 is outside the confidence interval. You can replace `p=c(0.025,0.975)` by
+`p=c(0.005, 0.995)` for the significance level 1 % etc.
 
 Another option is to calculate criterion R and compare it with corresponding quantile of t-distribution:
 ```R
