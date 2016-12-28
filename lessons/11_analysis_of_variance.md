@@ -12,6 +12,12 @@ placebo
 sdrug<-sum((drug-mean(drug))ˆ2)
 scontrol<-sum((control-mean(control))ˆ2)
 splacebo<-sum((placebo-mean(placebo))ˆ2)
-
-
+SSW<-scontrol+sdrug+splacebo
+all<-c(control, drug, placebo)
+SST<-sum((all-mean(all))ˆ2)
+SSB<-SST-SSW
+FE<-(SSB*27)/(SSW*2)
+FE
+qf(p=0.95, df1=2, df2=27)
+```
 
