@@ -30,8 +30,16 @@ mydata<-read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/d
 mydata
 write.table(mydata, "mydata2.txt")
 ```
+
+R also contains sample data for demonstration of functions. You can see the list by typing:
+```R
+data()
+```
+For example `faithful` dataset contains waiting times between eruptions and the duration of eruptions of the Old Faithful geyser in Yellowstone National Park (Wyoming, USA).
+
 #### Tips and tricks
 * data in a file may be large and it is not useful to print it when you want to check whether data was read correctly. You can use `head` function instead to print the header with the first six lines.
 ```R
 head(faithful)
 ```
+Analogously you can use the `tail` function.
