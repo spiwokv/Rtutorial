@@ -268,7 +268,7 @@ library(igraph)
 ```
 That's all, lets try to read some data in the next lesson and then we will analyse them. 
 
-####Tips and tricks
+#### Tips and tricks
 
 * you don't remember exactly the command (e.g. you are not sure whether it is `len` or `length`)? Just type the begining of the command and double-click tabulator. You can use it also for parameters of a function.
 
