@@ -159,6 +159,8 @@ library(dplyr)
 ifile %>% group_by(strana) %>% summarise(abs=sum(abs))
 ```
 
+TidyR
+
 There is a family of "apply" functions.
 
 
