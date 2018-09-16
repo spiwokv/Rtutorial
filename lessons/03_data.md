@@ -31,6 +31,12 @@ To inverse the order of elements you can use the colon operator as `jmena[9:1]` 
 
 Let us move to more complicated dataset. You can load the results of municipal elections 2015 in Prague:
 ```R
-ifile <- read.table("https://web.vscht.cz/~spiwokv/statistika/volby2013praha.txt", sep=";", header=T)
+volby <- read.table("https://web.vscht.cz/~spiwokv/statistika/volby2013prahaUTF8.txt",
+                    sep=";", header=T, dec=",", encoding="UTF=8")
 ```
+Parameter `sep=";"` indicates that individual items are separated by a semicolon. The option
+`header=T` indicates that the first line contains names of colums. In fact the first line contains
+the remark, because it starts with `#`. The option `dec=","` tells us that the Czech decimal is used.
+Finally, `encoding="UTF=8"` determines encoding.
+
 
