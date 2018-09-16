@@ -29,4 +29,8 @@ you know the number of elements or `jmena[length(jmena)]` in case you are lazy t
 To inverse the order of elements you can use the colon operator as `jmena[9:1]` or
 `jmena[length(jmena):1]`.
 
+Let us move to more complicated dataset. You can load the results of municipal elections 2015 in Prague:
+```R
+ifile <- read.table("https://web.vscht.cz/~spiwokv/statistika/volby2013praha.txt", sep=";", header=T)
+```
 
