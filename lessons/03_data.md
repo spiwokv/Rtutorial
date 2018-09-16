@@ -90,4 +90,61 @@ print a table with numbers of candidates per party:
 ```R
 table(volby[,2])
 ```
+In order to print only the lines containing candidates of "Piráti" you can use following expressions:
+The expression `volby[,2]` will print parties in the alphabet order of names of candidates. You can
+extend it by `volby[,2]=="Piráti"`. This will return the series of `TRUE` and `FALSE` values in the same
+order. For example, first 16 candidates in alphabet were not Pirates, so first 16 values are `FALSE`. The
+candidate number 17 is Pirate, so output number 17 is `TRUE`. You can apply `sum` function on the output.
+This function counts `TRUE` as 1 and `FALSE` as 0.
 
+If you insert the previous expression `volby[,2]=="Piráti"` into the square brackets of `volby[]` you can
+select lines containing Pirates:
+```R
+volby[volby[,2]=="Piráti",]
+```
+The square brackets contain comma inside, because we select lines or columns. The expression `volby[,2]=="Piráti"`
+is in front of the comma because we select lines. Lines with `TRUE` as the output of `volby[,2]=="Piráti"` are
+printed, others are not printed.
+
+Let us look at numbers of votes in the column number 8. We can check the range by function `range`:
+```R
+range(volby[,8])
+```
+This shows that the least successfull candidate was not voted at all, the most successfull got 37794 votes.
+You can print all votes sorted by the function `sort`:
+```R
+sort(volby[,8])
+```
+To get the reverse order use option:
+```R
+sort(volby[,8], decreasing=TRUE)
+```
+You may be interested who scored the best and worst in elections. You can use function `order`. This function prints
+the index of the lowest value, the index of the second lowest value and so forth. The expression:
+```R
+volby[order(volby[,8]),]
+```
+will print the table sorted by the number of votes from the lowest to highest. You can revert the order by option
+`decreasing=T` in the order function.
+
+Finally, we are interested in number of votes for each party. This can be obtained manually, party by party as:
+```R
+sum(volby[volby[,2]=="Piráti",8])
+```
+and so forth for each party. As an alternative you can use function `aggregate`:
+```R
+aggregate(x=volby[,8], by=list(volby[,2]), FUN=sum)
+```
+The function `list` is used because votes can be aggregated by multiple factors. Insted of function `sum`
+you can use other functions, for example average age of each party can be printed by:
+```R
+aggregate(x=volby[,5], by=list(volby[,2]), FUN=mean)
+```
+You can plot numbers of votes as a pie chart or bar plot:
+```R
+vysledky<-aggregate(x=volby[,8], by=list(volby[, 2]), FUN=sum)
+pie(vysledky[,2], labels=vysledky[,1])
+barplot(vysledky[,2], names.arg=vysledky[,1])
+```
+
+### Tips
