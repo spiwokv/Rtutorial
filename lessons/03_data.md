@@ -147,4 +147,19 @@ pie(vysledky[,2], labels=vysledky[,1])
 barplot(vysledky[,2], names.arg=vysledky[,1])
 ```
 
-### Tips
+#### Tips and tricks
+
+There are specialized packages for data analysis such as "dplyr". It uses a special "pipe" operator (`%>%`).
+The output of the operation before the pipe is used as an input of the operation after the pipe. 
+Special functions `mutate`, `select`, `filter`, `summarise`, `arrange` and others are used in dplyr.
+You can replace the `aggregate` function from the previous example as:
+```R
+install.packages("dplyr")
+library(dplyr)
+ifile %>% group_by(strana) %>% summarise(abs=sum(abs))
+```
+
+There is a family of "apply" functions.
+
+
+
