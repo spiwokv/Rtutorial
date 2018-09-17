@@ -7,7 +7,7 @@ This tutorial does not replace a statistics course.
 ## Contents
 * [01_basic_commands.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/01_basic_commands.md)
 * [02_file_input_output.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/02_file_input_output.md)
-* 03_data.md (to do)
+* [03_data.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/03_data.md)
 * [04_ploting.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/04_ploting.md)
 * [05_random_numbers.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/05_random_numbers.md)
 * [06_univariate_descriptive_statistics.md](https://github.com/spiwokv/Rtutorial/blob/master/lessons/06_univariate_descriptive_statistics.md)
