@@ -11,7 +11,7 @@ The function calculates the mean and the standard deviation for the sample and f
 quantiles. Then it plots the values of the sample vs. quantiles. This plot should be linear. If not, 
 it means that the distribution is right or left skewed, bimodal or non-normal in some other way.
 
-QQ-plot is good for visual evaluation, but for a quantitative evaluatio it is usefull to use some
+QQ-plot is good for visual evaluation, but for a quantitative evaluation it is useful to use some
 test of normality. One of them is the test developed by Shapiro and Wilk. You can run it by:
 ```R
 x<-rnorm(20)
