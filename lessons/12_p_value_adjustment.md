@@ -12,4 +12,8 @@ mujmodel<-aov(all~labels, data=df)
 mujmodel
 summary(mujmodel)
 ```
-This shows that there is a difference between the means. On the other 
+This shows that there is a difference between the means. Next we want to know which samples are statistically
+significantly lower and higher. Again we cannot make a pairwise t-tests because of probability of rejection
+of the null hypothesis by chance.
+
+
