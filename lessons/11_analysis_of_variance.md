@@ -55,9 +55,9 @@ df<-data.frame(ident, all)
 ```
 We will make a model by the function analysis of variance and we will obtain all results by summary of the model:
 ```R
-mujmodel<-aov(all~labels, data=df)
-mujmodel
-summary(mujmodel)
+mymodel<-aov(all~labels, data=df)
+mymodel
+summary(mymodel)
 ```
 We can reject the null hypothesis on the basis of the p-value. The same result can be obtained by:
 ```R
