@@ -3,34 +3,19 @@
 In R you can use function `lm` to build a linear model. It can fit a dependent variable by one
 or multiple independent variables. Independent variables can quantitative, categorial or both.
 ```R
+x<-1:10
+y<-2:11+rnorm(10, sd=0.5)
 linfit <- lm(y~x)
 linfit
 ```
+This will show that "y" grows with "x". However, if you fit two noisy variables you will always
+obtain a result that "y" grows or descends with "x", there almost no chace to get zero slope
+even if the two variables are independent. The question is whether the non-zero slope is statistically
+significant. This you can learn by function `summary`:
+```R
+summary(linfit)
+```
 
-Call:
-lm(formula = y ~ x)
-
-Coefficients:
-(Intercept)            x
-     0.7981       1.0100
-
-> summary(linfit)
-
-Call:
-lm(formula = y ~ x)
-
-Residuals:
-    Min      1Q  Median      3Q     Max
--0.9889 -0.2403  0.0805  0.2195  0.9017
-
-Coefficients:
-            Estimate Std. Error t value Pr(>|t|)
-(Intercept)  0.79811    0.41797   1.909   0.0926 .
-x            1.00998    0.06736  14.993 3.87e-07 ***
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-\end{verbatim}\end{small}
 Tím proložíme data modelem $f(x) = \alpha + \beta x$. Koeficient $\beta$ je ve výsledku označen \texttt{x} a~má hodnotu 1,00998.
 Koeficient $\alpha$ je označen jako \texttt{Intercept} (zbytek na ose $y$) a má hodnotu 0,79811. K~oběma veličinám je
 možné nalézt střední chyby (\texttt{Std. Error}). Někomu může připadat poněkud zvláštní zápis \texttt{y$\sim$x}.
