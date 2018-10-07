@@ -62,7 +62,7 @@ We can reject the null hypothesis on the basis of the p-value. The same result c
 anova(lm(all~labels, data=df))
 ```
 
-Data for ANOVA must follow normal distribution and there must be same variances of samples. For other than normal
+Data for ANOVA must follow normal distribution and there must be homogenous variances of samples. For other than normal
 ditribution try data transformation or Kruskal-Walis test (bellow). For different variances try transformation.
 
 ## Tips and Tricks
