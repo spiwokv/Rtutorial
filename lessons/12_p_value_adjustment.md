@@ -20,3 +20,6 @@ TukeyHSD(mymodel)
 plot(TukeyHSD(mymodel))
 ```
 
+
+
+
