@@ -54,3 +54,8 @@ You can also make a plot:
 ```R
 plot(mydata.dunnett)
 ```
+
+* in biological sciences it is popular to use barplots and other similar plots with star symbols
+indicating the significance of a test, often with a horizontal lines that connect tested samples.
+In R you can generate such plots by the package "ggplot2" with "ggsignif" and "ggpubr". 
+
