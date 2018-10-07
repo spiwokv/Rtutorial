@@ -39,7 +39,5 @@ t.test(x,y)
 
 ## Tips and tricks
 
-* TESTING ON MANY SAMPLES
-
 * non-parametric variant of analysis of variance will be shown later.
 
