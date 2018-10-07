@@ -5,10 +5,10 @@ x<-rnorm(10, mean=20, sd=2)
 sem<-sd(x)/sqrt(length(x))
 mean(x)+sem*qt(p=c(0.025,0.975), df=(length(x)-1))
 ```
-The funcion `qt(p=c(0.025,0.975), df=(length(x)-1))` returns quantile of t-distribution for p=0.025 and 0.975, i.e. for 95 %
+The function `qt(p=c(0.025,0.975), df=(length(x)-1))` returns quantile of t-distribution for p=0.025 and 0.975, i.e. for 95 %
 probability. For 90 % use `p=c(0.05,0.95)`, for 99 % use `p=c(0.005,0.995)` etc.
 
-If you generate 100 random samples (each with 10 items) with mean set to 20 and standart deviation set to 2, you shold
+If you generate 100 random samples (each with 10 items) with mean set to 20 and standard deviation set to 2, you should
 expect that 95 samples will contain 20 in the confidence interval and 5 will not. Let's try:
 ```R
 good<-0
@@ -25,7 +25,7 @@ good
 I obtained 97, close to expected 95.
 
 #### Tips and tricks
-* confidence inteval can be obtained more easily by `t.test` as will be shown later:
+* confidence interval can be obtained more easily by `t.test` as will be shown later:
 ```R
 x<-rnorm(10, mean=20, sd=2)
 t.test(x)$conf.int
