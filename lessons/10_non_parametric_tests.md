@@ -1,4 +1,4 @@
-# Nonparametric tests
+# Non-parametric tests
 
 Up to now we considered normal distribution of a variable. Here we will show how we can test whether
 the variable follows the normal distribution and what can we do if data do not follow normal distribution.
