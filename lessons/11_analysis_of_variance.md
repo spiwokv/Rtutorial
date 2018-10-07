@@ -47,14 +47,19 @@ If the `FE` is higher than `qf` we can reject the null hypothesis (i.e. that mea
 
 In an automated way we can make use of a data frame:
 ```R
-ident<-rep(c("control", "drug", "placebo"), each=10)
+labels<-rep(c("control", "drug", "placebo"), each=10)
 all<-c(control, drug, placebo)
 df<-data.frame(ident, all)
 ```
 We will make a model by the function analysis of variance and we will obtain all results by summary of the model:
 ```R
-mujmodel<-aov(vsechno ̃labels)
+mujmodel<-aov(all~labels, data=df)
 mujmodel
 summary(mujmodel)
 ```
+The same result can be obtained by:
+```R
+anova(lm(all~labels, data=df))
+```
+
 
