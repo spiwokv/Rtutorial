@@ -1,11 +1,12 @@
-### Ploting in R
-The basic ploting function in R is `plot`:
+### Plotting in R
+
+The basic plotting function in R is `plot`:
 ```R
 x<-1:1000/100
 y<-sin(x)
 plot(x,y)
 ```
-You can swich between points (default), lines (`type="l"`), both, histogram-like, steps, none and others:
+You can switch between points (default), lines (`type="l"`), both, histogram-like, steps, none and others:
 ```R
 plot( x, y, type="l")
 ```
@@ -22,13 +23,13 @@ The function `plot` has many additional parameters:
 plot( x, y, main="parametr main", sub="mysub",
      xlab="myxlab", ylab="myylab", asp=1)
 ```
-You can change colours of point and lines, shapes of points etc.:
+You can change colors of point and lines, shapes of points etc.:
 ```R
 x<-1:10
 plot(x, sin(x), pch=21, col="red", bg="blue", cex=2, lwd=2)
 lines(x, sin(x), col="green", lwd=4)
 ```
-Range of the horizontal and vertical axis can be controled by `xlim` and `ylim`:
+Range of the horizontal and vertical axis can be controlled by `xlim` and `ylim`:
 ```R
 plot(1:10, xlim=c(0,100), ylim=c(-20,20)))
 ```
@@ -60,7 +61,7 @@ Barplots can be drawn using function barplot:
 ```R
 barplot(c(10.1,8.1,9.5,8.3), names.arg=c(10.1,8.1,9.5,8.3))
 ```
-Histograms can be ploted by `hist` with breaks controlable by `breaks` parameter:
+Histograms can be plotted by `hist` with breaks controllable by `breaks` parameter:
 ```R
 hist(faithful$waiting, breaks=20)
 ```
@@ -84,7 +85,8 @@ Nice 3D plots can be made by the `wireframe` function from the `lattice` library
 library(lattice)
 wireframe(gauss, shade=TRUE,light.source = c(10,0,10))
 ```
-Appearence of plots can be odified by `par` function invoked before the funcion `plot` or other plotting functions. As an example we can show plotting of four plots on one canvas:
+The shape of plots can be modified by `par` function invoked before the function `plot` or
+other plotting functions. As an example we can show plotting of four plots on one canvas:
 ```R
 par(mfrow=c(2,2))
 x<-1:100/10
@@ -116,9 +118,11 @@ x<-0:10/10
 rgb(1,1,x)
 barplot(x, col=rgb(1,1,x))
 ```
-Attractive palets such as `rainbow`, `heat.colors`, `terrain.colors`, `topo.colors` and `cm.colors`.
+You can try attractive palettes such as `rainbow`, `heat.colors`, `terrain.colors`, `topo.colors` and `cm.colors`.
 
-Plots can be saved in many bitmap and vector graphical formats by functions `png`, `jpeg`, `pdf`, `svg` or `ps`. After invoking this function with file name as the argument no plot is shown. Instead it is saved to file. This property can be stoped by function `dev.off()`:
+Plots can be saved in many bitmap and vector graphical formats by functions `png`, `jpeg`, `pdf`, `svg` or `ps`.
+After invoking this function with file name as the argument no plot is shown. Instead it is saved to file. This
+property can be stopped by function `dev.off()`:
 ```R
 png("plot.png")
 barplot(1:6)
@@ -126,7 +130,8 @@ dev.off()
 ```
 The plot is saved into working directory (see funcitons `getwd` and `setwd`).
 
-R together with its packages makes it possible to plot graphs (in the sense of graph theory), heatmaps, word clouds, geographical maps and other special plot types.
+R together with its packages makes it possible to plot graphs (in the sense of graph theory), heatmaps,
+word clouds, geographical maps and other special plot types.
 
 #### Tips and tricks
 * i often use function rainbow without the violet color:
@@ -136,11 +141,11 @@ barplot(1:20, col=rainbow(27)[1:20])
 
 * high-resolution bitmap plots can be made in vector format and then converted to bitmap using your favorit graphical software
 
-* alternatively, it is possible to use functions for bitmap plotting (e.g. png) with following modification:
+* alternatively, it is possible to use functions for bitmap plotting (e.g. `png`) with following modification:
 ```R
 x<-0:100
 y<-0:100
-png("plot.png", width=960, height=960, pointsize=24)
+png("plot.png", height=8, width=8, units='cm', res=600, pointsize=6)
 gauss<-exp(-outer((x-50)**2/400,(y-50)**2/400,"+"))
 image(x, y, gauss, col=heat.colors(100), axes=F)
 contour(x, y, gauss, levels=0:10/10, add=TRUE, lwd=2, labcex=1.2)
@@ -149,7 +154,10 @@ axis(2, lwd=2)
 box(lwd=2)
 dev.off()
 ```
-This plots the plot in doubled size. In order to further increase the size it is possible to multiply `width`, `height` and `pointsize` in `png`. However, it keeps the same widths of lines and other parameters. To fix this, avoid plotting axes by function `image` (`axes=F`) and instead plot wide axes and box separately. It can be easily modified for other plotting functions.
+This plots the plot in doubled size. In order to further increase the size it is possible to multiply
+`width`, `height` and `pointsize` in `png`. However, it keeps the same widths of lines and other parameters.
+To fix this, avoid plotting axes by function `image` (`axes=F`) and instead plot wide axes and box separately.
+It can be easily modified for other plotting functions.
 
 * to make a movie, use the output file name with regular expression and a loop:
 ```R
@@ -163,4 +171,8 @@ for(i in 25:75) {
 }
 dev.off()
 ```
+
 You can then use some video software (e.g. mencoder from Mplayer) to make a movie.
+
+* a nice and popular plotting library from the "tidyverse" family is "ggplot2".
+
