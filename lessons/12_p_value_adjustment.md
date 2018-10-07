@@ -22,10 +22,11 @@ plot(TukeyHSD(mymodel))
 
 Alternatively it is possible to do a pairwise t-test and adjust p-values by `pairwise.t.test`:
 ```R
-pairwise.t.test(all, labels, p.adjust.method="none", pool.sd=F)
+pairwise.t.test(all, labels, p.adjust.method="none")
 ```
 The option `p.adjust.method` can be "none" (no adjustment), "bonferroni" (Bonferroni correction),
-"holm" (Holm and Bonferroni) and "BH" or "fdr" (Benjamini and Hochberg).
+"holm" (Holm and Bonferroni) and "BH" or "fdr" (Benjamini and Hochberg). There is also an option
+`pool.sd` defining whether variances are homogeneous.
 
 ## Tips and Tricks
 
