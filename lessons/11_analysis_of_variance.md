@@ -79,3 +79,4 @@ to Shapiro and Wilk test.
 kruskal.test(all~labels, data=df)
 ```
 
+* two-way ANOVA will be introduced together with linear models.
