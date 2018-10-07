@@ -20,6 +20,36 @@ TukeyHSD(mymodel)
 plot(TukeyHSD(mymodel))
 ```
 
+Alternatively it is possible to do a pairwise t-test and adjust p-values by `pairwise.t.test`:
+```R
+pairwise.t.test(all, labels, p.adjust.method="none", pool.sd=F)
+```
+The option `p.adjust.method` can be "none" (no adjustment), "bonferroni" (Bonferroni correction),
+"holm" (Holm and Bonferroni) and "BH" or "fdr" (Benjamini and Hochberg).
 
+## Tips and Tricks
 
-
+* in biological sciences we often compare every sample with a single control. For this it is useful
+to use Dunnett test. It requires package `multicomp`:
+```R
+require(multcomp)
+mydata <- data.frame(labels, all)
+```
+We must define that the first sample is the control:
+```R
+mydata$labels <- relevel(mydata$labels, ref=1)
+```
+Finally, we will do the Dunnett test:
+```R
+mydata.aov <- aov(vsechno  ̃ labels, data=mydata)
+mydata.dunnett <- glht(mydata.aov, linfct = mcp(labels="Dunnett"))
+summary(mydata.dunnett)
+```
+Confidence intervals can be calculated as:
+```R
+confint(mydata.dunnett)
+```
+You can also make a plot:
+```R
+plot(mydata.dunnett)
+```
