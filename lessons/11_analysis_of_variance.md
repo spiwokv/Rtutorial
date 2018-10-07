@@ -1,6 +1,8 @@
 ### Analysis of Variance
 
-Analysis of Variance (ANOVA) is an extension of t-test to more than two samples. First, let us show a "manual" version of ANOVA
+Analysis of Variance (ANOVA) is an extension of t-test to more than two samples. The null hypothesis is that all samples
+have the same mean. We simply cannot do a pairwise t-test because this increases probability of rejection of the null hypothesis
+simply by chance. First, let us show a "manual" version of ANOVA
 for three samples, one representing a biological parameter of patients who were administered a drug, one representing a control
 group and one representing patients administered a placebo:
 ```R
