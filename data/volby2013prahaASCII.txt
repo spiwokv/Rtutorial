@@ -1,0 +1,682 @@
+#https://volby.cz/pls/ps2013/ps111?xjazyk=CZ&xkraj=1&xstrana=0&xv=1&xt=1
+cislo;strana;porc;jmeno;vek;nav;pol;abs;rel;man;porman
+15;SPOZ;23;Abt Jaroslav;40;SPOZ;SPOZ;8;0,14;-;-
+1;CSSD;3;Adamek Frantisek Bc.;58;CSSD;CSSD;2492;3,01;*;4
+16;OBC_2011;10;Adamek Karel Ing.;61;OBC_2011;BEZPP;12;2,63;-;-
+16;OBC_2011;1;Adamek Ludvik;58;OBC_2011;OBC_2011;33;7,25;-;-
+16;OBC_2011;11;Adamek Lukas Bc.;28;OBC_2011;OBC_2011;12;2,63;-;-
+4;TOP 09;6;Adamova Marketa Ing.;29;TOP 09;TOP 09;3626;2,68;*;6
+21;KSCM;11;Ambroz Pavel;55;KSCM;KSCM;317;0,63;-;9
+15;SPOZ;16;Arbesova Sandra Ing.;30;SPOZ;SPOZ;28;0,51;-;-
+22;LEV 21;3;Babinec Bohdan MUDr. CSc.;69;LEV 21;LEV 21;43;11,43;-;-
+20;ANO 2011;1;Babis Andrej Ing.;59;ANO 2011;ANO 2011;18955;19,62;*;1
+5;HLVZHURU;35;Bakalar Robert Bc.;34;HLVZHURU;PSZ;17;0,65;-;-
+3;Pirati;20;Bakovsky Pavel;21;Pirati;Pirati;314;1,47;-;-
+1;CSSD;35;Balaban Milos PhDr. Ph.D.;51;CSSD;CSSD;1105;1,33;-;31
+23;SZ;33;Barta Jan;28;SZ;BEZPP;104;0,27;-;-
+24;KC;2;Barta Jan Ing. arch.;71;KC;KC;40;3,31;-;-
+10;SsCR;3;Bartonova Palkova Irena Mgr.;45;SsCR;BEZPP;31;4,20;-;-
+3;Pirati;1;Bartos Ivan PhDr. PhD;33;Pirati;Pirati;3772;17,68;-;-
+5;HLVZHURU;15;Bartova Petra Mgr.;49;HLVZHURU;SBB;49;1,89;-;-
+6;ODS;13;Bartovsky Tomas Mgr.;35;ODS;ODS;544;0,77;-;9
+11;KDU-CSL;32;Bartusek Jan Mgr.;49;KDU-CSL;KDU-CSL;122;0,38;-;31
+10;SsCR;16;Baubin Petr Ing.;48;SsCR;SsCR;7;0,94;-;-
+13;Suveren.;35;Bayerova Veronika;43;Suveren.;BEZPP;2;0,25;-;-
+12;PB;13;Becka Jan;35;PB;BEZPP;5;0,40;-;-
+9;Zmena;17;Bednar Jan;34;Zmena;HS;24;0,54;-;-
+2;Svobodni;3;Bednar Miloslav prof. PhDr. CSc.;65;Svobodni;Svobodni;1249;5,69;-;-
+15;SPOZ;13;Bejlovec Jiri Bc.;23;SPOZ;SPOZ;81;1,49;-;-
+13;Suveren.;18;Beladova Eva;52;Suveren.;BEZPP;8;1,00;-;-
+6;ODS;20;Bellu Alexander Bc.;26;ODS;ODS;703;0,99;-;16
+1;CSSD;9;Benak David Mgr. DiS.;34;CSSD;CSSD;2275;2,75;-;6
+24;KC;33;Bencok Michal;62;KC;BEZPP;28;2,32;-;-
+6;ODS;10;Benda Marek;44;ODS;ODS;5336;7,58;*;4
+20;ANO 2011;32;Bendova Jarmila Ing.;48;ANO 2011;ANO 2011;327;0,33;-;27
+17;Usvit;20;Benek Vitezslav;51;Usvit;BEZPP;58;0,30;-;19
+16;OBC_2011;4;Benes Frantisek;54;OBC_2011;OBC_2011;15;3,29;-;-
+21;KSCM;18;Benes Frantisek Ing. CSc.;69;KSCM;KSCM;738;1,47;-;16
+16;OBC_2011;8;Benesova Petra Ing.;29;OBC_2011;OBC_2011;24;5,27;-;-
+12;PB;2;Benysek Jiri;23;PB;BEZPP;36;2,93;-;-
+23;SZ;24;Benyskova Helena;32;SZ;SZ;181;0,47;-;-
+16;OBC_2011;3;Beranova Monika;51;OBC_2011;OBC_2011;20;4,39;-;-
+24;KC;31;Bernard Darius;47;KC;BEZPP;4;0,33;-;-
+22;LEV 21;1;Bernardova Tereza Bc.;31;LEV 21;LEV 21;18;4,78;-;-
+9;Zmena;12;Bicakova Vlasta;39;Zmena;KH;51;1,15;-;-
+15;SPOZ;9;Bilek Vitezslav;68;SPOZ;SPOZ;34;0,62;-;-
+13;Suveren.;4;Blasko Marek Ing.;37;Suveren.;BEZPP;27;3,38;-;-
+6;ODS;11;Blazek Frantisek;48;ODS;ODS;891;1,26;-;7
+20;ANO 2011;17;Bockova Romana Ing.;46;ANO 2011;ANO 2011;509;0,52;-;12
+24;KC;5;Bohdanecky Zdenek;36;KC;KC;15;1,24;-;-
+4;TOP 09;34;Bonhomme Hankeova Zuzana MUDr. MIB;54;TOP 09;TOP 09;1139;0,84;-;27
+22;LEV 21;13;Bouzek Petr Ing. MUDr.;52;LEV 21;LEV 21;5;1,32;-;-
+24;KC;23;Brabec Jiri;64;KC;BEZPP;4;0,33;-;-
+17;Usvit;3;Brandeisova Sona;70;Usvit;BEZPP;413;2,20;-;2
+24;KC;20;Brant Petr;63;KC;BEZPP;2;0,16;-;-
+15;SPOZ;8;Brettl Vojtech PhDr.;35;SPOZ;SPOZ;108;1,99;-;-
+21;KSCM;16;Briardova Helena PhDr.;66;KSCM;KSCM;350;0,70;-;14
+16;OBC_2011;6;Brichta Ales Ing.;54;OBC_2011;BEZPP;94;20,65;-;-
+5;HLVZHURU;24;Brotanek Tomas Bc.;35;HLVZHURU;BEZPP;11;0,42;-;-
+15;SPOZ;21;Brunner Jan;63;SPOZ;SPOZ;55;1,01;-;-
+11;KDU-CSL;12;Bruthans Jan MUDr. CSc., FESC;65;KDU-CSL;KDU-CSL;724;2,25;-;11
+24;KC;28;Brezina Karel;40;KC;BEZPP;9;0,74;-;-
+18;DSSS;3;Bubla Jiri Mgr.;41;DSSS;DSSS;53;2,14;-;-
+23;SZ;25;Budin Lukas Mgr.;34;SZ;SZ;263;0,69;-;-
+18;DSSS;2;Budz Ladislav;37;DSSS;DSSS;95;3,84;-;-
+24;KC;27;Bukacova Irena PhDr.;64;KC;BEZPP;19;1,57;-;-
+10;SsCR;21;Burger Daniel;36;SsCR;KONS;14;1,89;-;-
+11;KDU-CSL;25;Burgr Petr;60;KDU-CSL;KDU-CSL;245;0,76;-;24
+9;Zmena;9;Burian Jan Ing. Ph.D.;39;Zmena;BEZPP;91;2,06;-;-
+23;SZ;10;Cabrnochova Ivana Mgr.;39;SZ;SZ;1138;3,00;-;-
+12;PB;3;Cafourek Josef;65;PB;BEZPP;20;1,63;-;-
+4;TOP 09;30;Cagasova Jana Bc.;28;TOP 09;TOP 09;884;0,65;-;23
+5;HLVZHURU;3;Caldr Pavel;36;HLVZHURU;BEZPP;142;5,48;-;-
+12;PB;1;Cibulka Petr;62;PB;PB;159;12,97;-;-
+10;SsCR;28;Cihelka Josef;69;SsCR;SsCR;3;0,40;-;-
+2;Svobodni;13;Csirik Roman Ing.;42;Svobodni;Svobodni;50;0,22;-;-
+24;KC;13;Cadil Matej;27;KC;KC;14;1,16;-;-
+17;Usvit;24;Capek Jiri;36;Usvit;BEZPP;103;0,54;-;23
+6;ODS;3;Cernochova Jana Mgr.;40;ODS;ODS;8644;12,28;*;3
+12;PB;17;Cernota Miroslav;55;PB;BEZPP;1;0,08;-;-
+17;Usvit;6;Cervenka David Mgr.;31;Usvit;BEZPP;500;2,66;-;5
+20;ANO 2011;9;Cervickova Monika Ing.;46;ANO 2011;ANO 2011;1209;1,25;-;4
+13;Suveren.;15;Cila Ivan;61;Suveren.;Suveren.;4;0,50;-;-
+11;KDU-CSL;6;Cizinsky Jan Mgr.;35;KDU-CSL;KDU-CSL;5707;17,80;-;1
+21;KSCM;19;Cunatova Jana Ing.;68;KSCM;KSCM;428;0,85;-;17
+6;ODS;21;Damaska David Ing. arch. Ph.D.;43;ODS;ODS;976;1,38;-;17
+10;SsCR;33;Danda Miloslav;67;SsCR;BEZPP;4;0,54;-;-
+10;SsCR;25;Danda Tomas;61;SsCR;SsCR;13;1,76;-;-
+11;KDU-CSL;34;Daniel Josef;48;KDU-CSL;KDU-CSL;64;0,19;-;33
+3;Pirati;6;Derer Ivan Ing.;46;Pirati;BEZPP;416;1,95;-;-
+9;Zmena;3;Dienstbierova Jirina Ing.;58;Zmena;BEZPP;287;6,52;-;-
+22;LEV 21;4;Dimitrov Kosta Ing.;64;LEV 21;LEV 21;6;1,59;-;-
+4;TOP 09;20;Dlouhy Martin doc. Ing. Mgr. Dr., MSc;43;TOP 09;TOP 09;3187;2,35;-;13
+18;DSSS;30;Dobrichovsky Marek;24;DSSS;BEZPP;3;0,12;-;-
+2;Svobodni;25;Dohnal Tomas Ing.;30;Svobodni;Svobodni;62;0,28;-;-
+21;KSCM;2;Dolejs Jiri Ing.;52;KSCM;KSCM;8219;16,44;*;1
+23;SZ;23;Dolejsek Cestmir Bc.;30;SZ;SZ;596;1,57;-;-
+4;TOP 09;29;Dolezal Marek Ing.;43;TOP 09;TOP 09;347;0,25;-;22
+15;SPOZ;26;Doubetova Martina Mgr.;43;SPOZ;BEZPP;29;0,53;-;-
+2;Svobodni;29;Dousa Jaroslav;48;Svobodni;Svobodni;30;0,13;-;-
+12;PB;32;Drabek Pavel;53;PB;BEZPP;6;0,48;-;-
+11;KDU-CSL;16;Drapal Dan;64;KDU-CSL;KDU-CSL;1015;3,16;-;15
+6;ODS;16;Drazny Ivo JUDr.;49;ODS;ODS;678;0,96;-;12
+23;SZ;4;Drhova Zuzana Ing. Ph.D.;50;SZ;SZ;1712;4,51;-;-
+17;Usvit;11;Dudjak Ales Ing.;34;Usvit;BEZPP;118;0,62;-;10
+23;SZ;30;Duchackova Chotkova Pavla Mgr.;33;SZ;SZ;137;0,36;-;-
+12;PB;4;Durdil Miroslav;64;PB;BEZPP;39;3,18;-;-
+17;Usvit;18;Dusilova Ivana Ing.;48;Usvit;BEZPP;232;1,23;-;17
+22;LEV 21;25;Duskova Blanka MUDr.;59;LEV 21;BEZPP;4;1,06;-;-
+18;DSSS;33;Dvorska Eva;45;DSSS;BEZPP;16;0,64;-;-
+15;SPOZ;14;Dvorackova Monika Ing.;31;SPOZ;SPOZ;41;0,75;-;-
+22;LEV 21;14;Dvorak Ivan;57;LEV 21;LEV 21;12;3,19;-;-
+15;SPOZ;20;Dvorakova Iveta;45;SPOZ;SPOZ;22;0,40;-;-
+13;Suveren.;36;Dykast Frantisek;63;Suveren.;BEZPP;6;0,75;-;-
+2;Svobodni;21;Effenberger Jan;68;Svobodni;Svobodni;70;0,31;-;-
+10;SsCR;20;Eisenhauer Petr;38;SsCR;SsCR;24;3,25;-;-
+9;Zmena;11;Elexa Marek;40;Zmena;"Z";7;0,15;-;-
+3;Pirati;15;Esner Vladislav Tobias;31;Pirati;Pirati;59;0,27;-;-
+21;KSCM;22;Exnerova Suzana;69;KSCM;BEZPP;228;0,45;-;20
+17;Usvit;35;Fabian Vaclav;37;Usvit;BEZPP;27;0,14;-;34
+24;KC;18;Fait Lubos;56;KC;BEZPP;19;1,57;-;-
+9;Zmena;14;Feminova Dana;43;Zmena;HS;55;1,24;-;-
+11;KDU-CSL;23;Feranc Daniel Mgr. Ph.D.;33;KDU-CSL;KDU-CSL;352;1,09;-;22
+12;PB;29;Fiedler Ladislav;45;PB;BEZPP;1;0,08;-;-
+6;ODS;30;Fifka Petr PharmDr.;46;ODS;ODS;316;0,44;-;26
+20;ANO 2011;5;Fichtner Matej PhDr. Ing. MBA;29;ANO 2011;ANO 2011;2062;2,13;*;5
+5;HLVZHURU;31;Fikarova Jindriska RNDr.;69;HLVZHURU;BEZPP;72;2,77;-;-
+3;Pirati;13;Findeis Lukas;28;Pirati;Pirati;54;0,25;-;-
+9;Zmena;1;Fischerova Tatana;66;Zmena;KH;1349;30,65;-;-
+9;Zmena;29;Fisera Jan BcA.;28;Zmena;BEZPP;5;0,11;-;-
+10;SsCR;29;Fojtik Frantisek JUDr.;61;SsCR;SsCR;2;0,27;-;-
+12;PB;9;Foltis Karel Ing.;47;PB;BEZPP;7;0,57;-;-
+22;LEV 21;30;Formanek Josef Bc.;39;LEV 21;LEV 21;6;1,59;-;-
+15;SPOZ;15;Franek Miroslav Mgr.;50;SPOZ;SPOZ;46;0,84;-;-
+4;TOP 09;16;Frankenbergerova Helena Ing.;64;TOP 09;TOP 09;798;0,59;-;9
+21;KSCM;9;Frankova Marcela;51;KSCM;KSCM;621;1,24;-;7
+6;ODS;22;Frelich Martin Ing.;36;ODS;ODS;359;0,51;-;18
+12;PB;12;Fronek Roman;55;PB;BEZPP;4;0,32;-;-
+13;Suveren.;19;Fronkova Douskova Gabriela Mgr.;43;Suveren.;BEZPP;18;2,25;-;-
+24;KC;34;Funk Lukas Mgr. DiS.;31;KC;BEZPP;10;0,82;-;-
+6;ODS;15;Gabriel Jan Bc.;42;ODS;ODS;684;0,97;-;11
+17;Usvit;31;Glaser Bedrich;55;Usvit;BEZPP;58;0,30;-;30
+21;KSCM;10;Gottwald Josef;42;KSCM;KSCM;1042;2,08;-;8
+13;Suveren.;16;Grabowska Anna;54;Suveren.;BEZPP;17;2,13;-;-
+9;Zmena;13;Grebo Mladen Mgr.;33;Zmena;BEZPP;17;0,38;-;-
+24;KC;22;Gregor Radovan RNDr. CSc.;64;KC;BEZPP;4;0,33;-;-
+6;ODS;6;Gros Ondrej;38;ODS;ODS;934;1,32;-;3
+17;Usvit;7;Groszek Andrzej-Antoni;57;Usvit;BEZPP;42;0,22;-;6
+18;DSSS;5;Gunther Petr;47;DSSS;DSSS;40;1,61;-;-
+21;KSCM;3;Guslbauerova Dagmar;60;KSCM;KSCM;1099;2,19;-;1
+6;ODS;14;Habart Michal Ing.;48;ODS;ODS;677;0,96;-;10
+20;ANO 2011;7;Hackl Alan Ing.;52;ANO 2011;ANO 2011;546;0,56;-;2
+22;LEV 21;29;Hadrava Jiri;69;LEV 21;LEV 21;2;0,53;-;-
+9;Zmena;35;Hainzova Barbora MrA.;27;Zmena;BEZPP;8;0,18;-;-
+18;DSSS;32;Hajek Zbynek;34;DSSS;BEZPP;15;0,60;-;-
+4;TOP 09;11;Hajkova Pavlina Mgr.;52;TOP 09;TOP 09;1344;0,99;-;4
+1;CSSD;30;Halova Hana Mgr.;60;CSSD;CSSD;985;1,19;-;26
+18;DSSS;29;Hanus Michal;21;DSSS;BEZPP;9;0,36;-;-
+1;CSSD;33;Hanus Miloslav;52;CSSD;CSSD;401;0,48;-;29
+2;Svobodni;16;Hanzak Tomas Mgr.;30;Svobodni;Svobodni;117;0,53;-;-
+6;ODS;4;Hanzlik Karel Mgr.;47;ODS;ODS;3009;4,27;-;2
+22;LEV 21;16;Harvanek Petr;64;LEV 21;LEV 21;1;0,26;-;-
+2;Svobodni;19;Haurythun Hana Mgr. Bc.;32;Svobodni;Svobodni;109;0,49;-;-
+5;HLVZHURU;30;Haurythun Petr;36;HLVZHURU;UNP;35;1,35;-;-
+12;PB;30;Hauserova Eva;28;PB;BEZPP;5;0,40;-;-
+15;SPOZ;17;Havlicek Vlastimil Mgr.;41;SPOZ;SPOZ;36;0,66;-;-
+18;DSSS;25;Heidl Tomas;45;DSSS;BEZPP;11;0,44;-;-
+2;Svobodni;6;Hejdova Alice;40;Svobodni;Svobodni;376;1,71;-;-
+1;CSSD;26;Hejkrlik Milan Ing.;35;CSSD;CSSD;834;1,00;-;22
+12;PB;7;Hejl Petr Ing. CSc.;59;PB;BEZPP;15;1,22;-;-
+10;SsCR;1;Hemer Ales Mgr.;46;SsCR;SsCR;70;9,48;-;-
+24;KC;9;Henn Ivan Mgr. Bc.;59;KC;BEZPP;8;0,66;-;-
+9;Zmena;27;Hepnar Petr;42;Zmena;BEZPP;46;1,04;-;-
+11;KDU-CSL;1;Herman Daniel Mgr.;50;KDU-CSL;KDU-CSL;6305;19,67;*;1
+9;Zmena;20;Hertusova Simona;39;Zmena;HS;37;0,84;-;-
+23;SZ;11;Himl Pavel Dr. phil.;42;SZ;SZ;790;2,08;-;-
+18;DSSS;27;Hlavackova Jaroslava;68;DSSS;BEZPP;8;0,32;-;-
+11;KDU-CSL;29;Hlavacova Martina Ing.;32;KDU-CSL;BEZPP;355;1,10;-;28
+13;Suveren.;28;Hlotak Valdemar Ing. CSc.;71;Suveren.;BEZPP;6;0,75;-;-
+10;SsCR;7;Hnat Vaclav;67;SsCR;SsCR;8;1,08;-;-
+13;Suveren.;22;Hodek Jindrich;36;Suveren.;BEZPP;5;0,62;-;-
+1;CSSD;36;Hodek Pavel Mgr. Bc.;39;CSSD;CSSD;320;0,38;-;32
+24;KC;35;Hodik Jaroslav;68;KC;BEZPP;5;0,41;-;-
+21;KSCM;15;Hoffman Frantisek JUDr.;62;KSCM;KSCM;663;1,32;-;13
+20;ANO 2011;4;Holecek Jiri Bc.;41;ANO 2011;ANO 2011;2099;2,17;*;4
+13;Suveren.;31;Holeckova Sarka;23;Suveren.;BEZPP;5;0,62;-;-
+18;DSSS;28;Holik Petr;42;DSSS;BEZPP;14;0,56;-;-
+3;Pirati;17;Holovsky Sebastian;28;Pirati;Pirati;161;0,75;-;-
+2;Svobodni;35;Holubova Alice;28;Svobodni;Svobodni;69;0,31;-;-
+17;Usvit;32;Hora Jan;29;Usvit;BEZPP;95;0,50;-;31
+21;KSCM;8;Horak Jiri PhDr. CSc.;60;KSCM;KSCM;506;1,01;-;6
+22;LEV 21;2;Horak Karel JUDr. Mgr.;46;LEV 21;LEV 21;17;4,52;-;-
+21;KSCM;32;Hosek Karel RSDr.;68;KSCM;KSCM;68;0,13;-;30
+11;KDU-CSL;5;Hosek Marian MUDr.;62;KDU-CSL;KDU-CSL;2420;7,55;-;3
+24;KC;25;Hostalek Stanislav PhDr.;66;KC;BEZPP;5;0,41;-;-
+23;SZ;17;Hrabal Ladislav Ing. CSc.;75;SZ;BEZPP;184;0,48;-;-
+10;SsCR;23;Hradek Ladislav;56;SsCR;BEZPP;11;1,49;-;-
+20;ANO 2011;22;Hrdlickova Radka Bc.;35;ANO 2011;ANO 2011;437;0,45;-;17
+23;SZ;9;Hromada Jiri MgA.;55;SZ;BEZPP;1513;3,99;-;-
+21;KSCM;36;Hronova Alena Mgr.;62;KSCM;KSCM;121;0,24;-;34
+9;Zmena;15;Hrusinsky Martin;28;Zmena;HS;78;1,77;-;-
+21;KSCM;6;Hruza Ivan JUDr.;59;KSCM;KSCM;1511;3,02;-;4
+21;KSCM;20;Hudecek Jiri prof. RNDr. CSc.;59;KSCM;SDS;934;1,86;-;18
+11;KDU-CSL;36;Hulicius Eduard Mgr. MA;32;KDU-CSL;KDU-CSL;699;2,18;-;35
+23;SZ;8;Hulova Petra Ph.D.;34;SZ;SZ;2648;6,98;-;-
+21;KSCM;24;Chaloupka Vladimir;55;KSCM;KSCM;169;0,33;-;22
+4;TOP 09;9;Chlupacova Zuzana JUDr.;58;TOP 09;STAN;3590;2,65;-;2
+13;Suveren.;7;Chovancova Marta JUDr. LL.M.;55;Suveren.;BEZPP;31;3,88;-;-
+22;LEV 21;27;Chrpa Pavel;55;LEV 21;LEV 21;2;0,53;-;-
+17;Usvit;25;Chudy Stanislav Ing.;74;Usvit;BEZPP;44;0,23;-;24
+5;HLVZHURU;8;Jakubuv Michaela;37;HLVZHURU;SBB;82;3,16;-;-
+15;SPOZ;11;Janda Jiri;54;SPOZ;SPOZ;23;0,42;-;-
+2;Svobodni;33;Janda Karel Ing.;33;Svobodni;Svobodni;39;0,17;-;-
+6;ODS;7;Janderova Jaroslava JUDr.;63;ODS;ODS;1468;2,08;-;4
+5;HLVZHURU;5;Janecek Jiri;39;HLVZHURU;BEZPP;78;3,01;-;-
+15;SPOZ;4;Jankova Vlasta MUDr.;62;SPOZ;SPOZ;271;4,99;-;-
+20;ANO 2011;23;Jankovsky Milan Ing.;27;ANO 2011;ANO 2011;245;0,25;-;18
+6;ODS;35;Janku Jiri Ing.;46;ODS;ODS;983;1,39;-;31
+21;KSCM;31;Janouch Roman Mgr.;40;KSCM;KSCM;517;1,03;-;29
+6;ODS;34;Jarolim Jan Ing.;67;ODS;ODS;844;1,19;-;30
+23;SZ;2;Jechova Katerina Mgr.;51;SZ;SZ;2174;5,73;-;-
+20;ANO 2011;15;Jetmar Petr;58;ANO 2011;ANO 2011;201;0,20;-;10
+17;Usvit;34;Jezkova Jitka;33;Usvit;BEZPP;143;0,76;-;33
+18;DSSS;19;Jiranek Frantisek;43;DSSS;DSSS;16;0,64;-;-
+6;ODS;33;Jiraskova Marketa MUDr.;64;ODS;ODS;1001;1,42;-;29
+11;KDU-CSL;17;Jirsak Tomas Mgr.;41;KDU-CSL;KDU-CSL;357;1,11;-;16
+22;LEV 21;34;Jirsakova Jarmila;60;LEV 21;LEV 21;3;0,79;-;-
+4;TOP 09;23;Jirik Michal;43;TOP 09;TOP 09;159;0,11;-;16
+10;SsCR;26;Juna Josef;32;SsCR;SsCR;20;2,71;-;-
+5;HLVZHURU;33;Kabickova Jana;53;HLVZHURU;UNP;26;1,00;-;-
+13;Suveren.;27;Kabickova Zuzana;35;Suveren.;BEZPP;12;1,50;-;-
+11;KDU-CSL;20;Kajpr Daniel;44;KDU-CSL;KDU-CSL;226;0,70;-;19
+3;Pirati;8;Kallasch Ondrej;22;Pirati;Pirati;257;1,20;-;-
+16;OBC_2011;2;Kalouskova Sorfova Alzbeta Mgr.;45;OBC_2011;BEZPP;27;5,93;-;-
+13;Suveren.;33;Karlovsky Jindrich Ing.;59;Suveren.;BEZPP;5;0,62;-;-
+24;KC;8;Kartakova Daniela;48;KC;BEZPP;18;1,49;-;-
+5;HLVZHURU;20;Kasal Karel;63;HLVZHURU;BEZPP;17;0,65;-;-
+15;SPOZ;36;Kasik Jiri MUDr. Ph.D.;57;SPOZ;BEZPP;174;3,20;-;-
+9;Zmena;31;Kastel Miroslav;58;Zmena;BEZPP;20;0,45;-;-
+12;PB;36;Kasparova Barbora;22;PB;BEZPP;13;1,06;-;-
+24;KC;32;Kassovicova Zuzana Mgr.;55;KC;BEZPP;9;0,74;-;-
+22;LEV 21;18;Kavale Jiri JUDr.;66;LEV 21;LEV 21;6;1,59;-;-
+23;SZ;28;Kavkova Eva Mgr.;37;SZ;SZ;573;1,51;-;-
+2;Svobodni;36;Kefurt Robert;50;Svobodni;Svobodni;42;0,19;-;-
+10;SsCR;9;Kesl Karel;58;SsCR;BEZPP;11;1,49;-;-
+3;Pirati;19;Kheck Patrick Mgr.;32;Pirati;BEZPP;89;0,41;-;-
+5;HLVZHURU;12;Kindler Krystof;35;HLVZHURU;PaS;95;3,66;-;-
+13;Suveren.;10;Kinkal Ludek DiS.;51;Suveren.;BEZPP;4;0,50;-;-
+17;Usvit;29;Klaus Vaclav;57;Usvit;BEZPP;283;1,50;-;28
+9;Zmena;30;Kleinova Brzakova Pavlina Mgr. PhD.;41;Zmena;BEZPP;109;2,47;-;-
+1;CSSD;5;Klima Karel Ing.;37;CSSD;CSSD;2478;2,99;-;2
+15;SPOZ;31;Klimtova Vitezslava;72;SPOZ;BEZPP;33;0,60;-;-
+11;KDU-CSL;35;Klouda Jan Ing.;43;KDU-CSL;KDU-CSL;135;0,42;-;34
+5;HLVZHURU;4;Kloudova Gabriela Ing.;31;HLVZHURU;BEZPP;128;4,94;-;-
+13;Suveren.;3;Klusacek Michal Ing.;34;Suveren.;CSNS;27;3,38;-;-
+13;Suveren.;17;Kobes Jan Ing.;50;Suveren.;BEZPP;3;0,37;-;-
+6;ODS;32;Kodetova Sona;68;ODS;ODS;1158;1,64;-;28
+6;ODS;5;Kohoutova Lenka Bc.;45;ODS;ODS;3791;5,38;-;1
+21;KSCM;35;Kokoska Petr JUDr.;58;KSCM;BEZPP;227;0,45;-;33
+24;KC;6;Kolar Milan;57;KC;KC;6;0,49;-;-
+23;SZ;6;Kolinska Petra Mgr.;38;SZ;SZ;3041;8,02;-;-
+23;SZ;34;Kolmanova Dagmar;54;SZ;SZ;76;0,20;-;-
+10;SsCR;35;Kolmasova Renata;35;SsCR;BEZPP;2;0,27;-;-
+13;Suveren.;20;Kolomy Ludek;60;Suveren.;BEZPP;1;0,12;-;-
+15;SPOZ;34;Konecna Nadezda;50;SPOZ;SPOZ;10;0,18;-;-
+4;TOP 09;14;Korba Karel Ing.;45;TOP 09;TOP 09;1127;0,83;-;7
+4;TOP 09;3;Korte Daniel PhDr.;60;TOP 09;TOP 09;4620;3,41;*;3
+18;DSSS;31;Korinkova Sarka;42;DSSS;BEZPP;9;0,36;-;-
+20;ANO 2011;26;Kos Ladislav Ing.;55;ANO 2011;HPP 11;611;0,63;-;21
+6;ODS;9;Kos Vojtech Ing. MBA;41;ODS;ODS;1320;1,87;-;6
+1;CSSD;12;Koskuba Jiri MUDr.;57;CSSD;CSSD;4772;5,77;*;2
+9;Zmena;8;Kostlanova Roubalova Vera Ing.;65;Zmena;BEZPP;83;1,88;-;-
+6;ODS;26;Kosan Petr Ing.;32;ODS;ODS;776;1,10;-;22
+24;KC;4;Kosova Katerina;33;KC;BEZPP;33;2,73;-;-
+21;KSCM;23;Kotek Tomas;40;KSCM;KSCM;895;1,79;-;21
+15;SPOZ;29;Kotoucova Michaela DiS.;35;SPOZ;SPOZ;21;0,38;-;-
+23;SZ;12;Kotvova Iva Mgr.;54;SZ;SZ;411;1,08;-;-
+2;Svobodni;24;Kouba Jachym;26;Svobodni;Svobodni;77;0,35;-;-
+4;TOP 09;7;Koubek Jiri Mgr.;37;TOP 09;TOP 09;1838;1,36;*;7
+6;ODS;25;Kousalikova Marie Ing.;67;ODS;ODS;2203;3,13;-;21
+17;Usvit;23;Koutny Daniel;31;Usvit;BEZPP;91;0,48;-;22
+21;KSCM;4;Krajca Milan;30;KSCM;KSCM;1436;2,87;-;2
+11;KDU-CSL;26;Kral Jiri Mgr.;40;KDU-CSL;KDU-CSL;118;0,36;-;25
+13;Suveren.;12;Kramny Miloslav MUDr.;55;Suveren.;BEZPP;16;2,00;-;-
+2;Svobodni;12;Krasa Tomas Ing.;42;Svobodni;Svobodni;194;0,88;-;-
+24;KC;3;Kratky Petr Mgr. Bc. BBS;38;KC;KC;43;3,56;-;-
+5;HLVZHURU;7;Kratochvilova Nadezda JUDr.;49;HLVZHURU;UNP;46;1,77;-;-
+23;SZ;14;Kratochvilova Silvie Mgr.;35;SZ;SZ;245;0,64;-;-
+3;Pirati;9;Krausova Michaela;21;Pirati;Pirati;524;2,45;-;-
+5;HLVZHURU;22;Krausova Natalia Bc.;41;HLVZHURU;BEZPP;14;0,54;-;-
+24;KC;30;Krcek Jan;71;KC;KC;9;0,74;-;-
+17;Usvit;14;Krcek Milan Ing.;50;Usvit;BEZPP;236;1,25;-;13
+1;CSSD;22;Krejcova Drahoslava;51;CSSD;CSSD;364;0,44;-;18
+12;PB;14;Krejcu Jiri;45;PB;BEZPP;16;1,30;-;-
+4;TOP 09;32;Krobova Hasova Monika JUDr.;50;TOP 09;TOP 09;1212;0,89;-;25
+15;SPOZ;5;Kroh Michael doc. Ing. CSc.;65;SPOZ;SPOZ;172;3,16;-;-
+17;Usvit;4;Kruta Jan;67;Usvit;BEZPP;506;2,69;-;3
+18;DSSS;15;Krivanek Karel;49;DSSS;DSSS;28;1,13;-;-
+5;HLVZHURU;34;Krivankova Klisakova Dana;37;HLVZHURU;UNP;22;0,84;-;-
+24;KC;36;Kubecka Ivo;68;KC;BEZPP;5;0,41;-;-
+2;Svobodni;4;Kubicek Jiri Ing.;33;Svobodni;Svobodni;812;3,70;-;-
+10;SsCR;18;Kucera Robert;44;SsCR;SsCR;25;3,38;-;-
+11;KDU-CSL;31;Kucharova Ludmila Mgr.;53;KDU-CSL;KDU-CSL;129;0,40;-;30
+11;KDU-CSL;27;Kuchtova Perla Ing. Ph.D.;54;KDU-CSL;KDU-CSL;229;0,71;-;26
+5;HLVZHURU;17;Kus Daniel Ing.;41;HLVZHURU;UNP;15;0,57;-;-
+12;PB;5;Kutina Frantisek;56;PB;BEZPP;9;0,73;-;-
+21;KSCM;30;Kvapil Jaroslav Bc. DiS.;35;KSCM;KSCM;432;0,86;-;28
+20;ANO 2011;6;Kvicala Petr Mgr.;38;ANO 2011;ANO 2011;1181;1,22;-;1
+2;Svobodni;15;Kykalova Ramesova Katerina;48;Svobodni;Svobodni;146;0,66;-;-
+12;PB;19;Kypry Daniel;27;PB;BEZPP;5;0,40;-;-
+21;KSCM;27;Kysely Vit Ing.;50;KSCM;BEZPP;191;0,38;-;25
+9;Zmena;18;Labusova Jana;25;Zmena;BEZPP;24;0,54;-;-
+9;Zmena;16;Labusova Marketa Bc.;30;Zmena;BEZPP;37;0,84;-;-
+20;ANO 2011;13;Lacko Radek Ing.;45;ANO 2011;ANO 2011;995;1,03;-;8
+20;ANO 2011;35;Landa Martin;29;ANO 2011;ANO 2011;259;0,26;-;30
+4;TOP 09;15;Lapacek Jakub Mgr.;32;TOP 09;TOP 09;1224;0,90;-;8
+4;TOP 09;5;Laudat Frantisek Ing.;53;TOP 09;TOP 09;2867;2,12;*;5
+22;LEV 21;31;Lavickova Iva;22;LEV 21;BEZPP;3;0,79;-;-
+21;KSCM;7;Ledl Lubomir JUDr.;61;KSCM;SDS;862;1,72;-;5
+11;KDU-CSL;18;Ledvinova Jarmila;40;KDU-CSL;KDU-CSL;115;0,35;-;17
+15;SPOZ;6;Legierska Yvona Ing.;57;SPOZ;BEZPP;129;2,37;-;-
+9;Zmena;32;Lejtnar Vladimir;33;Zmena;BEZPP;22;0,49;-;-
+22;LEV 21;8;Lesek Pavel Ing.;62;LEV 21;LEV 21;3;0,79;-;-
+5;HLVZHURU;32;Lhotak Radim Mgr.;60;HLVZHURU;BEZPP;32;1,23;-;-
+24;KC;7;Lieberzeit Michal BcA.;29;KC;KC;33;2,73;-;-
+2;Svobodni;23;Liegert Filip Ing.;34;Svobodni;Svobodni;81;0,36;-;-
+10;SsCR;13;Linek Ladislav Ing.;54;SsCR;SsCR;10;1,35;-;-
+17;Usvit;8;Liska Milan;57;Usvit;BEZPP;186;0,99;-;7
+23;SZ;1;Liska Ondrej Mgr.;36;SZ;SZ;10590;27,95;-;-
+21;KSCM;33;Lojda Frantisek;59;KSCM;KSCM;162;0,32;-;31
+12;PB;23;Lokajova Ellen;54;PB;BEZPP;14;1,14;-;-
+5;HLVZHURU;6;Lucak Jozef;28;HLVZHURU;PSZ;11;0,42;-;-
+6;ODS;19;Ludkova Vladimira Mgr.;34;ODS;ODS;2428;3,44;-;15
+17;Usvit;15;Ludvik Tomas;32;Usvit;BEZPP;99;0,52;-;14
+12;PB;22;Lukacek Petr;54;PB;BEZPP;1;0,08;-;-
+22;LEV 21;24;Lukasova Eva;65;LEV 21;LEV 21;1;0,26;-;-
+24;KC;24;Lukavec Petr Ing.;75;KC;BEZPP;6;0,49;-;-
+24;KC;12;Lutovsky Michal PhDr.;52;KC;KC;35;2,90;-;-
+21;KSCM;12;Macek Milan RNDr. CSc.;56;KSCM;KSCM;999;1,99;-;10
+12;PB;26;Macek Pavel;50;PB;BEZPP;5;0,40;-;-
+15;SPOZ;28;Macikova Monika;40;SPOZ;SPOZ;12;0,22;-;-
+3;Pirati;10;Mahrik Viktor;31;Pirati;Pirati;216;1,01;-;-
+2;Svobodni;1;Mach Petr Ing. Ph.D.;38;Svobodni;Svobodni;3945;18,00;-;-
+12;PB;18;Machacek Vaclav;36;PB;BEZPP;0;0,00;-;-
+1;CSSD;23;Majerova Lenka Ing.;69;CSSD;CSSD;557;0,67;-;19
+6;ODS;31;Mallotova Helena Mgr.;69;ODS;ODS;520;0,73;-;27
+22;LEV 21;22;Malsa Jan Ing.;56;LEV 21;LEV 21;5;1,32;-;-
+1;CSSD;29;Mandik Miloslav MUDr.;47;CSSD;CSSD;2375;2,87;-;25
+10;SsCR;17;Marek Ladislav;61;SsCR;SsCR;4;0,54;-;-
+11;KDU-CSL;7;Mares Pavel Mgr.;37;KDU-CSL;KDU-CSL;1325;4,13;-;7
+1;CSSD;11;Marksova Michaela Mgr.;44;CSSD;CSSD;3283;3,97;-;8
+11;KDU-CSL;30;Martinek Jan;24;KDU-CSL;KDU-CSL;191;0,59;-;29
+24;KC;17;Martinek Zdenek;67;KC;KC;8;0,66;-;-
+17;Usvit;10;Marik Jakub;30;Usvit;BEZPP;370;1,97;-;9
+15;SPOZ;27;Marik Milan Ing.;53;SPOZ;SPOZ;23;0,42;-;-
+16;OBC_2011;7;Matejkova Jana;55;OBC_2011;BEZPP;9;1,97;-;-
+1;CSSD;17;Matonoha Drahoslav Ing.;56;CSSD;CSSD;927;1,12;-;13
+12;PB;15;Matousek Frantisek;41;PB;BEZPP;2;0,16;-;-
+3;Pirati;21;Matousek Josef;57;Pirati;BEZPP;450;2,11;-;-
+13;Suveren.;30;Matouskova Ludmila;64;Suveren.;BEZPP;8;1,00;-;-
+9;Zmena;7;Melena Ondrej Bc.;29;Zmena;BEZPP;65;1,47;-;-
+12;PB;34;Mencik Jan;54;PB;BEZPP;3;0,24;-;-
+20;ANO 2011;36;Mensik Radim Ing.;67;ANO 2011;ANO 2011;333;0,34;-;31
+6;ODS;17;Menzelova Blanka Ing.;56;ODS;ODS;644;0,91;-;13
+10;SsCR;6;Merhaut Marek PhDr. Ph.D., MBA;48;SsCR;SsCR;21;2,84;-;-
+1;CSSD;16;Miffek Ondrej Ing. Ph.D.;31;CSSD;CSSD;965;1,16;-;12
+3;Pirati;7;Michailidu Jana;23;Pirati;Pirati;371;1,73;-;-
+20;ANO 2011;29;Michal Tomas Ing.;35;ANO 2011;ANO 2011;147;0,15;-;24
+3;Pirati;3;Michalek Jakub Mgr. Bc.;24;Pirati;Pirati;1807;8,47;-;-
+12;PB;8;Mikes Milan Mgr. Bc.;42;PB;BEZPP;11;0,89;-;-
+3;Pirati;11;Mikolas Ivan Ing.;48;Pirati;Pirati;249;1,16;-;-
+2;Svobodni;17;Mikulasek Pavel Ing.;47;Svobodni;Svobodni;91;0,41;-;-
+22;LEV 21;15;Mikulcova Monika;30;LEV 21;LEV 21;6;1,59;-;-
+2;Svobodni;32;Minovska Veronika Ing.;26;Svobodni;Svobodni;144;0,65;-;-
+23;SZ;5;Mirovsky Ondrej Mgr. MEM;34;SZ;SZ;1658;4,37;-;-
+17;Usvit;33;Mlcoch Jan;35;Usvit;BEZPP;132;0,70;-;32
+18;DSSS;7;Moravcova Tereza;22;DSSS;BEZPP;39;1,57;-;-
+21;KSCM;21;Mouckova Miroslava PhDr.;59;KSCM;KSCM;650;1,30;-;19
+22;LEV 21;33;Muller Jiri;61;LEV 21;LEV 21;3;0,79;-;-
+18;DSSS;12;Muller Milan;59;DSSS;DSSS;19;0,76;-;-
+11;KDU-CSL;19;Muller Miloslav RNDr. Ph.D.;37;KDU-CSL;KDU-CSL;613;1,91;-;18
+13;Suveren.;21;Munzarova Alena;40;Suveren.;BEZPP;8;1,00;-;-
+22;LEV 21;21;Musil Jaroslav;38;LEV 21;LEV 21;3;0,79;-;-
+12;PB;21;Musil Veroslav;24;PB;BEZPP;12;0,97;-;-
+4;TOP 09;31;Muzik Vladimir Bc.;39;TOP 09;TOP 09;365;0,27;-;24
+10;SsCR;31;Nakladov Boris Mgr.;67;SsCR;SsCR;1;0,13;-;-
+4;TOP 09;22;Narovec Michal Ing.;40;TOP 09;TOP 09;309;0,22;-;15
+10;SsCR;4;Navratilova Dagmar Mgr.;47;SsCR;LIDEM;21;2,84;-;-
+5;HLVZHURU;36;Nedved Jaroslav;42;HLVZHURU;UNP;24;0,92;-;-
+22;LEV 21;26;Nedved Karel;76;LEV 21;LEV 21;1;0,26;-;-
+23;SZ;35;Nechvatal Antonin MUDr.;49;SZ;SZ;290;0,76;-;-
+6;ODS;1;Nemcova Miroslava;60;ODS;ODS;26866;38,17;*;1
+13;Suveren.;11;Nemec Vladimir;65;Suveren.;Suveren.;4;0,50;-;-
+24;KC;19;Nemec Vladimir MUDr.;57;KC;KC;21;1,74;-;-
+13;Suveren.;8;Nemeckova Eva Ing.;43;Suveren.;BEZPP;18;2,25;-;-
+15;SPOZ;3;Nemrah Zakaria;23;SPOZ;SPOZ;251;4,62;-;-
+21;KSCM;29;Neubert Milan RNDr.;58;KSCM;SDS;305;0,61;-;27
+9;Zmena;28;Neumannova Alice;63;Zmena;BEZPP;9;0,20;-;-
+12;PB;24;Nosek Zdenek;52;PB;BEZPP;1;0,08;-;-
+23;SZ;29;Novak Adam Mgr.;31;SZ;SZ;35;0,09;-;-
+15;SPOZ;25;Novak Petr;57;SPOZ;BEZPP;28;0,51;-;-
+17;Usvit;27;Novak Tomas;43;Usvit;BEZPP;78;0,41;-;26
+13;Suveren.;23;Novak Vlastimil;45;Suveren.;BEZPP;1;0,12;-;-
+1;CSSD;4;Novakova Hana;55;CSSD;CSSD;3231;3,90;-;1
+22;LEV 21;17;Novotny Lubomir PhDr.;68;LEV 21;LEV 21;4;1,06;-;-
+20;ANO 2011;10;Novotny Petr Mgr.;28;ANO 2011;ANO 2011;911;0,94;-;5
+18;DSSS;8;Novy Jaroslav;53;DSSS;DSSS;20;0,80;-;-
+4;TOP 09;24;Nowakova Teminova Jana JUDr.;50;TOP 09;TOP 09;660;0,48;-;17
+24;KC;29;Nyvlt Zdenek;55;KC;BEZPP;3;0,24;-;-
+22;LEV 21;5;Obst Lukas Bc.;28;LEV 21;LEV 21;4;1,06;-;-
+5;HLVZHURU;13;Olisar Martin Ing.;37;HLVZHURU;BEZPP;11;0,42;-;-
+9;Zmena;25;Opolecky Hynek Bc.;28;Zmena;HS;19;0,43;-;-
+1;CSSD;6;Oubrechtova Miroslava;53;CSSD;CSSD;1013;1,22;-;3
+20;ANO 2011;19;Oupic Jaroslav Ing.;59;ANO 2011;ANO 2011;135;0,13;-;14
+24;KC;21;Ovcarova Vilma MUDr.;67;KC;BEZPP;11;0,91;-;-
+1;CSSD;18;Paclik Leos;35;CSSD;CSSD;637;0,77;-;14
+9;Zmena;26;Padourkova Lucie;31;Zmena;BEZPP;11;0,24;-;-
+10;SsCR;36;Paggio Viktor;32;SsCR;LIDEM;12;1,62;-;-
+4;TOP 09;27;Pasiarova Nadezda;57;TOP 09;TOP 09;812;0,60;-;20
+6;ODS;36;Paulus Libor Mgr.;42;ODS;ODS;500;0,71;-;32
+6;ODS;24;Pavlickova Katerina MUDr.;61;ODS;ODS;869;1,23;-;20
+5;HLVZHURU;23;Pavlikova Hana Mgr.;46;HLVZHURU;BEZPP;42;1,62;-;-
+5;HLVZHURU;18;Pavlu Rene;48;HLVZHURU;BEZPP;31;1,19;-;-
+11;KDU-CSL;22;Pavlu Tomas Mgr.;47;KDU-CSL;KDU-CSL;246;0,76;-;21
+4;TOP 09;4;Peckova Gabriela MUDr.;56;TOP 09;TOP 09;5502;4,07;*;4
+24;KC;14;Pejrimovsky Josef Mgr. Ing.;68;KC;KC;22;1,82;-;-
+20;ANO 2011;21;Pekar Vasil Silvestr Ing. Ph.D.;67;ANO 2011;ANO 2011;262;0,27;-;16
+22;LEV 21;6;Pelc Vladimir PhDr.;59;LEV 21;LEV 21;6;1,59;-;-
+6;ODS;28;Perlin Radim RNDr. Ph.D.;51;ODS;ODS;1039;1,47;-;24
+2;Svobodni;10;Pesan Pavel Bc.;39;Svobodni;Svobodni;97;0,44;-;-
+1;CSSD;20;Pestova Katerina;30;CSSD;CSSD;1401;1,69;-;16
+21;KSCM;13;Petelik Jaromir Mgr.;30;KSCM;KSCM;966;1,93;-;11
+4;TOP 09;36;Petr Jan Mgr.;34;TOP 09;TOP 09;413;0,30;-;29
+5;HLVZHURU;29;Petr Milos Ing.;26;HLVZHURU;BEZPP;21;0,81;-;-
+9;Zmena;4;Petran Zdenek MUDr.;60;Zmena;BEZPP;142;3,22;-;-
+1;CSSD;10;Petrus Roman;35;CSSD;CSSD;1082;1,30;-;7
+17;Usvit;16;Petrina Martin Ing.;34;Usvit;BEZPP;142;0,75;-;15
+18;DSSS;1;Petrivalsky Jiri;30;DSSS;DSSS;174;7,03;-;-
+11;KDU-CSL;8;Philipp Tom MUDr. Ph.D., MBA;44;KDU-CSL;KDU-CSL;1785;5,56;-;5
+23;SZ;18;Pickova Ilona Ing.;46;SZ;SZ;188;0,49;-;-
+11;KDU-CSL;28;Pikalek Dan Bc.;42;KDU-CSL;KDU-CSL;218;0,68;-;27
+13;Suveren.;29;Pilarova Gabriela;34;Suveren.;BEZPP;7;0,87;-;-
+20;ANO 2011;33;Pistora Zdenek Ing.;54;ANO 2011;ANO 2011;197;0,20;-;28
+4;TOP 09;8;Plisek Martin Mgr.;38;TOP 09;TOP 09;1866;1,38;-;1
+12;PB;31;Plzak Petr;52;PB;BEZPP;6;0,48;-;-
+3;Pirati;12;Podhajsky Jan Mgr.;37;Pirati;Pirati;348;1,63;-;-
+23;SZ;32;Pokorna Martina Mgr.;42;SZ;SZ;207;0,54;-;-
+22;LEV 21;9;Pokorny Libor Ing.;57;LEV 21;LEV 21;6;1,59;-;-
+20;ANO 2011;20;Polach Martin Ing. arch.;34;ANO 2011;ANO 2011;727;0,75;-;15
+6;ODS;12;Polak Ferdinand MUDr. Ph.D.;41;ODS;ODS;3006;4,27;-;8
+3;Pirati;14;Polak Michael;39;Pirati;Pirati;201;0,94;-;-
+2;Svobodni;5;Polanecky Jan Ing.;36;Svobodni;Svobodni;479;2,18;-;-
+4;TOP 09;2;Polcak Stanislav JUDr.;33;TOP 09;STAN;9004;6,66;*;2
+22;LEV 21;10;Pondelicek Jiri;49;LEV 21;LEV 21;7;1,86;-;-
+12;PB;25;Popelka Mirko;42;PB;BEZPP;1;0,08;-;-
+2;Svobodni;7;Potuznik Petr MUDr.;44;Svobodni;Svobodni;500;2,28;-;-
+10;SsCR;11;Princova Kristina;59;SsCR;BEZPP;10;1,35;-;-
+3;Pirati;4;Profant Ondrej;25;Pirati;Pirati;750;3,51;-;-
+24;KC;16;Prochazka Jan Mgr.;27;KC;BEZPP;13;1,07;-;-
+13;Suveren.;25;Prochazka Jindrich;57;Suveren.;BEZPP;1;0,12;-;-
+11;KDU-CSL;21;Prochazkova Tereza Bc.;26;KDU-CSL;KDU-CSL;300;0,93;-;20
+5;HLVZHURU;16;Prokesova Jana Mgr.;43;HLVZHURU;BEZPP;76;2,93;-;-
+20;ANO 2011;27;Prokop Josef MVDr.;58;ANO 2011;ANO 2011;714;0,73;-;22
+22;LEV 21;23;Prokop Vaclav;66;LEV 21;LEV 21;2;0,53;-;-
+12;PB;33;Prokop Zdenek;49;PB;BEZPP;1;0,08;-;-
+10;SsCR;5;Promberger Jiri Mgr.;65;SsCR;SsCR;13;1,76;-;-
+15;SPOZ;7;Prsala Pavel Ing. CSc.;61;SPOZ;SPOZ;154;2,83;-;-
+9;Zmena;5;Prudkova Ludmila Ing.;56;Zmena;BEZPP;55;1,24;-;-
+18;DSSS;9;Puc Petr;51;DSSS;DSSS;63;2,54;-;-
+22;LEV 21;32;Pucholt Milan;42;LEV 21;LEV 21;0;0,00;-;-
+5;HLVZHURU;10;Pulec Petr;43;HLVZHURU;UNP;40;1,54;-;-
+20;ANO 2011;11;Pulgret Karel;33;ANO 2011;ANO 2011;297;0,30;-;6
+13;Suveren.;5;Purnoch Milan Mgr.;51;Suveren.;BEZPP;13;1,62;-;-
+13;Suveren.;14;Pycha Miroslav Ing.;56;Suveren.;BEZPP;3;0,37;-;-
+23;SZ;31;Radil Jan Bc.;29;SZ;SZ;41;0,10;-;-
+9;Zmena;22;Radinova Svatava;36;Zmena;BEZPP;13;0,29;-;-
+24;KC;11;Raschel Petr JUDr.;60;KC;BEZPP;24;1,99;-;-
+11;KDU-CSL;2;Razkova Daniela PhDr.;51;KDU-CSL;KDU-CSL;2258;7,04;-;4
+6;ODS;23;Recman Jan Mgr.;32;ODS;ODS;578;0,82;-;19
+16;OBC_2011;9;Reiman Josef;71;OBC_2011;BEZPP;6;1,31;-;-
+9;Zmena;34;Reimann Zdenek;71;Zmena;BEZPP;6;0,13;-;-
+23;SZ;16;Rejchrtova Alzbeta Mgr.;66;SZ;SZ;455;1,20;-;-
+23;SZ;26;Rejchrtova Petra Mgr.;44;SZ;SZ;270;0,71;-;-
+10;SsCR;10;Rejmon Jiri;57;SsCR;SsCR;17;2,30;-;-
+23;SZ;22;Rendlova Simona Ing.;54;SZ;SZ;201;0,53;-;-
+1;CSSD;27;Riedlbauchova Lubica Mgr.;69;CSSD;CSSD;381;0,46;-;23
+1;CSSD;34;Rodig Daniel Ing.;37;CSSD;CSSD;279;0,33;-;30
+9;Zmena;10;Rosslerova Regina;53;Zmena;KH;38;0,86;-;-
+22;LEV 21;36;Rostasova Edita;51;LEV 21;LEV 21;1;0,26;-;-
+11;KDU-CSL;24;Rouskova Ivana;48;KDU-CSL;KDU-CSL;239;0,74;-;23
+13;Suveren.;6;Ruml Vladimir Bc.;25;Suveren.;BEZPP;17;2,13;-;-
+23;SZ;13;Rut Ondrej Mgr.;31;SZ;SZ;630;1,66;-;-
+17;Usvit;12;Ruzek Jaroslav Ing. CSc.;60;Usvit;BEZPP;194;1,03;-;11
+20;ANO 2011;14;Ruzicka Martin Bc.;29;ANO 2011;ANO 2011;217;0,22;-;9
+2;Svobodni;20;Ruzicka Zdislav;63;Svobodni;Svobodni;94;0,42;-;-
+2;Svobodni;30;Rybar Jiri;25;Svobodni;Svobodni;80;0,36;-;-
+20;ANO 2011;30;Rydl Karel Bc.;28;ANO 2011;ANO 2011;175;0,18;-;25
+24;KC;10;Rysava Romana;50;KC;BEZPP;16;1,32;-;-
+20;ANO 2011;12;Ricar Jan MBA;29;ANO 2011;ANO 2011;552;0,57;-;7
+13;Suveren.;9;Riha Jakub MUDr.;42;Suveren.;BEZPP;16;2,00;-;-
+11;KDU-CSL;15;Riha Vladimir MUDr.;64;KDU-CSL;KDU-CSL;991;3,09;-;14
+11;KDU-CSL;10;Rivnacova Irena Ing.;64;KDU-CSL;KDU-CSL;323;1,00;-;9
+5;HLVZHURU;9;Satran Eugen;26;HLVZHURU;UNP;24;0,92;-;-
+2;Svobodni;34;Seckar Alois Bc.;25;Svobodni;Svobodni;101;0,46;-;-
+15;SPOZ;10;Sekera Tomas Mgr. MBA;48;SPOZ;SPOZ;110;2,02;-;-
+13;Suveren.;26;Semecky Marcel;51;Suveren.;Suveren.;3;0,37;-;-
+21;KSCM;1;Semelova Marta Mgr.;53;KSCM;KSCM;3291;6,58;*;2
+6;ODS;27;Scholz Petr;24;ODS;ODS;719;1,02;-;23
+4;TOP 09;13;Schwarz Otto MUDr.;60;TOP 09;TOP 09;2442;1,80;-;6
+4;TOP 09;1;Schwarzenberg Karel;75;TOP 09;TOP 09;37794;27,97;*;1
+9;Zmena;19;Sikora Roman MgA.;43;Zmena;BEZPP;27;0,61;-;-
+2;Svobodni;22;Skalicky Jan Ing.;52;Svobodni;Svobodni;80;0,36;-;-
+21;KSCM;17;Skoupil Karel;60;KSCM;KSCM;148;0,29;-;15
+4;TOP 09;25;Slabihoudek Tomas;35;TOP 09;TOP 09;508;0,37;-;18
+20;ANO 2011;24;Slaby Martin;46;ANO 2011;ANO 2011;201;0,20;-;19
+17;Usvit;21;Slama Michal;31;Usvit;BEZPP;110;0,58;-;20
+2;Svobodni;2;Smetka Radim;25;Svobodni;Svobodni;752;3,43;-;-
+9;Zmena;24;Smiskova Zuzana Mgr.;31;Zmena;HS;33;0,74;-;-
+10;SsCR;22;Smolikova Jaroslava;70;SsCR;BEZPP;1;0,13;-;-
+15;SPOZ;2;Smrcka Lubos doc. Ing. CSc.;52;SPOZ;SPOZ;429;7,90;-;-
+9;Zmena;2;Smrz Milan;65;Zmena;"Z";155;3,52;-;-
+17;Usvit;36;Snopek Frantisek;38;Usvit;BEZPP;73;0,38;-;35
+18;DSSS;10;Sojka Libor;58;DSSS;DSSS;24;0,97;-;-
+5;HLVZHURU;11;Solis Daniel Lic. LL.M.;45;HLVZHURU;UNP;138;5,32;-;-
+4;TOP 09;26;Sova Jan Mgr.;32;TOP 09;TOP 09;570;0,42;-;19
+17;Usvit;13;Spalenka Peter Ing.;66;Usvit;VV;127;0,67;-;12
+17;Usvit;28;Spilka Petr Bc.;31;Usvit;BEZPP;63;0,33;-;27
+24;KC;1;Srb Vaclav;55;KC;KC;107;8,87;-;-
+17;Usvit;19;Stach Michal;30;Usvit;BEZPP;139;0,74;-;18
+9;Zmena;36;Stach Stanislav Ing. CSc.;76;Zmena;BEZPP;10;0,22;-;-
+12;PB;6;Stanek Frantisek;57;PB;BEZPP;4;0,32;-;-
+4;TOP 09;19;Starek Jan;30;TOP 09;TOP 09;456;0,33;-;12
+2;Svobodni;28;Steigerwald Daniel;33;Svobodni;Svobodni;158;0,72;-;-
+2;Svobodni;9;Strachota Jiri Mgr. CSc.;66;Svobodni;Svobodni;363;1,65;-;-
+9;Zmena;23;Strejcek Vladimir Mgr.;65;Zmena;KH;8;0,18;-;-
+23;SZ;7;Stropnicky Matej PhDr.;30;SZ;SZ;3586;9,46;-;-
+2;Svobodni;14;Strunz Pavel RNDr. CSc.;49;Svobodni;Svobodni;282;1,28;-;-
+13;Suveren.;1;Streda Leos MUDr.;50;Suveren.;BEZPP;55;6,89;-;-
+1;CSSD;2;Stupcuk Stepan JUDr.;37;CSSD;CSSD;3209;3,88;*;3
+3;Pirati;16;Sura Ales Ing. Bc.;36;Pirati;Pirati;225;1,05;-;-
+10;SsCR;8;Svetlik George;62;SsCR;KONS;18;2,43;-;-
+3;Pirati;18;Svetnicka Karel Mgr. et Bc.;53;Pirati;BEZPP;208;0,97;-;-
+6;ODS;2;Svoboda Bohuslav doc. MUDr. CSc.;69;ODS;ODS;14953;21,24;*;2
+1;CSSD;13;Svoboda Miroslav Ing.;51;CSSD;CSSD;1392;1,68;-;9
+10;SsCR;2;Svoboda Slavomir;58;SsCR;BEZPP;26;3,52;-;-
+11;KDU-CSL;33;Svoboda Tomas PhDr. Bc. Ph.D.;40;KDU-CSL;KDU-CSL;250;0,78;-;32
+2;Svobodni;31;Sykora Petr Mgr.;28;Svobodni;Svobodni;95;0,43;-;-
+11;KDU-CSL;13;Sykora Petr Ing.;49;KDU-CSL;KDU-CSL;273;0,85;-;12
+18;DSSS;4;Sykorova Jana Ing.;45;DSSS;BEZPP;68;2,74;-;-
+18;DSSS;6;Szwachulova Ivana;51;DSSS;DSSS;52;2,10;-;-
+21;KSCM;25;Safranek Ladislav Mgr. Ing. CSc., MBA;67;KSCM;KSCM;311;0,62;-;23
+10;SsCR;24;Safrankova Milada;45;SsCR;BEZPP;8;1,08;-;-
+17;Usvit;1;Sarapatka Milan Ing. Mgr. Ph.D.;57;Usvit;BEZPP;1377;7,34;*;1
+9;Zmena;6;Satavova Monika;49;Zmena;KH;77;1,74;-;-
+17;Usvit;30;Sefl Jakub DiS.;25;Usvit;BEZPP;125;0,66;-;29
+10;SsCR;30;Sefl Ladislav;64;SsCR;SsCR;0;0,00;-;-
+17;Usvit;9;Sefl Petr;61;Usvit;BEZPP;125;0,66;-;8
+11;KDU-CSL;11;Simacek Milan Ing. Bc.;51;KDU-CSL;BEZPP;340;1,06;-;10
+23;SZ;20;Simackova Laurencikova Klara Mgr.;34;SZ;SZ;563;1,48;-;-
+15;SPOZ;19;Simova Michaela Ing.;46;SPOZ;SPOZ;32;0,58;-;-
+21;KSCM;28;Simsa Petr;40;KSCM;KSCM;257;0,51;-;26
+5;HLVZHURU;25;Simunek Robert;47;HLVZHURU;BEZPP;30;1,15;-;-
+21;KSCM;14;Simunkova Lenka;23;KSCM;KSCM;1223;2,44;-;12
+15;SPOZ;12;Simunkova Martina Ing.;49;SPOZ;SPOZ;109;2,00;-;-
+20;ANO 2011;25;Sirc Jakub;21;ANO 2011;ANO 2011;513;0,53;-;20
+1;CSSD;7;Skrak Pavol Ing.;62;CSSD;CSSD;411;0,49;-;4
+18;DSSS;22;Smejkal Rudolf;48;DSSS;BEZPP;14;0,56;-;-
+12;PB;20;Smoldas Josef;60;PB;BEZPP;11;0,89;-;-
+18;DSSS;18;Smolikova Sarka;27;DSSS;DSSS;20;0,80;-;-
+4;TOP 09;33;Snajdr Jan Ing.;42;TOP 09;TOP 09;995;0,73;-;26
+12;PB;16;Snebergova Lenka;54;PB;BEZPP;18;1,46;-;-
+12;PB;10;Snoblova Eva Mgr.;57;PB;BEZPP;23;1,87;-;-
+22;LEV 21;7;Solkova Anezka;59;LEV 21;LEV 21;4;1,06;-;-
+20;ANO 2011;8;Spanhel Jiri Ing.;63;ANO 2011;ANO 2011;777;0,80;-;3
+17;Usvit;26;Sperling Josef;41;Usvit;BEZPP;144;0,76;-;25
+20;ANO 2011;18;Spitalska Alena Ing.;61;ANO 2011;ANO 2011;312;0,32;-;13
+1;CSSD;15;Splichal Karel PhDr.;66;CSSD;CSSD;2117;2,56;-;11
+2;Svobodni;8;Spoljaric Damir;25;Svobodni;Svobodni;176;0,80;-;-
+24;KC;15;Sramek Ferdinand;44;KC;KC;26;2,15;-;-
+18;DSSS;13;Sramkova Helena;47;DSSS;BEZPP;42;1,69;-;-
+21;KSCM;26;Stainc Jiri Mgr.;32;KSCM;KSCM;858;1,71;-;24
+2;Svobodni;26;Stampach Tomas Bc.;29;Svobodni;Svobodni;66;0,30;-;-
+5;HLVZHURU;19;Stepankova Hana;35;HLVZHURU;BEZPP;10;0,38;-;-
+22;LEV 21;19;Sterzlova Daniela;40;LEV 21;LEV 21;8;2,12;-;-
+5;HLVZHURU;27;Storek Jiri;44;HLVZHURU;SBB;8;0,30;-;-
+2;Svobodni;27;Stross Pavel Bc.;26;Svobodni;Svobodni;57;0,26;-;-
+18;DSSS;23;Subrt Jiri;32;DSSS;BEZPP;12;0,48;-;-
+5;HLVZHURU;26;Sulc Vladimir;48;HLVZHURU;SBB;19;0,73;-;-
+21;KSCM;5;Sulda Ludvik BBA;34;KSCM;KSCM;1421;2,84;-;3
+10;SsCR;15;Supsak Petr;50;SsCR;SsCR;9;1,21;-;-
+6;ODS;18;Svarc Frantisek;60;ODS;ODS;841;1,19;-;14
+9;Zmena;33;Sverma Miroslav;29;Zmena;BEZPP;6;0,13;-;-
+15;SPOZ;22;Talanda Petr Ing. MBA;50;SPOZ;SPOZ;21;0,38;-;-
+12;PB;35;Terc Vaclav;60;PB;BEZPP;6;0,48;-;-
+24;KC;26;Thurzo Ladislav;62;KC;KC;4;0,33;-;-
+23;SZ;15;Tiser Stanislav;56;SZ;"SRP";630;1,66;-;-
+17;Usvit;17;Tomasek Premysl Ing.;59;Usvit;BEZPP;155;0,82;-;16
+22;LEV 21;12;Topinka Petr JUDr.;55;LEV 21;LEV 21;9;2,39;-;-
+11;KDU-CSL;14;Trckova Jitka MgA. ak. soch.;68;KDU-CSL;KDU-CSL;324;1,01;-;13
+1;CSSD;8;Trkova Jana MUDr.;60;CSSD;CSSD;1826;2,20;-;5
+23;SZ;19;Trnka Jan MUDr. Ph.D., M.Phil.;35;SZ;SZ;780;2,05;-;-
+11;KDU-CSL;9;Tumova Pavla RNDr. Ph.D.;39;KDU-CSL;KDU-CSL;1104;3,44;-;8
+18;DSSS;35;Uhlarova Michaela;21;DSSS;BEZPP;12;0,48;-;-
+4;TOP 09;21;Ulm Karel Mgr.;32;TOP 09;TOP 09;1268;0,93;-;14
+4;TOP 09;35;Urban Milan Dr. Ing.;53;TOP 09;TOP 09;873;0,64;-;28
+5;HLVZHURU;28;Urbanova Monika;38;HLVZHURU;UNP;11;0,42;-;-
+10;SsCR;14;Vacek Jaroslav;62;SsCR;SsCR;11;1,49;-;-
+1;CSSD;14;Vaclavek Miroslav Ing.;58;CSSD;CSSD;1000;1,20;-;10
+15;SPOZ;30;Vaclavik Pavel Bc.;26;SPOZ;SPOZ;28;0,51;-;-
+15;SPOZ;33;Vaclavik Pavel;49;SPOZ;SPOZ;3;0,05;-;-
+1;CSSD;21;Vaicova Marie Ing.;68;CSSD;CSSD;312;0,37;-;17
+22;LEV 21;28;Valentova Helena;61;LEV 21;BEZPP;3;0,79;-;-
+4;TOP 09;10;Valchar Petr;26;TOP 09;BEZPP;769;0,56;-;3
+20;ANO 2011;2;Valkova Helena prof. JUDr. CSc.;62;ANO 2011;BEZPP;4950;5,12;*;2
+12;PB;27;Vanatkova Svetlana;44;PB;BEZPP;6;0,48;-;-
+18;DSSS;24;Vanickova Lenka;47;DSSS;BEZPP;10;0,40;-;-
+4;TOP 09;28;Vasicek Jan Ing.;39;TOP 09;TOP 09;648;0,47;-;21
+5;HLVZHURU;21;Vavra Josef Ing.;60;HLVZHURU;SBB;17;0,65;-;-
+13;Suveren.;13;Vavra Vitezslav;60;Suveren.;BEZPP;8;1,00;-;-
+13;Suveren.;24;Vavros Jaroslav Ing.;25;Suveren.;BEZPP;2;0,25;-;-
+22;LEV 21;35;Vazac Jiri;57;LEV 21;BEZPP;1;0,26;-;-
+20;ANO 2011;16;Venclicek Petr;29;ANO 2011;ANO 2011;223;0,23;-;11
+20;ANO 2011;28;Vesela Vladislava JUDr.;29;ANO 2011;ANO 2011;990;1,02;-;23
+3;Pirati;5;Veverka Robert;36;Pirati;BEZPP;1085;5,08;-;-
+23;SZ;21;Vilgus Petr MgA. Ph.D.;39;SZ;SZ;383;1,01;-;-
+12;PB;11;Vilim Stanislav;42;PB;BEZPP;12;0,97;-;-
+2;Svobodni;11;Virglerova Fronema;26;Svobodni;Svobodni;375;1,71;-;-
+12;PB;28;Viska Miroslav;46;PB;BEZPP;2;0,16;-;-
+6;ODS;29;Vitkovska Lucie Bc. DiS.;28;ODS;ODS;598;0,84;-;25
+2;Svobodni;18;Vlach Erik;35;Svobodni;Svobodni;53;0,24;-;-
+6;ODS;8;Vlcek Daniel Ing.;31;ODS;ODS;1121;1,59;-;5
+4;TOP 09;17;Vlcek Stanislav;50;TOP 09;TOP 09;400;0,29;-;10
+15;SPOZ;32;Vlcek Vit JUDr.;55;SPOZ;SPOZ;63;1,16;-;-
+1;CSSD;28;Vodak Bretislav Ing.;60;CSSD;CSSD;227;0,27;-;24
+15;SPOZ;18;Vodicka Ales Ing.;42;SPOZ;SPOZ;11;0,20;-;-
+1;CSSD;24;Vohlidal Jiri Ing. Ph.D.;37;CSSD;CSSD;868;1,04;-;20
+5;HLVZHURU;14;Vojikova Vitkova Martina;38;HLVZHURU;SBB;32;1,23;-;-
+13;Suveren.;34;Vojtiskova Andrea;44;Suveren.;BEZPP;5;0,62;-;-
+10;SsCR;12;Vojtova Iveta;42;SsCR;BEZPP;9;1,21;-;-
+18;DSSS;26;Vokner Pavel;27;DSSS;BEZPP;14;0,56;-;-
+18;DSSS;17;Vokner Petr;24;DSSS;DSSS;19;0,76;-;-
+18;DSSS;34;Voknerova Jirina;49;DSSS;DSSS;34;1,37;-;-
+18;DSSS;14;Volesak Tomas;57;DSSS;DSSS;14;0,56;-;-
+17;Usvit;5;Volfova Andrea Mgr.;45;Usvit;BEZPP;754;4,01;-;4
+10;SsCR;19;Volfova Danuse;58;SsCR;BEZPP;8;1,08;-;-
+4;TOP 09;18;Volsik Jan MBA;43;TOP 09;TOP 09;385;0,28;-;11
+4;TOP 09;12;Vondra Radek Bc.;41;TOP 09;TOP 09;1032;0,76;-;5
+1;CSSD;31;Vondrakova Jirina;62;CSSD;CSSD;339;0,41;-;27
+15;SPOZ;35;Vondrasek Matyas;23;SPOZ;SPOZ;20;0,36;-;-
+15;SPOZ;24;Vondrys Miloslav;55;SPOZ;SPOZ;17;0,31;-;-
+1;CSSD;25;Voracek Emil PhDr. DrSc.;63;CSSD;CSSD;1080;1,30;-;21
+22;LEV 21;11;Votava Premysl;70;LEV 21;LEV 21;11;2,92;-;-
+13;Suveren.;32;Votrubova Miloslava;64;Suveren.;BEZPP;4;0,50;-;-
+22;LEV 21;20;Vranka Jakub MUDr.;36;LEV 21;LEV 21;8;2,12;-;-
+21;KSCM;34;Vrobel Lukas;25;KSCM;KSCM;369;0,73;-;32
+10;SsCR;32;Vrtilka Pavel;50;SsCR;BEZPP;4;0,54;-;-
+10;SsCR;34;Vrtilkova Michaela;30;SsCR;BEZPP;4;0,54;-;-
+10;SsCR;27;Vrtilkova Renata;51;SsCR;BEZPP;5;0,67;-;-
+16;OBC_2011;5;Vykysal Jaroslav;37;OBC_2011;OBC_2011;8;1,75;-;-
+3;Pirati;2;Wagnerova Lenka PhDr.;52;Pirati;Pirati;1439;6,74;-;-
+23;SZ;3;Walek Czeslaw Mgr.;38;SZ;SZ;2449;6,46;-;-
+13;Suveren.;2;Weiszova Silvia;46;Suveren.;Suveren.;30;3,75;-;-
+20;ANO 2011;31;Wiedermann Janickova Darina Mgr.;32;ANO 2011;ANO 2011;265;0,27;-;26
+11;KDU-CSL;3;Wolf Jan;41;KDU-CSL;KDU-CSL;1681;5,24;-;6
+18;DSSS;20;Zahradkova Ladislava;53;DSSS;DSSS;16;0,64;-;-
+1;CSSD;19;Zahradnicky Tomas Ing. Ph.D.;34;CSSD;CSSD;1677;2,02;-;15
+23;SZ;36;Zachariasova Lucia JUDr.;31;SZ;SZ;435;1,14;-;-
+1;CSSD;1;Zavadil Jaroslav;69;CSSD;BEZPP;7991;9,66;*;1
+11;KDU-CSL;4;Zavodsky Ondrej JUDr. Ph.D.;33;KDU-CSL;BEZPP;4991;15,57;-;2
+18;DSSS;16;Zbornikova Kvetoslava;55;DSSS;DSSS;7;0,28;-;-
+5;HLVZHURU;2;Zeleny Miroslav Ing.;43;HLVZHURU;UNP;123;4,74;-;-
+18;DSSS;21;Zeman Josef;48;DSSS;DSSS;16;0,64;-;-
+18;DSSS;11;Zemanova Alena;44;DSSS;DSSS;23;0,93;-;-
+9;Zmena;21;Zicha Ondrej MgA.;38;Zmena;BEZPP;11;0,24;-;-
+20;ANO 2011;34;Zika Jiri PhDr.;60;ANO 2011;ANO 2011;369;0,38;-;29
+1;CSSD;32;Zikmundova Eva;58;CSSD;CSSD;606;0,73;-;28
+17;Usvit;2;Zilvar Jan;48;Usvit;Usvit;723;3,85;-;1
+20;ANO 2011;3;Zlatuska Jiri prof. RNDr. CSc.;56;ANO 2011;ANO 2011;4820;4,99;*;3
+18;DSSS;36;Zobanek Roman;41;DSSS;BEZPP;10;0,40;-;-
+5;HLVZHURU;1;Zoufalik Bohumil Mgr.;45;HLVZHURU;BEZPP;233;8,99;-;-
+23;SZ;27;Zubaty Jan Ing.;26;SZ;SZ;168;0,44;-;-
+15;SPOZ;1;Zak Zdenek Bc.;45;SPOZ;BEZPP;841;15,49;-;-
+17;Usvit;22;Zidek Vitezslav Ing.;58;Usvit;BEZPP;105;0,55;-;21

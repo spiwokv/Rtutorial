@@ -1,0 +1,682 @@
+#https://volby.cz/pls/ps2013/ps111?xjazyk=CZ&xkraj=1&xstrana=0&xv=1&xt=1
+cislo;strana;porc;jmeno;vek;nav;pol;abs;rel;man;porman
+15;SPOZ;23;Abt Jaroslav;40;SPOZ;SPOZ;8;0,14;-;-
+1;ČSSD;3;Adámek František Bc.;58;ČSSD;ČSSD;2492;3,01;*;4
+16;OBČ_2011;10;Adámek Karel Ing.;61;OBČ_2011;BEZPP;12;2,63;-;-
+16;OBČ_2011;1;Adámek Ludvík;58;OBČ_2011;OBČ_2011;33;7,25;-;-
+16;OBČ_2011;11;Adámek Lukáš Bc.;28;OBČ_2011;OBČ_2011;12;2,63;-;-
+4;TOP 09;6;Adamová Markéta Ing.;29;TOP 09;TOP 09;3626;2,68;*;6
+21;KSČM;11;Ambrož Pavel;55;KSČM;KSČM;317;0,63;-;9
+15;SPOZ;16;Arbesová Sandra Ing.;30;SPOZ;SPOZ;28;0,51;-;-
+22;LEV 21;3;Babinec Bohdan MUDr. CSc.;69;LEV 21;LEV 21;43;11,43;-;-
+20;ANO 2011;1;Babiš Andrej Ing.;59;ANO 2011;ANO 2011;18955;19,62;*;1
+5;HLVZHŮRU;35;Bakalář Robert Bc.;34;HLVZHŮRU;PSZ;17;0,65;-;-
+3;Piráti;20;Bakovský Pavel;21;Piráti;Piráti;314;1,47;-;-
+1;ČSSD;35;Balabán Miloš PhDr. Ph.D.;51;ČSSD;ČSSD;1105;1,33;-;31
+23;SZ;33;Barta Jan;28;SZ;BEZPP;104;0,27;-;-
+24;KČ;2;Bárta Jan Ing. arch.;71;KČ;KČ;40;3,31;-;-
+10;SsČR;3;Bartoňová Pálková Irena Mgr.;45;SsČR;BEZPP;31;4,20;-;-
+3;Piráti;1;Bartoš Ivan PhDr. PhD;33;Piráti;Piráti;3772;17,68;-;-
+5;HLVZHŮRU;15;Bártová Petra Mgr.;49;HLVZHŮRU;SBB;49;1,89;-;-
+6;ODS;13;Bartovský Tomáš Mgr.;35;ODS;ODS;544;0,77;-;9
+11;KDU-ČSL;32;Bartůšek Jan Mgr.;49;KDU-ČSL;KDU-ČSL;122;0,38;-;31
+10;SsČR;16;Baubín Petr Ing.;48;SsČR;SsČR;7;0,94;-;-
+13;Suveren.;35;Bayerová Veronika;43;Suveren.;BEZPP;2;0,25;-;-
+12;PB;13;Bečka Jan;35;PB;BEZPP;5;0,40;-;-
+9;Změna;17;Bednář Jan;34;Změna;HS;24;0,54;-;-
+2;Svobodní;3;Bednář Miloslav prof. PhDr. CSc.;65;Svobodní;Svobodní;1249;5,69;-;-
+15;SPOZ;13;Bejlovec Jiří Bc.;23;SPOZ;SPOZ;81;1,49;-;-
+13;Suveren.;18;Beladová Eva;52;Suveren.;BEZPP;8;1,00;-;-
+6;ODS;20;Bellu Alexander Bc.;26;ODS;ODS;703;0,99;-;16
+1;ČSSD;9;Beňák David Mgr. DiS.;34;ČSSD;ČSSD;2275;2,75;-;6
+24;KČ;33;Benčok Michal;62;KČ;BEZPP;28;2,32;-;-
+6;ODS;10;Benda Marek;44;ODS;ODS;5336;7,58;*;4
+20;ANO 2011;32;Bendová Jarmila Ing.;48;ANO 2011;ANO 2011;327;0,33;-;27
+17;Úsvit;20;Benek Vítězslav;51;Úsvit;BEZPP;58;0,30;-;19
+16;OBČ_2011;4;Beneš František;54;OBČ_2011;OBČ_2011;15;3,29;-;-
+21;KSČM;18;Beneš František Ing. CSc.;69;KSČM;KSČM;738;1,47;-;16
+16;OBČ_2011;8;Benešová Petra Ing.;29;OBČ_2011;OBČ_2011;24;5,27;-;-
+12;PB;2;Benýšek Jiří;23;PB;BEZPP;36;2,93;-;-
+23;SZ;24;Benýšková Helena;32;SZ;SZ;181;0,47;-;-
+16;OBČ_2011;3;Beranová Monika;51;OBČ_2011;OBČ_2011;20;4,39;-;-
+24;KČ;31;Bernard Darius;47;KČ;BEZPP;4;0,33;-;-
+22;LEV 21;1;Bernardová Tereza Bc.;31;LEV 21;LEV 21;18;4,78;-;-
+9;Změna;12;Bičáková Vlasta;39;Změna;KH;51;1,15;-;-
+15;SPOZ;9;Bílek Vítězslav;68;SPOZ;SPOZ;34;0,62;-;-
+13;Suveren.;4;Blaško Marek Ing.;37;Suveren.;BEZPP;27;3,38;-;-
+6;ODS;11;Blažek František;48;ODS;ODS;891;1,26;-;7
+20;ANO 2011;17;Bocková Romana Ing.;46;ANO 2011;ANO 2011;509;0,52;-;12
+24;KČ;5;Bohdanecký Zdeněk;36;KČ;KČ;15;1,24;-;-
+4;TOP 09;34;Bonhomme Hankeová Zuzana MUDr. MIB;54;TOP 09;TOP 09;1139;0,84;-;27
+22;LEV 21;13;Bouzek Petr Ing. MUDr.;52;LEV 21;LEV 21;5;1,32;-;-
+24;KČ;23;Brabec Jiří;64;KČ;BEZPP;4;0,33;-;-
+17;Úsvit;3;Brandeisová Soňa;70;Úsvit;BEZPP;413;2,20;-;2
+24;KČ;20;Brant Petr;63;KČ;BEZPP;2;0,16;-;-
+15;SPOZ;8;Brettl Vojtěch PhDr.;35;SPOZ;SPOZ;108;1,99;-;-
+21;KSČM;16;Briardová Helena PhDr.;66;KSČM;KSČM;350;0,70;-;14
+16;OBČ_2011;6;Brichta Aleš Ing.;54;OBČ_2011;BEZPP;94;20,65;-;-
+5;HLVZHŮRU;24;Brotánek Tomáš Bc.;35;HLVZHŮRU;BEZPP;11;0,42;-;-
+15;SPOZ;21;Brunner Jan;63;SPOZ;SPOZ;55;1,01;-;-
+11;KDU-ČSL;12;Bruthans Jan MUDr. CSc., FESC;65;KDU-ČSL;KDU-ČSL;724;2,25;-;11
+24;KČ;28;Březina Karel;40;KČ;BEZPP;9;0,74;-;-
+18;DSSS;3;Bubla Jiří Mgr.;41;DSSS;DSSS;53;2,14;-;-
+23;SZ;25;Budín Lukáš Mgr.;34;SZ;SZ;263;0,69;-;-
+18;DSSS;2;Budz Ladislav;37;DSSS;DSSS;95;3,84;-;-
+24;KČ;27;Bukačová Irena PhDr.;64;KČ;BEZPP;19;1,57;-;-
+10;SsČR;21;Burger Daniel;36;SsČR;KONS;14;1,89;-;-
+11;KDU-ČSL;25;Burgr Petr;60;KDU-ČSL;KDU-ČSL;245;0,76;-;24
+9;Změna;9;Burian Jan Ing. Ph.D.;39;Změna;BEZPP;91;2,06;-;-
+23;SZ;10;Cabrnochová Ivana Mgr.;39;SZ;SZ;1138;3,00;-;-
+12;PB;3;Cafourek Josef;65;PB;BEZPP;20;1,63;-;-
+4;TOP 09;30;Cagašová Jana Bc.;28;TOP 09;TOP 09;884;0,65;-;23
+5;HLVZHŮRU;3;Caldr Pavel;36;HLVZHŮRU;BEZPP;142;5,48;-;-
+12;PB;1;Cibulka Petr;62;PB;PB;159;12,97;-;-
+10;SsČR;28;Cihelka Josef;69;SsČR;SsČR;3;0,40;-;-
+2;Svobodní;13;Csirik Roman Ing.;42;Svobodní;Svobodní;50;0,22;-;-
+24;KČ;13;Čadil Matěj;27;KČ;KČ;14;1,16;-;-
+17;Úsvit;24;Čapek Jiří;36;Úsvit;BEZPP;103;0,54;-;23
+6;ODS;3;Černochová Jana Mgr.;40;ODS;ODS;8644;12,28;*;3
+12;PB;17;Černota Miroslav;55;PB;BEZPP;1;0,08;-;-
+17;Úsvit;6;Červenka David Mgr.;31;Úsvit;BEZPP;500;2,66;-;5
+20;ANO 2011;9;Červíčková Monika Ing.;46;ANO 2011;ANO 2011;1209;1,25;-;4
+13;Suveren.;15;Číla Ivan;61;Suveren.;Suveren.;4;0,50;-;-
+11;KDU-ČSL;6;Čižinský Jan Mgr.;35;KDU-ČSL;KDU-ČSL;5707;17,80;-;1
+21;KSČM;19;Čunátová Jana Ing.;68;KSČM;KSČM;428;0,85;-;17
+6;ODS;21;Damaška David Ing. arch. Ph.D.;43;ODS;ODS;976;1,38;-;17
+10;SsČR;33;Danda Miloslav;67;SsČR;BEZPP;4;0,54;-;-
+10;SsČR;25;Danda Tomáš;61;SsČR;SsČR;13;1,76;-;-
+11;KDU-ČSL;34;Daniel Josef;48;KDU-ČSL;KDU-ČSL;64;0,19;-;33
+3;Piráti;6;Dérer Ivan Ing.;46;Piráti;BEZPP;416;1,95;-;-
+9;Změna;3;Dienstbierová Jiřina Ing.;58;Změna;BEZPP;287;6,52;-;-
+22;LEV 21;4;Dimitrov Kosta Ing.;64;LEV 21;LEV 21;6;1,59;-;-
+4;TOP 09;20;Dlouhý Martin doc. Ing. Mgr. Dr., MSc;43;TOP 09;TOP 09;3187;2,35;-;13
+18;DSSS;30;Dobříchovský Marek;24;DSSS;BEZPP;3;0,12;-;-
+2;Svobodní;25;Dohnal Tomáš Ing.;30;Svobodní;Svobodní;62;0,28;-;-
+21;KSČM;2;Dolejš Jiří Ing.;52;KSČM;KSČM;8219;16,44;*;1
+23;SZ;23;Dolejšek Čestmír Bc.;30;SZ;SZ;596;1,57;-;-
+4;TOP 09;29;Doležal Marek Ing.;43;TOP 09;TOP 09;347;0,25;-;22
+15;SPOZ;26;Doubětová Martina Mgr.;43;SPOZ;BEZPP;29;0,53;-;-
+2;Svobodní;29;Douša Jaroslav;48;Svobodní;Svobodní;30;0,13;-;-
+12;PB;32;Drábek Pavel;53;PB;BEZPP;6;0,48;-;-
+11;KDU-ČSL;16;Drápal Dan;64;KDU-ČSL;KDU-ČSL;1015;3,16;-;15
+6;ODS;16;Drážný Ivo JUDr.;49;ODS;ODS;678;0,96;-;12
+23;SZ;4;Drhová Zuzana Ing. Ph.D.;50;SZ;SZ;1712;4,51;-;-
+17;Úsvit;11;Dudjak Aleš Ing.;34;Úsvit;BEZPP;118;0,62;-;10
+23;SZ;30;Ducháčková Chotková Pavla Mgr.;33;SZ;SZ;137;0,36;-;-
+12;PB;4;Durdil Miroslav;64;PB;BEZPP;39;3,18;-;-
+17;Úsvit;18;Dusilová Ivana Ing.;48;Úsvit;BEZPP;232;1,23;-;17
+22;LEV 21;25;Dušková Blanka MUDr.;59;LEV 21;BEZPP;4;1,06;-;-
+18;DSSS;33;Dvorská Eva;45;DSSS;BEZPP;16;0,64;-;-
+15;SPOZ;14;Dvořáčková Monika Ing.;31;SPOZ;SPOZ;41;0,75;-;-
+22;LEV 21;14;Dvořák Ivan;57;LEV 21;LEV 21;12;3,19;-;-
+15;SPOZ;20;Dvořáková Iveta;45;SPOZ;SPOZ;22;0,40;-;-
+13;Suveren.;36;Dykast František;63;Suveren.;BEZPP;6;0,75;-;-
+2;Svobodní;21;Effenberger Jan;68;Svobodní;Svobodní;70;0,31;-;-
+10;SsČR;20;Eisenhauer Petr;38;SsČR;SsČR;24;3,25;-;-
+9;Změna;11;Elexa Marek;40;Změna;"Z";7;0,15;-;-
+3;Piráti;15;Esner Vladislav Tobias;31;Piráti;Piráti;59;0,27;-;-
+21;KSČM;22;Exnerová Suzana;69;KSČM;BEZPP;228;0,45;-;20
+17;Úsvit;35;Fabian Václav;37;Úsvit;BEZPP;27;0,14;-;34
+24;KČ;18;Fait Luboš;56;KČ;BEZPP;19;1,57;-;-
+9;Změna;14;Feminová Dana;43;Změna;HS;55;1,24;-;-
+11;KDU-ČSL;23;Feranc Daniel Mgr. Ph.D.;33;KDU-ČSL;KDU-ČSL;352;1,09;-;22
+12;PB;29;Fiedler Ladislav;45;PB;BEZPP;1;0,08;-;-
+6;ODS;30;Fifka Petr PharmDr.;46;ODS;ODS;316;0,44;-;26
+20;ANO 2011;5;Fichtner Matěj PhDr. Ing. MBA;29;ANO 2011;ANO 2011;2062;2,13;*;5
+5;HLVZHŮRU;31;Fikarová Jindřiška RNDr.;69;HLVZHŮRU;BEZPP;72;2,77;-;-
+3;Piráti;13;Findeis Lukáš;28;Piráti;Piráti;54;0,25;-;-
+9;Změna;1;Fischerová Taťana;66;Změna;KH;1349;30,65;-;-
+9;Změna;29;Fišera Jan BcA.;28;Změna;BEZPP;5;0,11;-;-
+10;SsČR;29;Fojtík František JUDr.;61;SsČR;SsČR;2;0,27;-;-
+12;PB;9;Foltis Karel Ing.;47;PB;BEZPP;7;0,57;-;-
+22;LEV 21;30;Formánek Josef Bc.;39;LEV 21;LEV 21;6;1,59;-;-
+15;SPOZ;15;Franěk Miroslav Mgr.;50;SPOZ;SPOZ;46;0,84;-;-
+4;TOP 09;16;Frankenbergerová Helena Ing.;64;TOP 09;TOP 09;798;0,59;-;9
+21;KSČM;9;Fraňková Marcela;51;KSČM;KSČM;621;1,24;-;7
+6;ODS;22;Frélich Martin Ing.;36;ODS;ODS;359;0,51;-;18
+12;PB;12;Froněk Roman;55;PB;BEZPP;4;0,32;-;-
+13;Suveren.;19;Froňková Dousková Gabriela Mgr.;43;Suveren.;BEZPP;18;2,25;-;-
+24;KČ;34;Funk Lukáš Mgr. DiS.;31;KČ;BEZPP;10;0,82;-;-
+6;ODS;15;Gabriel Jan Bc.;42;ODS;ODS;684;0,97;-;11
+17;Úsvit;31;Glaser Bedřich;55;Úsvit;BEZPP;58;0,30;-;30
+21;KSČM;10;Gottwald Josef;42;KSČM;KSČM;1042;2,08;-;8
+13;Suveren.;16;Grabowská Anna;54;Suveren.;BEZPP;17;2,13;-;-
+9;Změna;13;Grebo Mladen Mgr.;33;Změna;BEZPP;17;0,38;-;-
+24;KČ;22;Gregor Radovan RNDr. CSc.;64;KČ;BEZPP;4;0,33;-;-
+6;ODS;6;Gros Ondřej;38;ODS;ODS;934;1,32;-;3
+17;Úsvit;7;Groszek Andrzej-Antoni;57;Úsvit;BEZPP;42;0,22;-;6
+18;DSSS;5;Günther Petr;47;DSSS;DSSS;40;1,61;-;-
+21;KSČM;3;Gušlbauerová Dagmar;60;KSČM;KSČM;1099;2,19;-;1
+6;ODS;14;Habart Michal Ing.;48;ODS;ODS;677;0,96;-;10
+20;ANO 2011;7;Hackl Alan Ing.;52;ANO 2011;ANO 2011;546;0,56;-;2
+22;LEV 21;29;Hadrava Jiří;69;LEV 21;LEV 21;2;0,53;-;-
+9;Změna;35;Hainzová Barbora MrA.;27;Změna;BEZPP;8;0,18;-;-
+18;DSSS;32;Hájek Zbyněk;34;DSSS;BEZPP;15;0,60;-;-
+4;TOP 09;11;Hájková Pavlina Mgr.;52;TOP 09;TOP 09;1344;0,99;-;4
+1;ČSSD;30;Halová Hana Mgr.;60;ČSSD;ČSSD;985;1,19;-;26
+18;DSSS;29;Hanuš Michal;21;DSSS;BEZPP;9;0,36;-;-
+1;ČSSD;33;Hanuš Miloslav;52;ČSSD;ČSSD;401;0,48;-;29
+2;Svobodní;16;Hanzák Tomáš Mgr.;30;Svobodní;Svobodní;117;0,53;-;-
+6;ODS;4;Hanzlík Karel Mgr.;47;ODS;ODS;3009;4,27;-;2
+22;LEV 21;16;Harvánek Petr;64;LEV 21;LEV 21;1;0,26;-;-
+2;Svobodní;19;Haurythun Hana Mgr. Bc.;32;Svobodní;Svobodní;109;0,49;-;-
+5;HLVZHŮRU;30;Haurythun Petr;36;HLVZHŮRU;UNP;35;1,35;-;-
+12;PB;30;Hauserová Eva;28;PB;BEZPP;5;0,40;-;-
+15;SPOZ;17;Havlíček Vlastimil Mgr.;41;SPOZ;SPOZ;36;0,66;-;-
+18;DSSS;25;Heidl Tomáš;45;DSSS;BEZPP;11;0,44;-;-
+2;Svobodní;6;Hejdová Alice;40;Svobodní;Svobodní;376;1,71;-;-
+1;ČSSD;26;Hejkrlík Milan Ing.;35;ČSSD;ČSSD;834;1,00;-;22
+12;PB;7;Hejl Petr Ing. CSc.;59;PB;BEZPP;15;1,22;-;-
+10;SsČR;1;Hemer Aleš Mgr.;46;SsČR;SsČR;70;9,48;-;-
+24;KČ;9;Henn Ivan Mgr. Bc.;59;KČ;BEZPP;8;0,66;-;-
+9;Změna;27;Hepnar Petr;42;Změna;BEZPP;46;1,04;-;-
+11;KDU-ČSL;1;Herman Daniel Mgr.;50;KDU-ČSL;KDU-ČSL;6305;19,67;*;1
+9;Změna;20;Heřtusová Simona;39;Změna;HS;37;0,84;-;-
+23;SZ;11;Himl Pavel Dr. phil.;42;SZ;SZ;790;2,08;-;-
+18;DSSS;27;Hlaváčková Jaroslava;68;DSSS;BEZPP;8;0,32;-;-
+11;KDU-ČSL;29;Hlaváčová Martina Ing.;32;KDU-ČSL;BEZPP;355;1,10;-;28
+13;Suveren.;28;Hloták Valdemar Ing. CSc.;71;Suveren.;BEZPP;6;0,75;-;-
+10;SsČR;7;Hnát Václav;67;SsČR;SsČR;8;1,08;-;-
+13;Suveren.;22;Hodek Jindřich;36;Suveren.;BEZPP;5;0,62;-;-
+1;ČSSD;36;Hodek Pavel Mgr. Bc.;39;ČSSD;ČSSD;320;0,38;-;32
+24;KČ;35;Hodík Jaroslav;68;KČ;BEZPP;5;0,41;-;-
+21;KSČM;15;Hoffman František JUDr.;62;KSČM;KSČM;663;1,32;-;13
+20;ANO 2011;4;Holeček Jiří Bc.;41;ANO 2011;ANO 2011;2099;2,17;*;4
+13;Suveren.;31;Holečková Šárka;23;Suveren.;BEZPP;5;0,62;-;-
+18;DSSS;28;Holík Petr;42;DSSS;BEZPP;14;0,56;-;-
+3;Piráti;17;Holovský Sebastian;28;Piráti;Piráti;161;0,75;-;-
+2;Svobodní;35;Holubová Alice;28;Svobodní;Svobodní;69;0,31;-;-
+17;Úsvit;32;Hora Jan;29;Úsvit;BEZPP;95;0,50;-;31
+21;KSČM;8;Horák Jiří PhDr. CSc.;60;KSČM;KSČM;506;1,01;-;6
+22;LEV 21;2;Horák Karel JUDr. Mgr.;46;LEV 21;LEV 21;17;4,52;-;-
+21;KSČM;32;Hošek Karel RSDr.;68;KSČM;KSČM;68;0,13;-;30
+11;KDU-ČSL;5;Hošek Marián MUDr.;62;KDU-ČSL;KDU-ČSL;2420;7,55;-;3
+24;KČ;25;Hošťálek Stanislav PhDr.;66;KČ;BEZPP;5;0,41;-;-
+23;SZ;17;Hrabal Ladislav Ing. CSc.;75;SZ;BEZPP;184;0,48;-;-
+10;SsČR;23;Hrádek Ladislav;56;SsČR;BEZPP;11;1,49;-;-
+20;ANO 2011;22;Hrdličková Radka Bc.;35;ANO 2011;ANO 2011;437;0,45;-;17
+23;SZ;9;Hromada Jiří MgA.;55;SZ;BEZPP;1513;3,99;-;-
+21;KSČM;36;Hronová Alena Mgr.;62;KSČM;KSČM;121;0,24;-;34
+9;Změna;15;Hrušínský Martin;28;Změna;HS;78;1,77;-;-
+21;KSČM;6;Hrůza Ivan JUDr.;59;KSČM;KSČM;1511;3,02;-;4
+21;KSČM;20;Hudeček Jiří prof. RNDr. CSc.;59;KSČM;SDS;934;1,86;-;18
+11;KDU-ČSL;36;Hulicius Eduard Mgr. MA;32;KDU-ČSL;KDU-ČSL;699;2,18;-;35
+23;SZ;8;Hůlová Petra Ph.D.;34;SZ;SZ;2648;6,98;-;-
+21;KSČM;24;Chaloupka Vladimír;55;KSČM;KSČM;169;0,33;-;22
+4;TOP 09;9;Chlupáčová Zuzana JUDr.;58;TOP 09;STAN;3590;2,65;-;2
+13;Suveren.;7;Chovancová Marta JUDr. LL.M.;55;Suveren.;BEZPP;31;3,88;-;-
+22;LEV 21;27;Chrpa Pavel;55;LEV 21;LEV 21;2;0,53;-;-
+17;Úsvit;25;Chudý Stanislav Ing.;74;Úsvit;BEZPP;44;0,23;-;24
+5;HLVZHŮRU;8;Jakubův Michaela;37;HLVZHŮRU;SBB;82;3,16;-;-
+15;SPOZ;11;Janda Jiří;54;SPOZ;SPOZ;23;0,42;-;-
+2;Svobodní;33;Janda Karel Ing.;33;Svobodní;Svobodní;39;0,17;-;-
+6;ODS;7;Janderová Jaroslava JUDr.;63;ODS;ODS;1468;2,08;-;4
+5;HLVZHŮRU;5;Janeček Jiří;39;HLVZHŮRU;BEZPP;78;3,01;-;-
+15;SPOZ;4;Janková Vlasta MUDr.;62;SPOZ;SPOZ;271;4,99;-;-
+20;ANO 2011;23;Jankovský Milan Ing.;27;ANO 2011;ANO 2011;245;0,25;-;18
+6;ODS;35;Janků Jiří Ing.;46;ODS;ODS;983;1,39;-;31
+21;KSČM;31;Janouch Roman Mgr.;40;KSČM;KSČM;517;1,03;-;29
+6;ODS;34;Jarolím Jan Ing.;67;ODS;ODS;844;1,19;-;30
+23;SZ;2;Jechová Kateřina Mgr.;51;SZ;SZ;2174;5,73;-;-
+20;ANO 2011;15;Jetmar Petr;58;ANO 2011;ANO 2011;201;0,20;-;10
+17;Úsvit;34;Ježková Jitka;33;Úsvit;BEZPP;143;0,76;-;33
+18;DSSS;19;Jiránek František;43;DSSS;DSSS;16;0,64;-;-
+6;ODS;33;Jirásková Markéta MUDr.;64;ODS;ODS;1001;1,42;-;29
+11;KDU-ČSL;17;Jirsák Tomáš Mgr.;41;KDU-ČSL;KDU-ČSL;357;1,11;-;16
+22;LEV 21;34;Jirsáková Jarmila;60;LEV 21;LEV 21;3;0,79;-;-
+4;TOP 09;23;Jiřík Michal;43;TOP 09;TOP 09;159;0,11;-;16
+10;SsČR;26;Jůna Josef;32;SsČR;SsČR;20;2,71;-;-
+5;HLVZHŮRU;33;Kabíčková Jana;53;HLVZHŮRU;UNP;26;1,00;-;-
+13;Suveren.;27;Kabíčková Zuzana;35;Suveren.;BEZPP;12;1,50;-;-
+11;KDU-ČSL;20;Kajpr Daniel;44;KDU-ČSL;KDU-ČSL;226;0,70;-;19
+3;Piráti;8;Kallasch Ondřej;22;Piráti;Piráti;257;1,20;-;-
+16;OBČ_2011;2;Kalousková Šorfová Alžběta Mgr.;45;OBČ_2011;BEZPP;27;5,93;-;-
+13;Suveren.;33;Karlovský Jindřich Ing.;59;Suveren.;BEZPP;5;0,62;-;-
+24;KČ;8;Kartáková Daniela;48;KČ;BEZPP;18;1,49;-;-
+5;HLVZHŮRU;20;Kasal Karel;63;HLVZHŮRU;BEZPP;17;0,65;-;-
+15;SPOZ;36;Kasík Jiří MUDr. Ph.D.;57;SPOZ;BEZPP;174;3,20;-;-
+9;Změna;31;Kastel Miroslav;58;Změna;BEZPP;20;0,45;-;-
+12;PB;36;Kašparová Barbora;22;PB;BEZPP;13;1,06;-;-
+24;KČ;32;Kaššovicová Zuzana Mgr.;55;KČ;BEZPP;9;0,74;-;-
+22;LEV 21;18;Kavale Jiří JUDr.;66;LEV 21;LEV 21;6;1,59;-;-
+23;SZ;28;Kavková Eva Mgr.;37;SZ;SZ;573;1,51;-;-
+2;Svobodní;36;Kefurt Robert;50;Svobodní;Svobodní;42;0,19;-;-
+10;SsČR;9;Kesl Karel;58;SsČR;BEZPP;11;1,49;-;-
+3;Piráti;19;Kheck Patrick Mgr.;32;Piráti;BEZPP;89;0,41;-;-
+5;HLVZHŮRU;12;Kindler Kryštof;35;HLVZHŮRU;PaS;95;3,66;-;-
+13;Suveren.;10;Kinkal Luděk DiS.;51;Suveren.;BEZPP;4;0,50;-;-
+17;Úsvit;29;Klaus Václav;57;Úsvit;BEZPP;283;1,50;-;28
+9;Změna;30;Kleinová Brzáková Pavlína Mgr. PhD.;41;Změna;BEZPP;109;2,47;-;-
+1;ČSSD;5;Klíma Karel Ing.;37;ČSSD;ČSSD;2478;2,99;-;2
+15;SPOZ;31;Klimtová Vítězslava;72;SPOZ;BEZPP;33;0,60;-;-
+11;KDU-ČSL;35;Klouda Jan Ing.;43;KDU-ČSL;KDU-ČSL;135;0,42;-;34
+5;HLVZHŮRU;4;Kloudová Gabriela Ing.;31;HLVZHŮRU;BEZPP;128;4,94;-;-
+13;Suveren.;3;Klusáček Michal Ing.;34;Suveren.;ČSNS;27;3,38;-;-
+13;Suveren.;17;Kobes Jan Ing.;50;Suveren.;BEZPP;3;0,37;-;-
+6;ODS;32;Kodetová Soňa;68;ODS;ODS;1158;1,64;-;28
+6;ODS;5;Kohoutová Lenka Bc.;45;ODS;ODS;3791;5,38;-;1
+21;KSČM;35;Kokoška Petr JUDr.;58;KSČM;BEZPP;227;0,45;-;33
+24;KČ;6;Kolář Milan;57;KČ;KČ;6;0,49;-;-
+23;SZ;6;Kolínská Petra Mgr.;38;SZ;SZ;3041;8,02;-;-
+23;SZ;34;Kolmanová Dagmar;54;SZ;SZ;76;0,20;-;-
+10;SsČR;35;Kolmašová Renáta;35;SsČR;BEZPP;2;0,27;-;-
+13;Suveren.;20;Kolomý Luděk;60;Suveren.;BEZPP;1;0,12;-;-
+15;SPOZ;34;Konečná Naděžda;50;SPOZ;SPOZ;10;0,18;-;-
+4;TOP 09;14;Korba Karel Ing.;45;TOP 09;TOP 09;1127;0,83;-;7
+4;TOP 09;3;Korte Daniel PhDr.;60;TOP 09;TOP 09;4620;3,41;*;3
+18;DSSS;31;Kořínková Šárka;42;DSSS;BEZPP;9;0,36;-;-
+20;ANO 2011;26;Kos Ladislav Ing.;55;ANO 2011;HPP 11;611;0,63;-;21
+6;ODS;9;Kos Vojtěch Ing. MBA;41;ODS;ODS;1320;1,87;-;6
+1;ČSSD;12;Koskuba Jiří MUDr.;57;ČSSD;ČSSD;4772;5,77;*;2
+9;Změna;8;Kostlánová Roubalová Věra Ing.;65;Změna;BEZPP;83;1,88;-;-
+6;ODS;26;Košan Petr Ing.;32;ODS;ODS;776;1,10;-;22
+24;KČ;4;Košová Kateřina;33;KČ;BEZPP;33;2,73;-;-
+21;KSČM;23;Kotek Tomáš;40;KSČM;KSČM;895;1,79;-;21
+15;SPOZ;29;Kotoučová Michaela DiS.;35;SPOZ;SPOZ;21;0,38;-;-
+23;SZ;12;Kotvová Iva Mgr.;54;SZ;SZ;411;1,08;-;-
+2;Svobodní;24;Kouba Jáchym;26;Svobodní;Svobodní;77;0,35;-;-
+4;TOP 09;7;Koubek Jiří Mgr.;37;TOP 09;TOP 09;1838;1,36;*;7
+6;ODS;25;Kousalíková Marie Ing.;67;ODS;ODS;2203;3,13;-;21
+17;Úsvit;23;Koutný Daniel;31;Úsvit;BEZPP;91;0,48;-;22
+21;KSČM;4;Krajča Milan;30;KSČM;KSČM;1436;2,87;-;2
+11;KDU-ČSL;26;Král Jiří Mgr.;40;KDU-ČSL;KDU-ČSL;118;0,36;-;25
+13;Suveren.;12;Kramný Miloslav MUDr.;55;Suveren.;BEZPP;16;2,00;-;-
+2;Svobodní;12;Krása Tomáš Ing.;42;Svobodní;Svobodní;194;0,88;-;-
+24;KČ;3;Krátký Petr Mgr. Bc. BBS;38;KČ;KČ;43;3,56;-;-
+5;HLVZHŮRU;7;Kratochvílová Naděžda JUDr.;49;HLVZHŮRU;UNP;46;1,77;-;-
+23;SZ;14;Kratochvílová Silvie Mgr.;35;SZ;SZ;245;0,64;-;-
+3;Piráti;9;Krausová Michaela;21;Piráti;Piráti;524;2,45;-;-
+5;HLVZHŮRU;22;Krausová Natália Bc.;41;HLVZHŮRU;BEZPP;14;0,54;-;-
+24;KČ;30;Krček Jan;71;KČ;KČ;9;0,74;-;-
+17;Úsvit;14;Krček Milan Ing.;50;Úsvit;BEZPP;236;1,25;-;13
+1;ČSSD;22;Krejčová Drahoslava;51;ČSSD;ČSSD;364;0,44;-;18
+12;PB;14;Krejčů Jiří;45;PB;BEZPP;16;1,30;-;-
+4;TOP 09;32;Krobová Hášová Monika JUDr.;50;TOP 09;TOP 09;1212;0,89;-;25
+15;SPOZ;5;Kroh Michael doc. Ing. CSc.;65;SPOZ;SPOZ;172;3,16;-;-
+17;Úsvit;4;Krůta Jan;67;Úsvit;BEZPP;506;2,69;-;3
+18;DSSS;15;Křivánek Karel;49;DSSS;DSSS;28;1,13;-;-
+5;HLVZHŮRU;34;Křivánková Klisáková Dana;37;HLVZHŮRU;UNP;22;0,84;-;-
+24;KČ;36;Kubečka Ivo;68;KČ;BEZPP;5;0,41;-;-
+2;Svobodní;4;Kubíček Jiří Ing.;33;Svobodní;Svobodní;812;3,70;-;-
+10;SsČR;18;Kučera Robert;44;SsČR;SsČR;25;3,38;-;-
+11;KDU-ČSL;31;Kuchařová Ludmila Mgr.;53;KDU-ČSL;KDU-ČSL;129;0,40;-;30
+11;KDU-ČSL;27;Kuchtová Perla Ing. Ph.D.;54;KDU-ČSL;KDU-ČSL;229;0,71;-;26
+5;HLVZHŮRU;17;Kůs Daniel Ing.;41;HLVZHŮRU;UNP;15;0,57;-;-
+12;PB;5;Kutina František;56;PB;BEZPP;9;0,73;-;-
+21;KSČM;30;Kvapil Jaroslav Bc. DiS.;35;KSČM;KSČM;432;0,86;-;28
+20;ANO 2011;6;Kvíčala Petr Mgr.;38;ANO 2011;ANO 2011;1181;1,22;-;1
+2;Svobodní;15;Kykalová Ramešová Kateřina;48;Svobodní;Svobodní;146;0,66;-;-
+12;PB;19;Kyprý Daniel;27;PB;BEZPP;5;0,40;-;-
+21;KSČM;27;Kyselý Vít Ing.;50;KSČM;BEZPP;191;0,38;-;25
+9;Změna;18;Lábusová Jana;25;Změna;BEZPP;24;0,54;-;-
+9;Změna;16;Lábusová Markéta Bc.;30;Změna;BEZPP;37;0,84;-;-
+20;ANO 2011;13;Lacko Radek Ing.;45;ANO 2011;ANO 2011;995;1,03;-;8
+20;ANO 2011;35;Landa Martin;29;ANO 2011;ANO 2011;259;0,26;-;30
+4;TOP 09;15;Lapáček Jakub Mgr.;32;TOP 09;TOP 09;1224;0,90;-;8
+4;TOP 09;5;Laudát František Ing.;53;TOP 09;TOP 09;2867;2,12;*;5
+22;LEV 21;31;Lávičková Iva;22;LEV 21;BEZPP;3;0,79;-;-
+21;KSČM;7;Ledl Lubomír JUDr.;61;KSČM;SDS;862;1,72;-;5
+11;KDU-ČSL;18;Ledvinová Jarmila;40;KDU-ČSL;KDU-ČSL;115;0,35;-;17
+15;SPOZ;6;Legierská Yvona Ing.;57;SPOZ;BEZPP;129;2,37;-;-
+9;Změna;32;Lejtnar Vladimír;33;Změna;BEZPP;22;0,49;-;-
+22;LEV 21;8;Lešek Pavel Ing.;62;LEV 21;LEV 21;3;0,79;-;-
+5;HLVZHŮRU;32;Lhoták Radim Mgr.;60;HLVZHŮRU;BEZPP;32;1,23;-;-
+24;KČ;7;Lieberzeit Michal BcA.;29;KČ;KČ;33;2,73;-;-
+2;Svobodní;23;Liegert Filip Ing.;34;Svobodní;Svobodní;81;0,36;-;-
+10;SsČR;13;Linek Ladislav Ing.;54;SsČR;SsČR;10;1,35;-;-
+17;Úsvit;8;Liška Milan;57;Úsvit;BEZPP;186;0,99;-;7
+23;SZ;1;Liška Ondřej Mgr.;36;SZ;SZ;10590;27,95;-;-
+21;KSČM;33;Lojda František;59;KSČM;KSČM;162;0,32;-;31
+12;PB;23;Lokajová Ellen;54;PB;BEZPP;14;1,14;-;-
+5;HLVZHŮRU;6;Lucák Jozef;28;HLVZHŮRU;PSZ;11;0,42;-;-
+6;ODS;19;Ludková Vladimíra Mgr.;34;ODS;ODS;2428;3,44;-;15
+17;Úsvit;15;Ludvík Tomáš;32;Úsvit;BEZPP;99;0,52;-;14
+12;PB;22;Lukáček Petr;54;PB;BEZPP;1;0,08;-;-
+22;LEV 21;24;Lukášová Eva;65;LEV 21;LEV 21;1;0,26;-;-
+24;KČ;24;Lukavec Petr Ing.;75;KČ;BEZPP;6;0,49;-;-
+24;KČ;12;Lutovský Michal PhDr.;52;KČ;KČ;35;2,90;-;-
+21;KSČM;12;Macek Milan RNDr. CSc.;56;KSČM;KSČM;999;1,99;-;10
+12;PB;26;Macek Pavel;50;PB;BEZPP;5;0,40;-;-
+15;SPOZ;28;Macíková Monika;40;SPOZ;SPOZ;12;0,22;-;-
+3;Piráti;10;Mahrik Viktor;31;Piráti;Piráti;216;1,01;-;-
+2;Svobodní;1;Mach Petr Ing. Ph.D.;38;Svobodní;Svobodní;3945;18,00;-;-
+12;PB;18;Macháček Václav;36;PB;BEZPP;0;0,00;-;-
+1;ČSSD;23;Majerová Lenka Ing.;69;ČSSD;ČSSD;557;0,67;-;19
+6;ODS;31;Mallotová Helena Mgr.;69;ODS;ODS;520;0,73;-;27
+22;LEV 21;22;Malsa Jan Ing.;56;LEV 21;LEV 21;5;1,32;-;-
+1;ČSSD;29;Mandík Miloslav MUDr.;47;ČSSD;ČSSD;2375;2,87;-;25
+10;SsČR;17;Marek Ladislav;61;SsČR;SsČR;4;0,54;-;-
+11;KDU-ČSL;7;Mareš Pavel Mgr.;37;KDU-ČSL;KDU-ČSL;1325;4,13;-;7
+1;ČSSD;11;Marksová Michaela Mgr.;44;ČSSD;ČSSD;3283;3,97;-;8
+11;KDU-ČSL;30;Martínek Jan;24;KDU-ČSL;KDU-ČSL;191;0,59;-;29
+24;KČ;17;Martínek Zdeněk;67;KČ;KČ;8;0,66;-;-
+17;Úsvit;10;Mařík Jakub;30;Úsvit;BEZPP;370;1,97;-;9
+15;SPOZ;27;Mařík Milan Ing.;53;SPOZ;SPOZ;23;0,42;-;-
+16;OBČ_2011;7;Matějková Jana;55;OBČ_2011;BEZPP;9;1,97;-;-
+1;ČSSD;17;Matonoha Drahoslav Ing.;56;ČSSD;ČSSD;927;1,12;-;13
+12;PB;15;Matoušek František;41;PB;BEZPP;2;0,16;-;-
+3;Piráti;21;Matoušek Josef;57;Piráti;BEZPP;450;2,11;-;-
+13;Suveren.;30;Matoušková Ludmila;64;Suveren.;BEZPP;8;1,00;-;-
+9;Změna;7;Melena Ondřej Bc.;29;Změna;BEZPP;65;1,47;-;-
+12;PB;34;Menčík Jan;54;PB;BEZPP;3;0,24;-;-
+20;ANO 2011;36;Menšík Radim Ing.;67;ANO 2011;ANO 2011;333;0,34;-;31
+6;ODS;17;Menzelová Blanka Ing.;56;ODS;ODS;644;0,91;-;13
+10;SsČR;6;Merhaut Marek PhDr. Ph.D., MBA;48;SsČR;SsČR;21;2,84;-;-
+1;ČSSD;16;Miffek Ondřej Ing. Ph.D.;31;ČSSD;ČSSD;965;1,16;-;12
+3;Piráti;7;Michailidu Jana;23;Piráti;Piráti;371;1,73;-;-
+20;ANO 2011;29;Michal Tomáš Ing.;35;ANO 2011;ANO 2011;147;0,15;-;24
+3;Piráti;3;Michálek Jakub Mgr. Bc.;24;Piráti;Piráti;1807;8,47;-;-
+12;PB;8;Mikeš Milan Mgr. Bc.;42;PB;BEZPP;11;0,89;-;-
+3;Piráti;11;Mikoláš Ivan Ing.;48;Piráti;Piráti;249;1,16;-;-
+2;Svobodní;17;Mikulášek Pavel Ing.;47;Svobodní;Svobodní;91;0,41;-;-
+22;LEV 21;15;Mikulcová Monika;30;LEV 21;LEV 21;6;1,59;-;-
+2;Svobodní;32;Miňovská Veronika Ing.;26;Svobodní;Svobodní;144;0,65;-;-
+23;SZ;5;Mirovský Ondřej Mgr. MEM;34;SZ;SZ;1658;4,37;-;-
+17;Úsvit;33;Mlčoch Jan;35;Úsvit;BEZPP;132;0,70;-;32
+18;DSSS;7;Moravcová Tereza;22;DSSS;BEZPP;39;1,57;-;-
+21;KSČM;21;Moučková Miroslava PhDr.;59;KSČM;KSČM;650;1,30;-;19
+22;LEV 21;33;Müller Jiří;61;LEV 21;LEV 21;3;0,79;-;-
+18;DSSS;12;Müller Milan;59;DSSS;DSSS;19;0,76;-;-
+11;KDU-ČSL;19;Müller Miloslav RNDr. Ph.D.;37;KDU-ČSL;KDU-ČSL;613;1,91;-;18
+13;Suveren.;21;Munzarová Alena;40;Suveren.;BEZPP;8;1,00;-;-
+22;LEV 21;21;Musil Jaroslav;38;LEV 21;LEV 21;3;0,79;-;-
+12;PB;21;Musil Věroslav;24;PB;BEZPP;12;0,97;-;-
+4;TOP 09;31;Mužík Vladimír Bc.;39;TOP 09;TOP 09;365;0,27;-;24
+10;SsČR;31;Nakladov Boris Mgr.;67;SsČR;SsČR;1;0,13;-;-
+4;TOP 09;22;Narovec Michal Ing.;40;TOP 09;TOP 09;309;0,22;-;15
+10;SsČR;4;Navrátilová Dagmar Mgr.;47;SsČR;LIDEM;21;2,84;-;-
+5;HLVZHŮRU;36;Nedvěd Jaroslav;42;HLVZHŮRU;UNP;24;0,92;-;-
+22;LEV 21;26;Nedvěd Karel;76;LEV 21;LEV 21;1;0,26;-;-
+23;SZ;35;Nechvátal Antonín MUDr.;49;SZ;SZ;290;0,76;-;-
+6;ODS;1;Němcová Miroslava;60;ODS;ODS;26866;38,17;*;1
+13;Suveren.;11;Němec Vladimír;65;Suveren.;Suveren.;4;0,50;-;-
+24;KČ;19;Němec Vladimír MUDr.;57;KČ;KČ;21;1,74;-;-
+13;Suveren.;8;Němečková Eva Ing.;43;Suveren.;BEZPP;18;2,25;-;-
+15;SPOZ;3;Nemrah Zakaría;23;SPOZ;SPOZ;251;4,62;-;-
+21;KSČM;29;Neubert Milan RNDr.;58;KSČM;SDS;305;0,61;-;27
+9;Změna;28;Neumannová Alice;63;Změna;BEZPP;9;0,20;-;-
+12;PB;24;Nosek Zdeněk;52;PB;BEZPP;1;0,08;-;-
+23;SZ;29;Novák Adam Mgr.;31;SZ;SZ;35;0,09;-;-
+15;SPOZ;25;Novák Petr;57;SPOZ;BEZPP;28;0,51;-;-
+17;Úsvit;27;Novák Tomáš;43;Úsvit;BEZPP;78;0,41;-;26
+13;Suveren.;23;Novák Vlastimil;45;Suveren.;BEZPP;1;0,12;-;-
+1;ČSSD;4;Nováková Hana;55;ČSSD;ČSSD;3231;3,90;-;1
+22;LEV 21;17;Novotný Lubomír PhDr.;68;LEV 21;LEV 21;4;1,06;-;-
+20;ANO 2011;10;Novotný Petr Mgr.;28;ANO 2011;ANO 2011;911;0,94;-;5
+18;DSSS;8;Nový Jaroslav;53;DSSS;DSSS;20;0,80;-;-
+4;TOP 09;24;Nowaková Těmínová Jana JUDr.;50;TOP 09;TOP 09;660;0,48;-;17
+24;KČ;29;Nývlt Zdeněk;55;KČ;BEZPP;3;0,24;-;-
+22;LEV 21;5;Obst Lukáš Bc.;28;LEV 21;LEV 21;4;1,06;-;-
+5;HLVZHŮRU;13;Olišar Martin Ing.;37;HLVZHŮRU;BEZPP;11;0,42;-;-
+9;Změna;25;Opolecký Hynek Bc.;28;Změna;HS;19;0,43;-;-
+1;ČSSD;6;Oubrechtová Miroslava;53;ČSSD;ČSSD;1013;1,22;-;3
+20;ANO 2011;19;Oupic Jaroslav Ing.;59;ANO 2011;ANO 2011;135;0,13;-;14
+24;KČ;21;Ovčarova Vilma MUDr.;67;KČ;BEZPP;11;0,91;-;-
+1;ČSSD;18;Paclík Leoš;35;ČSSD;ČSSD;637;0,77;-;14
+9;Změna;26;Paďourková Lucie;31;Změna;BEZPP;11;0,24;-;-
+10;SsČR;36;Paggio Viktor;32;SsČR;LIDEM;12;1,62;-;-
+4;TOP 09;27;Pasiarová Naděžda;57;TOP 09;TOP 09;812;0,60;-;20
+6;ODS;36;Paulus Libor Mgr.;42;ODS;ODS;500;0,71;-;32
+6;ODS;24;Pavlíčková Kateřina MUDr.;61;ODS;ODS;869;1,23;-;20
+5;HLVZHŮRU;23;Pavlíková Hana Mgr.;46;HLVZHŮRU;BEZPP;42;1,62;-;-
+5;HLVZHŮRU;18;Pavlů René;48;HLVZHŮRU;BEZPP;31;1,19;-;-
+11;KDU-ČSL;22;Pavlů Tomáš Mgr.;47;KDU-ČSL;KDU-ČSL;246;0,76;-;21
+4;TOP 09;4;Pecková Gabriela MUDr.;56;TOP 09;TOP 09;5502;4,07;*;4
+24;KČ;14;Pejřimovský Josef Mgr. Ing.;68;KČ;KČ;22;1,82;-;-
+20;ANO 2011;21;Pekar Vasil Silvestr Ing. Ph.D.;67;ANO 2011;ANO 2011;262;0,27;-;16
+22;LEV 21;6;Pelc Vladimír PhDr.;59;LEV 21;LEV 21;6;1,59;-;-
+6;ODS;28;Perlín Radim RNDr. Ph.D.;51;ODS;ODS;1039;1,47;-;24
+2;Svobodní;10;Pešan Pavel Bc.;39;Svobodní;Svobodní;97;0,44;-;-
+1;ČSSD;20;Peštová Kateřina;30;ČSSD;ČSSD;1401;1,69;-;16
+21;KSČM;13;Petelík Jaromír Mgr.;30;KSČM;KSČM;966;1,93;-;11
+4;TOP 09;36;Petr Jan Mgr.;34;TOP 09;TOP 09;413;0,30;-;29
+5;HLVZHŮRU;29;Petr Miloš Ing.;26;HLVZHŮRU;BEZPP;21;0,81;-;-
+9;Změna;4;Petráň Zdeněk MUDr.;60;Změna;BEZPP;142;3,22;-;-
+1;ČSSD;10;Petrus Roman;35;ČSSD;ČSSD;1082;1,30;-;7
+17;Úsvit;16;Petřina Martin Ing.;34;Úsvit;BEZPP;142;0,75;-;15
+18;DSSS;1;Petřivalský Jiří;30;DSSS;DSSS;174;7,03;-;-
+11;KDU-ČSL;8;Philipp Tom MUDr. Ph.D., MBA;44;KDU-ČSL;KDU-ČSL;1785;5,56;-;5
+23;SZ;18;Picková Ilona Ing.;46;SZ;SZ;188;0,49;-;-
+11;KDU-ČSL;28;Pikálek Dan Bc.;42;KDU-ČSL;KDU-ČSL;218;0,68;-;27
+13;Suveren.;29;Pilařová Gabriela;34;Suveren.;BEZPP;7;0,87;-;-
+20;ANO 2011;33;Pistora Zdeněk Ing.;54;ANO 2011;ANO 2011;197;0,20;-;28
+4;TOP 09;8;Plíšek Martin Mgr.;38;TOP 09;TOP 09;1866;1,38;-;1
+12;PB;31;Plzák Petr;52;PB;BEZPP;6;0,48;-;-
+3;Piráti;12;Podhajský Jan Mgr.;37;Piráti;Piráti;348;1,63;-;-
+23;SZ;32;Pokorná Martina Mgr.;42;SZ;SZ;207;0,54;-;-
+22;LEV 21;9;Pokorný Libor Ing.;57;LEV 21;LEV 21;6;1,59;-;-
+20;ANO 2011;20;Polách Martin Ing. arch.;34;ANO 2011;ANO 2011;727;0,75;-;15
+6;ODS;12;Polák Ferdinand MUDr. Ph.D.;41;ODS;ODS;3006;4,27;-;8
+3;Piráti;14;Polák Michael;39;Piráti;Piráti;201;0,94;-;-
+2;Svobodní;5;Polanecký Jan Ing.;36;Svobodní;Svobodní;479;2,18;-;-
+4;TOP 09;2;Polčák Stanislav JUDr.;33;TOP 09;STAN;9004;6,66;*;2
+22;LEV 21;10;Pondělíček Jiří;49;LEV 21;LEV 21;7;1,86;-;-
+12;PB;25;Popelka Mirko;42;PB;BEZPP;1;0,08;-;-
+2;Svobodní;7;Potužník Petr MUDr.;44;Svobodní;Svobodní;500;2,28;-;-
+10;SsČR;11;Princová Kristina;59;SsČR;BEZPP;10;1,35;-;-
+3;Piráti;4;Profant Ondřej;25;Piráti;Piráti;750;3,51;-;-
+24;KČ;16;Procházka Jan Mgr.;27;KČ;BEZPP;13;1,07;-;-
+13;Suveren.;25;Procházka Jindřich;57;Suveren.;BEZPP;1;0,12;-;-
+11;KDU-ČSL;21;Procházková Tereza Bc.;26;KDU-ČSL;KDU-ČSL;300;0,93;-;20
+5;HLVZHŮRU;16;Prokešová Jana Mgr.;43;HLVZHŮRU;BEZPP;76;2,93;-;-
+20;ANO 2011;27;Prokop Josef MVDr.;58;ANO 2011;ANO 2011;714;0,73;-;22
+22;LEV 21;23;Prokop Václav;66;LEV 21;LEV 21;2;0,53;-;-
+12;PB;33;Prokop Zdeněk;49;PB;BEZPP;1;0,08;-;-
+10;SsČR;5;Promberger Jiří Mgr.;65;SsČR;SsČR;13;1,76;-;-
+15;SPOZ;7;Pršala Pavel Ing. CSc.;61;SPOZ;SPOZ;154;2,83;-;-
+9;Změna;5;Průdková Ludmila Ing.;56;Změna;BEZPP;55;1,24;-;-
+18;DSSS;9;Puč Petr;51;DSSS;DSSS;63;2,54;-;-
+22;LEV 21;32;Pucholt Milan;42;LEV 21;LEV 21;0;0,00;-;-
+5;HLVZHŮRU;10;Pulec Petr;43;HLVZHŮRU;UNP;40;1,54;-;-
+20;ANO 2011;11;Pulgret Karel;33;ANO 2011;ANO 2011;297;0,30;-;6
+13;Suveren.;5;Purnoch Milan Mgr.;51;Suveren.;BEZPP;13;1,62;-;-
+13;Suveren.;14;Pýcha Miroslav Ing.;56;Suveren.;BEZPP;3;0,37;-;-
+23;SZ;31;Radil Jan Bc.;29;SZ;SZ;41;0,10;-;-
+9;Změna;22;Radinová Svatava;36;Změna;BEZPP;13;0,29;-;-
+24;KČ;11;Raschel Petr JUDr.;60;KČ;BEZPP;24;1,99;-;-
+11;KDU-ČSL;2;Rázková Daniela PhDr.;51;KDU-ČSL;KDU-ČSL;2258;7,04;-;4
+6;ODS;23;Recman Jan Mgr.;32;ODS;ODS;578;0,82;-;19
+16;OBČ_2011;9;Reiman Josef;71;OBČ_2011;BEZPP;6;1,31;-;-
+9;Změna;34;Reimann Zdeněk;71;Změna;BEZPP;6;0,13;-;-
+23;SZ;16;Rejchrtová Alžběta Mgr.;66;SZ;SZ;455;1,20;-;-
+23;SZ;26;Rejchrtová Petra Mgr.;44;SZ;SZ;270;0,71;-;-
+10;SsČR;10;Rejmon Jiří;57;SsČR;SsČR;17;2,30;-;-
+23;SZ;22;Rendlová Simona Ing.;54;SZ;SZ;201;0,53;-;-
+1;ČSSD;27;Riedlbauchová Ľubica Mgr.;69;ČSSD;ČSSD;381;0,46;-;23
+1;ČSSD;34;Rödig Daniel Ing.;37;ČSSD;ČSSD;279;0,33;-;30
+9;Změna;10;Rösslerová Regina;53;Změna;KH;38;0,86;-;-
+22;LEV 21;36;Rostašová Edita;51;LEV 21;LEV 21;1;0,26;-;-
+11;KDU-ČSL;24;Rousková Ivana;48;KDU-ČSL;KDU-ČSL;239;0,74;-;23
+13;Suveren.;6;Ruml Vladimír Bc.;25;Suveren.;BEZPP;17;2,13;-;-
+23;SZ;13;Rut Ondřej Mgr.;31;SZ;SZ;630;1,66;-;-
+17;Úsvit;12;Růžek Jaroslav Ing. CSc.;60;Úsvit;BEZPP;194;1,03;-;11
+20;ANO 2011;14;Růžička Martin Bc.;29;ANO 2011;ANO 2011;217;0,22;-;9
+2;Svobodní;20;Růžička Zdislav;63;Svobodní;Svobodní;94;0,42;-;-
+2;Svobodní;30;Rybář Jiří;25;Svobodní;Svobodní;80;0,36;-;-
+20;ANO 2011;30;Rýdl Karel Bc.;28;ANO 2011;ANO 2011;175;0,18;-;25
+24;KČ;10;Ryšavá Romana;50;KČ;BEZPP;16;1,32;-;-
+20;ANO 2011;12;Říčař Jan MBA;29;ANO 2011;ANO 2011;552;0,57;-;7
+13;Suveren.;9;Říha Jakub MUDr.;42;Suveren.;BEZPP;16;2,00;-;-
+11;KDU-ČSL;15;Říha Vladimír MUDr.;64;KDU-ČSL;KDU-ČSL;991;3,09;-;14
+11;KDU-ČSL;10;Řivnáčová Irena Ing.;64;KDU-ČSL;KDU-ČSL;323;1,00;-;9
+5;HLVZHŮRU;9;Satran Eugen;26;HLVZHŮRU;UNP;24;0,92;-;-
+2;Svobodní;34;Sečkár Alois Bc.;25;Svobodní;Svobodní;101;0,46;-;-
+15;SPOZ;10;Sekera Tomáš Mgr. MBA;48;SPOZ;SPOZ;110;2,02;-;-
+13;Suveren.;26;Semecký Marcel;51;Suveren.;Suveren.;3;0,37;-;-
+21;KSČM;1;Semelová Marta Mgr.;53;KSČM;KSČM;3291;6,58;*;2
+6;ODS;27;Scholz Petr;24;ODS;ODS;719;1,02;-;23
+4;TOP 09;13;Schwarz Otto MUDr.;60;TOP 09;TOP 09;2442;1,80;-;6
+4;TOP 09;1;Schwarzenberg Karel;75;TOP 09;TOP 09;37794;27,97;*;1
+9;Změna;19;Sikora Roman MgA.;43;Změna;BEZPP;27;0,61;-;-
+2;Svobodní;22;Skalický Jan Ing.;52;Svobodní;Svobodní;80;0,36;-;-
+21;KSČM;17;Skoupil Karel;60;KSČM;KSČM;148;0,29;-;15
+4;TOP 09;25;Slabihoudek Tomáš;35;TOP 09;TOP 09;508;0,37;-;18
+20;ANO 2011;24;Slabý Martin;46;ANO 2011;ANO 2011;201;0,20;-;19
+17;Úsvit;21;Sláma Michal;31;Úsvit;BEZPP;110;0,58;-;20
+2;Svobodní;2;Smetka Radim;25;Svobodní;Svobodní;752;3,43;-;-
+9;Změna;24;Smíšková Zuzana Mgr.;31;Změna;HS;33;0,74;-;-
+10;SsČR;22;Smolíková Jaroslava;70;SsČR;BEZPP;1;0,13;-;-
+15;SPOZ;2;Smrčka Luboš doc. Ing. CSc.;52;SPOZ;SPOZ;429;7,90;-;-
+9;Změna;2;Smrž Milan;65;Změna;"Z";155;3,52;-;-
+17;Úsvit;36;Snopek František;38;Úsvit;BEZPP;73;0,38;-;35
+18;DSSS;10;Sojka Libor;58;DSSS;DSSS;24;0,97;-;-
+5;HLVZHŮRU;11;Solis Daniel Lic. LL.M.;45;HLVZHŮRU;UNP;138;5,32;-;-
+4;TOP 09;26;Sova Jan Mgr.;32;TOP 09;TOP 09;570;0,42;-;19
+17;Úsvit;13;Spálenka Peter Ing.;66;Úsvit;VV;127;0,67;-;12
+17;Úsvit;28;Spilka Petr Bc.;31;Úsvit;BEZPP;63;0,33;-;27
+24;KČ;1;Srb Václav;55;KČ;KČ;107;8,87;-;-
+17;Úsvit;19;Stach Michal;30;Úsvit;BEZPP;139;0,74;-;18
+9;Změna;36;Stach Stanislav Ing. CSc.;76;Změna;BEZPP;10;0,22;-;-
+12;PB;6;Staněk František;57;PB;BEZPP;4;0,32;-;-
+4;TOP 09;19;Stárek Jan;30;TOP 09;TOP 09;456;0,33;-;12
+2;Svobodní;28;Steigerwald Daniel;33;Svobodní;Svobodní;158;0,72;-;-
+2;Svobodní;9;Strachota Jiří Mgr. CSc.;66;Svobodní;Svobodní;363;1,65;-;-
+9;Změna;23;Strejček Vladimír Mgr.;65;Změna;KH;8;0,18;-;-
+23;SZ;7;Stropnický Matěj PhDr.;30;SZ;SZ;3586;9,46;-;-
+2;Svobodní;14;Strunz Pavel RNDr. CSc.;49;Svobodní;Svobodní;282;1,28;-;-
+13;Suveren.;1;Středa Leoš MUDr.;50;Suveren.;BEZPP;55;6,89;-;-
+1;ČSSD;2;Stupčuk Štěpán JUDr.;37;ČSSD;ČSSD;3209;3,88;*;3
+3;Piráti;16;Sůra Aleš Ing. Bc.;36;Piráti;Piráti;225;1,05;-;-
+10;SsČR;8;Svetlik George;62;SsČR;KONS;18;2,43;-;-
+3;Piráti;18;Světnička Karel Mgr. et Bc.;53;Piráti;BEZPP;208;0,97;-;-
+6;ODS;2;Svoboda Bohuslav doc. MUDr. CSc.;69;ODS;ODS;14953;21,24;*;2
+1;ČSSD;13;Svoboda Miroslav Ing.;51;ČSSD;ČSSD;1392;1,68;-;9
+10;SsČR;2;Svoboda Slavomír;58;SsČR;BEZPP;26;3,52;-;-
+11;KDU-ČSL;33;Svoboda Tomáš PhDr. Bc. Ph.D.;40;KDU-ČSL;KDU-ČSL;250;0,78;-;32
+2;Svobodní;31;Sýkora Petr Mgr.;28;Svobodní;Svobodní;95;0,43;-;-
+11;KDU-ČSL;13;Sýkora Petr Ing.;49;KDU-ČSL;KDU-ČSL;273;0,85;-;12
+18;DSSS;4;Sýkorová Jana Ing.;45;DSSS;BEZPP;68;2,74;-;-
+18;DSSS;6;Szwachulová Ivana;51;DSSS;DSSS;52;2,10;-;-
+21;KSČM;25;Šafránek Ladislav Mgr. Ing. CSc., MBA;67;KSČM;KSČM;311;0,62;-;23
+10;SsČR;24;Šafránková Milada;45;SsČR;BEZPP;8;1,08;-;-
+17;Úsvit;1;Šarapatka Milan Ing. Mgr. Ph.D.;57;Úsvit;BEZPP;1377;7,34;*;1
+9;Změna;6;Šatavová Monika;49;Změna;KH;77;1,74;-;-
+17;Úsvit;30;Šefl Jakub DiS.;25;Úsvit;BEZPP;125;0,66;-;29
+10;SsČR;30;Šefl Ladislav;64;SsČR;SsČR;0;0,00;-;-
+17;Úsvit;9;Šefl Petr;61;Úsvit;BEZPP;125;0,66;-;8
+11;KDU-ČSL;11;Šimáček Milan Ing. Bc.;51;KDU-ČSL;BEZPP;340;1,06;-;10
+23;SZ;20;Šimáčková Laurenčíková Klára Mgr.;34;SZ;SZ;563;1,48;-;-
+15;SPOZ;19;Šímová Michaela Ing.;46;SPOZ;SPOZ;32;0,58;-;-
+21;KSČM;28;Šimša Petr;40;KSČM;KSČM;257;0,51;-;26
+5;HLVZHŮRU;25;Šimůnek Robert;47;HLVZHŮRU;BEZPP;30;1,15;-;-
+21;KSČM;14;Šimůnková Lenka;23;KSČM;KSČM;1223;2,44;-;12
+15;SPOZ;12;Šimůnková Martina Ing.;49;SPOZ;SPOZ;109;2,00;-;-
+20;ANO 2011;25;Širc Jakub;21;ANO 2011;ANO 2011;513;0,53;-;20
+1;ČSSD;7;Škrak Pavol Ing.;62;ČSSD;ČSSD;411;0,49;-;4
+18;DSSS;22;Šmejkal Rudolf;48;DSSS;BEZPP;14;0,56;-;-
+12;PB;20;Šmoldas Josef;60;PB;BEZPP;11;0,89;-;-
+18;DSSS;18;Šmolíková Šárka;27;DSSS;DSSS;20;0,80;-;-
+4;TOP 09;33;Šnajdr Jan Ing.;42;TOP 09;TOP 09;995;0,73;-;26
+12;PB;16;Šnebergová Lenka;54;PB;BEZPP;18;1,46;-;-
+12;PB;10;Šnoblová Eva Mgr.;57;PB;BEZPP;23;1,87;-;-
+22;LEV 21;7;Šolková Anežka;59;LEV 21;LEV 21;4;1,06;-;-
+20;ANO 2011;8;Špaňhel Jiří Ing.;63;ANO 2011;ANO 2011;777;0,80;-;3
+17;Úsvit;26;Šperling Josef;41;Úsvit;BEZPP;144;0,76;-;25
+20;ANO 2011;18;Špitálská Alena Ing.;61;ANO 2011;ANO 2011;312;0,32;-;13
+1;ČSSD;15;Šplíchal Karel PhDr.;66;ČSSD;ČSSD;2117;2,56;-;11
+2;Svobodní;8;Špoljarič Damir;25;Svobodní;Svobodní;176;0,80;-;-
+24;KČ;15;Šrámek Ferdinand;44;KČ;KČ;26;2,15;-;-
+18;DSSS;13;Šrámková Helena;47;DSSS;BEZPP;42;1,69;-;-
+21;KSČM;26;Štainc Jiří Mgr.;32;KSČM;KSČM;858;1,71;-;24
+2;Svobodní;26;Štampach Tomáš Bc.;29;Svobodní;Svobodní;66;0,30;-;-
+5;HLVZHŮRU;19;Štěpánková Hana;35;HLVZHŮRU;BEZPP;10;0,38;-;-
+22;LEV 21;19;Šterzlová Daniela;40;LEV 21;LEV 21;8;2,12;-;-
+5;HLVZHŮRU;27;Štorek Jiří;44;HLVZHŮRU;SBB;8;0,30;-;-
+2;Svobodní;27;Štross Pavel Bc.;26;Svobodní;Svobodní;57;0,26;-;-
+18;DSSS;23;Šubrt Jiří;32;DSSS;BEZPP;12;0,48;-;-
+5;HLVZHŮRU;26;Šulc Vladimir;48;HLVZHŮRU;SBB;19;0,73;-;-
+21;KSČM;5;Šulda Ludvík BBA;34;KSČM;KSČM;1421;2,84;-;3
+10;SsČR;15;Šupšák Petr;50;SsČR;SsČR;9;1,21;-;-
+6;ODS;18;Švarc František;60;ODS;ODS;841;1,19;-;14
+9;Změna;33;Šverma Miroslav;29;Změna;BEZPP;6;0,13;-;-
+15;SPOZ;22;Talanda Petr Ing. MBA;50;SPOZ;SPOZ;21;0,38;-;-
+12;PB;35;Terč Václav;60;PB;BEZPP;6;0,48;-;-
+24;KČ;26;Thurzo Ladislav;62;KČ;KČ;4;0,33;-;-
+23;SZ;15;Tišer Stanislav;56;SZ;"SRP";630;1,66;-;-
+17;Úsvit;17;Tomášek Přemysl Ing.;59;Úsvit;BEZPP;155;0,82;-;16
+22;LEV 21;12;Topinka Petr JUDr.;55;LEV 21;LEV 21;9;2,39;-;-
+11;KDU-ČSL;14;Trčková Jitka MgA. ak. soch.;68;KDU-ČSL;KDU-ČSL;324;1,01;-;13
+1;ČSSD;8;Trková Jana MUDr.;60;ČSSD;ČSSD;1826;2,20;-;5
+23;SZ;19;Trnka Jan MUDr. Ph.D., M.Phil.;35;SZ;SZ;780;2,05;-;-
+11;KDU-ČSL;9;Tůmová Pavla RNDr. Ph.D.;39;KDU-ČSL;KDU-ČSL;1104;3,44;-;8
+18;DSSS;35;Uhlářová Michaela;21;DSSS;BEZPP;12;0,48;-;-
+4;TOP 09;21;Ulm Karel Mgr.;32;TOP 09;TOP 09;1268;0,93;-;14
+4;TOP 09;35;Urban Milan Dr. Ing.;53;TOP 09;TOP 09;873;0,64;-;28
+5;HLVZHŮRU;28;Urbanová Monika;38;HLVZHŮRU;UNP;11;0,42;-;-
+10;SsČR;14;Vacek Jaroslav;62;SsČR;SsČR;11;1,49;-;-
+1;ČSSD;14;Václavek Miroslav Ing.;58;ČSSD;ČSSD;1000;1,20;-;10
+15;SPOZ;30;Václavík Pavel Bc.;26;SPOZ;SPOZ;28;0,51;-;-
+15;SPOZ;33;Václavík Pavel;49;SPOZ;SPOZ;3;0,05;-;-
+1;ČSSD;21;Vaicová Marie Ing.;68;ČSSD;ČSSD;312;0,37;-;17
+22;LEV 21;28;Valentová Helena;61;LEV 21;BEZPP;3;0,79;-;-
+4;TOP 09;10;Valchář Petr;26;TOP 09;BEZPP;769;0,56;-;3
+20;ANO 2011;2;Válková Helena prof. JUDr. CSc.;62;ANO 2011;BEZPP;4950;5,12;*;2
+12;PB;27;Vaňátková Světlana;44;PB;BEZPP;6;0,48;-;-
+18;DSSS;24;Vaníčková Lenka;47;DSSS;BEZPP;10;0,40;-;-
+4;TOP 09;28;Vašíček Jan Ing.;39;TOP 09;TOP 09;648;0,47;-;21
+5;HLVZHŮRU;21;Vávra Josef Ing.;60;HLVZHŮRU;SBB;17;0,65;-;-
+13;Suveren.;13;Vávra Vítězslav;60;Suveren.;BEZPP;8;1,00;-;-
+13;Suveren.;24;Vavroš Jaroslav Ing.;25;Suveren.;BEZPP;2;0,25;-;-
+22;LEV 21;35;Vazač Jiří;57;LEV 21;BEZPP;1;0,26;-;-
+20;ANO 2011;16;Venclíček Petr;29;ANO 2011;ANO 2011;223;0,23;-;11
+20;ANO 2011;28;Veselá Vladislava JUDr.;29;ANO 2011;ANO 2011;990;1,02;-;23
+3;Piráti;5;Veverka Robert;36;Piráti;BEZPP;1085;5,08;-;-
+23;SZ;21;Vilgus Petr MgA. Ph.D.;39;SZ;SZ;383;1,01;-;-
+12;PB;11;Vilím Stanislav;42;PB;BEZPP;12;0,97;-;-
+2;Svobodní;11;Virglerová Fronéma;26;Svobodní;Svobodní;375;1,71;-;-
+12;PB;28;Viška Miroslav;46;PB;BEZPP;2;0,16;-;-
+6;ODS;29;Vítkovská Lucie Bc. DiS.;28;ODS;ODS;598;0,84;-;25
+2;Svobodní;18;Vlach Erik;35;Svobodní;Svobodní;53;0,24;-;-
+6;ODS;8;Vlček Daniel Ing.;31;ODS;ODS;1121;1,59;-;5
+4;TOP 09;17;Vlček Stanislav;50;TOP 09;TOP 09;400;0,29;-;10
+15;SPOZ;32;Vlček Vít JUDr.;55;SPOZ;SPOZ;63;1,16;-;-
+1;ČSSD;28;Vodák Břetislav Ing.;60;ČSSD;ČSSD;227;0,27;-;24
+15;SPOZ;18;Vodička Aleš Ing.;42;SPOZ;SPOZ;11;0,20;-;-
+1;ČSSD;24;Vohlídal Jiří Ing. Ph.D.;37;ČSSD;ČSSD;868;1,04;-;20
+5;HLVZHŮRU;14;Vojíková Vítková Martina;38;HLVZHŮRU;SBB;32;1,23;-;-
+13;Suveren.;34;Vojtíšková Andrea;44;Suveren.;BEZPP;5;0,62;-;-
+10;SsČR;12;Vojtová Iveta;42;SsČR;BEZPP;9;1,21;-;-
+18;DSSS;26;Vokněr Pavel;27;DSSS;BEZPP;14;0,56;-;-
+18;DSSS;17;Vokněr Petr;24;DSSS;DSSS;19;0,76;-;-
+18;DSSS;34;Vokněrová Jiřina;49;DSSS;DSSS;34;1,37;-;-
+18;DSSS;14;Volešák Tomáš;57;DSSS;DSSS;14;0,56;-;-
+17;Úsvit;5;Volfová Andrea Mgr.;45;Úsvit;BEZPP;754;4,01;-;4
+10;SsČR;19;Volfová Danuše;58;SsČR;BEZPP;8;1,08;-;-
+4;TOP 09;18;Volšík Jan MBA;43;TOP 09;TOP 09;385;0,28;-;11
+4;TOP 09;12;Vondra Radek Bc.;41;TOP 09;TOP 09;1032;0,76;-;5
+1;ČSSD;31;Vondráková Jiřina;62;ČSSD;ČSSD;339;0,41;-;27
+15;SPOZ;35;Vondrášek Matyáš;23;SPOZ;SPOZ;20;0,36;-;-
+15;SPOZ;24;Vondrys Miloslav;55;SPOZ;SPOZ;17;0,31;-;-
+1;ČSSD;25;Voráček Emil PhDr. DrSc.;63;ČSSD;ČSSD;1080;1,30;-;21
+22;LEV 21;11;Votava Přemysl;70;LEV 21;LEV 21;11;2,92;-;-
+13;Suveren.;32;Votrubová Miloslava;64;Suveren.;BEZPP;4;0,50;-;-
+22;LEV 21;20;Vranka Jakub MUDr.;36;LEV 21;LEV 21;8;2,12;-;-
+21;KSČM;34;Vrobel Lukáš;25;KSČM;KSČM;369;0,73;-;32
+10;SsČR;32;Vrtílka Pavel;50;SsČR;BEZPP;4;0,54;-;-
+10;SsČR;34;Vrtílková Michaela;30;SsČR;BEZPP;4;0,54;-;-
+10;SsČR;27;Vrtílková Renáta;51;SsČR;BEZPP;5;0,67;-;-
+16;OBČ_2011;5;Vykysal Jaroslav;37;OBČ_2011;OBČ_2011;8;1,75;-;-
+3;Piráti;2;Wagnerová Lenka PhDr.;52;Piráti;Piráti;1439;6,74;-;-
+23;SZ;3;Walek Czeslaw Mgr.;38;SZ;SZ;2449;6,46;-;-
+13;Suveren.;2;Weiszová Silvia;46;Suveren.;Suveren.;30;3,75;-;-
+20;ANO 2011;31;Wiedermann Janíčková Darina Mgr.;32;ANO 2011;ANO 2011;265;0,27;-;26
+11;KDU-ČSL;3;Wolf Jan;41;KDU-ČSL;KDU-ČSL;1681;5,24;-;6
+18;DSSS;20;Zahrádková Ladislava;53;DSSS;DSSS;16;0,64;-;-
+1;ČSSD;19;Zahradnický Tomáš Ing. Ph.D.;34;ČSSD;ČSSD;1677;2,02;-;15
+23;SZ;36;Zachariášová Lucia JUDr.;31;SZ;SZ;435;1,14;-;-
+1;ČSSD;1;Zavadil Jaroslav;69;ČSSD;BEZPP;7991;9,66;*;1
+11;KDU-ČSL;4;Závodský Ondřej JUDr. Ph.D.;33;KDU-ČSL;BEZPP;4991;15,57;-;2
+18;DSSS;16;Zborníková Květoslava;55;DSSS;DSSS;7;0,28;-;-
+5;HLVZHŮRU;2;Zelený Miroslav Ing.;43;HLVZHŮRU;UNP;123;4,74;-;-
+18;DSSS;21;Zeman Josef;48;DSSS;DSSS;16;0,64;-;-
+18;DSSS;11;Zemanová Alena;44;DSSS;DSSS;23;0,93;-;-
+9;Změna;21;Zicha Ondřej MgA.;38;Změna;BEZPP;11;0,24;-;-
+20;ANO 2011;34;Zíka Jiří PhDr.;60;ANO 2011;ANO 2011;369;0,38;-;29
+1;ČSSD;32;Zikmundová Eva;58;ČSSD;ČSSD;606;0,73;-;28
+17;Úsvit;2;Zilvar Jan;48;Úsvit;Úsvit;723;3,85;-;1
+20;ANO 2011;3;Zlatuška Jiří prof. RNDr. CSc.;56;ANO 2011;ANO 2011;4820;4,99;*;3
+18;DSSS;36;Zobánek Roman;41;DSSS;BEZPP;10;0,40;-;-
+5;HLVZHŮRU;1;Zoufalík Bohumil Mgr.;45;HLVZHŮRU;BEZPP;233;8,99;-;-
+23;SZ;27;Zubatý Jan Ing.;26;SZ;SZ;168;0,44;-;-
+15;SPOZ;1;Žák Zdeněk Bc.;45;SPOZ;BEZPP;841;15,49;-;-
+17;Úsvit;22;Žídek Vítězslav Ing.;58;Úsvit;BEZPP;105;0,55;-;21

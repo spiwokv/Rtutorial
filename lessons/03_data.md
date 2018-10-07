@@ -31,8 +31,8 @@ To inverse the order of elements you can use the colon operator as `jmena[9:1]` 
 
 Let us move to more complicated dataset. You can load the results of municipal elections 2015 in Prague:
 ```R
-volby <- read.table("https://web.vscht.cz/~spiwokv/statistika/volby2013prahaUTF8eng.txt",
-                    sep=";", header=T, dec=",", encoding="UTF=8")
+volby <- read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/data/volby2013praha.txt",
+                    sep=";", header=T, dec=",")
 ```
 Parameter `sep=";"` indicates that individual items are separated by a semicolon. The option
 `header=T` indicates that the first line contains names of colums. In fact the first line contains
