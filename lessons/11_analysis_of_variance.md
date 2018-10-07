@@ -57,9 +57,15 @@ mujmodel<-aov(all~labels, data=df)
 mujmodel
 summary(mujmodel)
 ```
-The same result can be obtained by:
+We can reject the null hypothesis on the basis of the p-value. The same result can be obtained by:
 ```R
 anova(lm(all~labels, data=df))
 ```
 
+## Tips and Tricks
+
+Kruskal-Wallis rank sum test (`kruskal.test`) is a non-parametric alternative to ANOVA:
+```R
+kruskal.test(all~labels, data=df)
+```
 
