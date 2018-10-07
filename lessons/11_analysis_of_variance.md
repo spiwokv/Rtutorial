@@ -67,7 +67,12 @@ ditribution try data transformation or Kruskal-Walis test (bellow). For differen
 
 ## Tips and Tricks
 
-Kruskal-Wallis rank sum test (`kruskal.test`) is a non-parametric alternative to ANOVA:
+* to test normality of data you can use the function `mshapiro.test`. It is a multivariate alternative
+to Shapiro and Wilk test.
+
+* to test homogenity of variances you can use `bartlett.test` or `fligner.test`.
+
+* Kruskal-Wallis rank sum test (`kruskal.test`) is a non-parametric alternative to ANOVA:
 ```R
 kruskal.test(all~labels, data=df)
 ```
