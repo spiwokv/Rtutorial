@@ -1,4 +1,5 @@
-### Analysing data in R
+### Analyzing data in R
+
 We can show how to extract and manipulate data from a dataset. Let us create a simple "dataset" containing names:
 ```R
 jmena <- c("Karina","Radmila","Diana","Dalimil","Melichar","Vilma","Cestmir","Vladan","Bretislav")
@@ -35,7 +36,7 @@ volby <- read.table("https://web.vscht.cz/~spiwokv/statistika/volby2013prahaUTF8
                     sep=";", header=T, dec=",", encoding="UTF=8")
 ```
 Parameter `sep=";"` indicates that individual items are separated by a semicolon. The option
-`header=T` indicates that the first line contains names of colums. In fact the first line contains
+`header=T` indicates that the first line contains names of columns. In fact the first line contains
 the remark, because it starts with `#`. The option `dec=","` tells us that the Czech decimal is used.
 Finally, `encoding="UTF=8"` determines encoding.
 
@@ -58,7 +59,7 @@ the first candidate in the alphabetic order as:
 ```R
 volby[1,]
 ```
-Colums can be selected by:
+Columns can be selected by:
 ```R
 volby[,4]
 ```
@@ -68,12 +69,13 @@ The function:
 ```R
 names(volby)
 ```
-prints names of colums, such as party number and name, candidate's name and age etc.
+prints names of columns, such as party number and name, candidate's name and age etc.
 
 As an alternative to `volby[,4]` you can use `$` operator followed by the name of the column:
 ```R
-volby$name  # PREDELAT!!!!!!!!
+volby$jmeno
 ```
+("jmeno" = "name" in Czech).
 
 The function `levels` determines levels of a vector. For example, if you type:
 ```R
@@ -110,7 +112,7 @@ Let us look at numbers of votes in the column number 8. We can check the range b
 ```R
 range(volby[,8])
 ```
-This shows that the least successfull candidate was not voted at all, the most successfull got 37794 votes.
+This shows that the least successful candidate was not voted at all, the most successful got 37794 votes.
 You can print all votes sorted by the function `sort`:
 ```R
 sort(volby[,8])
@@ -135,7 +137,7 @@ and so forth for each party. As an alternative you can use function `aggregate`:
 ```R
 aggregate(x=volby[,8], by=list(volby[,2]), FUN=sum)
 ```
-The function `list` is used because votes can be aggregated by multiple factors. Insted of function `sum`
+The function `list` is used because votes can be aggregated by multiple factors. Instead of function `sum`
 you can use other functions, for example average age of each party can be printed by:
 ```R
 aggregate(x=volby[,5], by=list(volby[,2]), FUN=mean)
@@ -149,6 +151,17 @@ barplot(vysledky[,2], names.arg=vysledky[,1])
 
 #### Tips and tricks
 
+There is a family of "apply" functions. To calculate a sum for each row of an array or matrix use:
+```R
+apply(myarray, 1, FUN=sum)
+```
+If you want to calculate the same for columns replace `1` by `2`. You can use any other function with
+a single input, or even a user defined function defined by `function()`. For example you can count
+positive values per column as:
+```R
+apply(myarray, 2, function(x) length(x[x>0])
+```
+
 There are specialized packages for data analysis such as "dplyr". It uses a special "pipe" operator (`%>%`).
 The output of the operation before the pipe is used as an input of the operation after the pipe. 
 Special functions `mutate`, `select`, `filter`, `summarise`, `arrange` and others are used in dplyr.
@@ -159,9 +172,7 @@ library(dplyr)
 ifile %>% group_by(strana) %>% summarise(abs=sum(abs))
 ```
 
-TidyR
-
-There is a family of "apply" functions.
-
-
+Another useful package for data analysis is "TidyR". Both dplyr and TidyR are from a tidyverse package
+of packages for data analysis. TidyR uses functions `gather()`, `spread()`, `separate()`, `extract()`
+and others to reshape data from untidy to tidy datasets.
 
