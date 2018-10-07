@@ -1,5 +1,5 @@
 ### Univariate descriptive statistics in R
-Lets create a sample with mean and standart deviation set to 20 and 2, respectively:
+Lets create a sample with mean and standard deviation set to 20 and 2, respectively:
 ```R
 x<-rnorm(10, mean=20, sd=2)
 ```
@@ -45,13 +45,13 @@ Variance estimate can be calculated by function `var`, or manually:
 var(x)
 sum((x-mean(x))**2/(length(x)-1))
 ```
-Standart deviation estimate can be calculated by function `sd`, or manually:
+Standard deviation estimate can be calculated by function `sd`, or manually:
 ```R
 sd(x)
 sqrt(var(x))
 sqrt(sum((x-mean(x))**2/(length(x)-1)))
 ```
-Standart error of the mean does not have own function in (basic) R, so we can calculate it manually:
+Standard error of the mean does not have own function in (basic) R, so we can calculate it manually:
 ```R
 sd(x)/sqrt(length(x))
 ```
