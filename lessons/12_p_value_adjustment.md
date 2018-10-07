@@ -8,12 +8,15 @@ placebo<-rnorm(10, mean=90, sd=25)
 labels<-rep(c("control", "drug", "placebo"), each=10)
 all<-c(control, drug, placebo)
 df<-data.frame(ident, all)
-mujmodel<-aov(all~labels, data=df)
-mujmodel
-summary(mujmodel)
+mymodel<-aov(all~labels, data=df)
+mymodel
+summary(mymodel)
 ```
 This shows that there is a difference between the means. Next we want to know which samples are statistically
 significantly lower and higher. Again we cannot make a pairwise t-tests because of probability of rejection
-of the null hypothesis by chance.
-
+of the null hypothesis by chance. Instead we can use Tukey Honest Significance Test:
+```R
+TukeyHSD(mymodel)
+plot(TukeyHSD(mymodel))
+```
 
