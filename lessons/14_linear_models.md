@@ -21,6 +21,7 @@ to that of ANOVA, the program calculates a sum of squares of error under assumpt
 alternative hypothesis and compares them.
 
 There are several possibilities to describe models in the lm function:
+
                                            function       |  expression in `lm`
 ---------------------------------------------------------------------
   f(x) = alpha                                            |  `y~1`
