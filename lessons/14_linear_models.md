@@ -21,18 +21,14 @@ to that of ANOVA, the program calculates a sum of squares of error under assumpt
 alternative hypothesis and compares them.
 
 There are several possibilities to describe models in the lm function:
-* f(x) = alpha  
-`y~1`
-* f(x) = alpha + beta x 
-`y~x`
-* f(x) = beta x
-`y~-1+x`
-* f(x) = alpha + beta x + gamma x^2
-`y~x+I(x^2)`
-* f(x) = alpha + beta_1 x_1 + beta_2 x_2
-`y~x1+x2`
-* f(x) = alpha + beta_1 x_1 + beta_2 x_2 + gamma x_1 x_2
-`y~x1*x2`
+                                           function       |  expression in `lm`
+---------------------------------------------------------------------
+  f(x) = alpha                                            |  `y~1`
+  f(x) = alpha + beta x                                   |  `y~x`
+  f(x) = beta x                                           |  `y~-1+x`
+  f(x) = alpha + beta x + gamma x^2                       |  `y~x+I(x^2)`
+  f(x) = alpha + beta_1 x_1 + beta_2 x_2                  |  `y~x1+x2`
+  f(x) = alpha + beta_1 x_1 + beta_2 x_2 + gamma x_1 x_2  |  `y~x1*x2`
 
 Pokud se chceme dostat k~hodnotám koeficientů, můžeme učinit například toto:
 \begin{small}\begin{verbatim}
