@@ -31,34 +31,27 @@ There are several possibilities to describe models in the lm function:
 | f(x) = alpha + beta_1 x_1 + beta_2 x_2                  |  `y~x1+x2`            |
 | f(x) = alpha + beta_1 x_1 + beta_2 x_2 + gamma x_1 x_2  |  `y~x1*x2`            |
 
-Pokud se chceme dostat k~hodnotám koeficientů, můžeme učinit například toto:
-\begin{small}\begin{verbatim}
-> linfit$coefficients[1]
-(Intercept)
-   0.7981139
-> linfit$coefficients[2]
-       x
-   1.009980
-\end{verbatim}\end{small}
-nebo použít funkci \texttt{coef}:
-\begin{small}\begin{verbatim}
-> coef(linfit)[1]
-(Intercept)
-   0.7981139
-> coef(linfit)[2]
-       x
-1.009980
-\end{verbatim}\end{small}
-Tyto veličiny můžeme použít k~nakreslení přímky, která prokládá data, nebo jednodušeji můžeme
-použít funkci \texttt{abline}\index{\texttt{abline}}:
-\begin{small}\begin{verbatim}
-> plot(x,y)
-> abline(linfit)
-\end{verbatim}\end{small}
-\begin{SCfigure}[1][ht]
-\includegraphics{data/abline.png}
-\caption{Proložení dat funkcemi \texttt{lm} a \texttt{abline}}
-\end{SCfigure}
+To get values of coefficients you can print coefficients:
+```R
+linfit$coefficients
+```
+They can be itterated:
+```R
+linfit$coefficients[1]
+linfit$coefficients[2]
+```
+
+Alternatively you may use the function `coef`:
+```R
+coef(linfit)[1]
+coef(linfit)[2]
+```
+
+To plot a model into data you can use function `abline`:
+```R
+plot(x,y)
+abline(linfit)
+```
 
 Dosud jsme používali analysu rozptylu pro nespojité nezávisle proměnné, tedy faktory. Například při hledání
 rozdílů mezi pacienty, jimž bylo podáváno léčivo, placebo nebo nic, jsme měli nezávisle proměnnou -- faktor,
