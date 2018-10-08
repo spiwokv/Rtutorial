@@ -38,7 +38,8 @@ volby <- read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/
 Parameter `sep=";"` indicates that individual items are separated by a semicolon. The option
 `header=T` indicates that the first line contains names of columns. In fact the first line contains
 the remark, because it starts with `#`. The option `dec=","` tells us that the Czech decimal is used.
-Finally, `encoding="UTF=8"` determines encoding.
+For users with troubles with Czech characters you can replace "volby2013praha.txt" by
+"volby2013prahaASCII.txt".
 
 For the first inspection you can type:
 ```R
