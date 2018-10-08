@@ -10,32 +10,29 @@ linfit
 ```
 This will show that "y" grows with "x". However, if you fit two noisy variables you will always
 obtain a result that "y" grows or descends with "x", there almost no chace to get zero slope
-even if the two variables are independent. The question is whether the non-zero slope is statistically
-significant. This you can learn by function `summary`:
+even if the two variables completely uncorrelated. The question is whether the non-zero slope
+is statistically significant. This you can learn by function `summary`:
 ```R
 summary(linfit)
 ```
+This is an extension of ANOVA in the way that the independent variable is not categorial (such
+as "control", "placebo" and "drug") but it is quantitative. The testing procedure is similar
+to that of ANOVA, the program calculates a sum of squares of error under assumption of null and
+alternative hypothesis and compares them.
 
-Tím proložíme data modelem $f(x) = \alpha + \beta x$. Koeficient $\beta$ je ve výsledku označen \texttt{x} a~má hodnotu 1,00998.
-Koeficient $\alpha$ je označen jako \texttt{Intercept} (zbytek na ose $y$) a má hodnotu 0,79811. K~oběma veličinám je
-možné nalézt střední chyby (\texttt{Std. Error}). Někomu může připadat poněkud zvláštní zápis \texttt{y$\sim$x}.
-Program R má pro definování modelů tento zvláštní jazyk. V~Tabulce uvádím příklady některých modelů a jejich zápisu v~R:
-\begin{table}
-\caption{Příklady lineárních modelů v~R}
-\begin{tabular}{p{6.0cm} p{6.0cm}}
-vzoreček & R \\
-\hline
-\vspace{0.1cm} & \\
-$f(x) = \alpha$ \vspace{0.5cm} & \texttt{y$\sim$1} \\
-$f(x) = \alpha + \beta x$ \vspace{0.5cm} & \texttt{y$\sim$x} \\
-$f(x) = \beta x$ \vspace{0.5cm} & \texttt{y$\sim$-1 + x} \\
-$f(x) = \alpha + \beta x + \gamma x^2$ \vspace{0.5cm} & \texttt{y$\sim$x+I(x$\wedge$2)} \\
-$f(x) = \alpha + \beta_1 x_1 + \beta_2 x_2$ \vspace{0.5cm} & \texttt{y$\sim$x1+x2} \\
-$f(x) = \alpha + \beta_1 x_1 + \beta_2 x_2 + \gamma x_1 x_2$ \vspace{0.5cm} & \texttt{y$\sim$x1*x2} \\
-\hline
-\end{tabular}
-\end{table}
-\vspace{0.5cm}
+There are several possibilities to describe models in the lm function:
+* f(x) = alpha  
+`y~1`
+* f(x) = alpha + beta x 
+`y~x`
+* f(x) = beta x
+`y~-1+x`
+* f(x) = alpha + beta x + gamma x^2
+`y~x+I(x^2)`
+* f(x) = alpha + beta_1 x_1 + beta_2 x_2
+`y~x1+x2`
+* f(x) = alpha + beta_1 x_1 + beta_2 x_2 + gamma x_1 x_2
+`y~x1*x2`
 
 Pokud se chceme dostat k~hodnotám koeficientů, můžeme učinit například toto:
 \begin{small}\begin{verbatim}
