@@ -53,87 +53,15 @@ plot(x,y)
 abline(linfit)
 ```
 
-
-V~modelové úloze, na které si ukážeme analysu rozptylu v~kombinaci s~regresí, nás bude zajímat, jestli
-účinnost potenciálního léčiva závisí na jeho polárnosti lineárně nebo jestli je lepší použít polynom
-druhého stupně. Pokus by vypadal tak, že by bylo nejprve nutné připravit sérii derivátů nějaké biologicky
-aktivní látky, například u nějakého léčiva vyměnit acetylovou skupinu za propionyl, butyryl atd.
-U~každé jednotlivé sloučeniny by pak bylo nutné změřit nebo vypočítat polárnost (nejčastěji $logP$,
-tedy logaritmus roz\-dě\-lo\-va\-cí\-ho koeficientu mezi oktanol a vodu) a také otestovat biologickou aktivitu.
-Připravíme si modelová data, která budou vycházet z~lineárního vztahu:
-\begin{small}\begin{verbatim}
-> logp <- -0.2*1:8+0.1*rnorm(8)
-> aktivita<-1:8+rnorm(8)
-> plot(logp, aktivita)
-\end{verbatim}\end{small}
-\begin{SCfigure}[1][ht]
-\includegraphics{data/qsar.png}
-\caption{Modelová data pro kombinaci regrese a analysy rozptylu}
-\end{SCfigure}
-Použitím funkcí \texttt{lm} a \texttt{anova} s~lineárním modelem se dozvíme, že na polárnosti molekul záleží:
-\begin{small}\begin{verbatim}
-> mod1 <- lm(aktivita~logp)
-> mod1
-
-Call:
-lm(formula = aktivita ~ logp)
-
-Coefficients:
-> anova(mod1)
-Analysis of Variance Table
-
-Response: aktivita
-          Df Sum Sq Mean Sq F value   Pr(>F)
-logp       1 60.084  60.084  29.709 0.001587 **
-Residuals  6 12.135   2.022
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-\end{verbatim}\end{small}
-Kromě lineárního modelu chceme otestovat ještě polynom druhého řádu. Pro něj můžeme použít
-funkci \texttt{lm}\index{\texttt{lm}}, protože se jedná o~takzvaný obecný lineární model, tedy že závisle
-proměnnou můžeme vyjádřit jako lineární kombinaci $x^2$, $x^1$ a $x^0$. Model bude vypadat takto:
-\begin{small}\begin{verbatim}
-> mod2 <- lm(aktivita~poly(logp,2))
-> mod2
-
-Call:
-lm(formula = aktivita ~ poly(logp, 2))
-
-Coefficients:
-   (Intercept)  poly(logp, 2)1  poly(logp, 2)2
-        4.4876         -7.7514          0.5006
-
-> anova(mod2)
-Analysis of Variance Table
-
-Response: aktivita
-              Df Sum Sq Mean Sq F value  Pr(>F)
-poly(logp, 2)  2 60.334  30.167  12.692 0.01098 *
-Residuals      5 11.884   2.377
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-\end{verbatim}\end{small}
-Pokud chcete mít v~ANOVA tabulce jak prvek pro $x$ tak i~pro $x^2$, zkuste zapsat model jako:
-\begin{small}\begin{verbatim}
-
-> mod2 <- lm(aktivita~logp+I(logp^2))
-\end{verbatim}\end{small}
-
-Modely \texttt{mod1} a \texttt{mod2} můžeme porovnat pomocí funkce \texttt{anova}\index{\texttt{anova}}:
-\begin{small}\begin{verbatim}
-> anova(mod2, mod1)
-Analysis of Variance Table
-
-Model 1: aktivita ~ poly(logp, 2)
-Model 2: aktivita ~ logp
-  Res.Df     RSS Df Sum of Sq      F Pr(>F)
-1      5 11.8839
-2      6 12.1346 -1   -0.2506 0.1054 0.7585
-\end{verbatim}\end{small}
-čímž zjistíme, že zlepšení modelu přídavkem polynomu druhého řádu není signifikantní.
-Jinými slovy nemáme dostatek důkazů pro to, abychom předpokládali, že binomický model
-vystihuje experimentální data lépe než lineární model.
+The function `predict` predicts values of y for values of x based on the model. If you use:
+```R
+newy<-predict(object=linfit)
+```
+it will calculate values of y for each x by a linear model. Iw you want to calculate this for
+some other values of x (here called "newx") you can type:
+```R
+newx<-0:100/10
+```
 
 ## Tips and Tricks
 
