@@ -23,7 +23,7 @@ alternative hypothesis and compares them.
 There are several possibilities to describe models in the lm function:
 
 |                                          function       |  expression in `lm`   |
-|:-------------------------------------------------------:|:---------------------:|
+|:--------------------------------------------------------|:----------------------|
 | f(x) = alpha                                            |  `y~1`                |
 | f(x) = alpha + beta x                                   |  `y~x`                |
 | f(x) = beta x                                           |  `y~-1+x`             |
