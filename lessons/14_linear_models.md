@@ -53,26 +53,6 @@ plot(x,y)
 abline(linfit)
 ```
 
-Dosud jsme používali analysu rozptylu pro nespojité nezávisle proměnné, tedy faktory. Například při hledání
-rozdílů mezi pacienty, jimž bylo podáváno léčivo, placebo nebo nic, jsme měli nezávisle proměnnou -- faktor,
-který může nabývat tří nespojitých hodnot pro léčivo, placebo nebo nic. Proč ale nevyužít analysu rozptylu
-pro spojitá data? Funkce \texttt{lm}\index{\texttt{lm}} slouží k~vytváření lineárních modelů a ,,je jí jedno``, jestli nezávisle
-proměnná veličina je nebo není spojitá. Analysa rozptylu pro testování vlivu léčiva prokládá data funkcí:
-\newline\textit{účinek = a $\cdot$ léčivo + b $\cdot$ placebo + c}
-\newline kde proměnné \textit{léčivo} a \textit{placebo} nabývají hodnot 0 nebo 1. Stejně tak je možné využít analysu
-rozptylu pro spojité nezávisle proměnné.
-Tato vlastnost se hodí pokud chceme zjistit, zdali zesložiťování nějakého modelu má nebo nemá opodstatnění.
-Pokud například proložíme nějaká naměřená data lineráním modelem ($y = a \cdot x + b$), pak to zkusíme polynomem
-druhého stupně ($y = a \cdot x^2 + b \cdot x + c$), třetího stupně a tak dále, bude nám vycházet, že čím je polynom vyšší tím
-je proložení dat lepší. Podobně když budeme nějaký regresní model doplňovat jinými funkcemi než jsou polynomy,
-tak také můžeme pozorovat zlepšování proložení, čili pokles součtu čtverců odchylek. Je ale jasné, že nemá
-význam zesložiťovat model donekonečna. Místo toho je vhodné nalézt nějaký způsob jak odhalit, zdali nějaký prvek
-v~modelu přináší nebo nepřináší signifikantně lepší proložení. Přesně v~tomto duchu funguje analýza rozptylu.
-V~úloze věnované porovnání kontroly, léčiva a placeba jsme porovnali dvě hypotesy, buď že je jedno co pacienti
-dostávají, nebo na tom záleží. Pro obě tyto hypotesy jsme vypočetli rozptyly a ty jsme porovnali. Podobnou
-operaci můžeme provést se dvěma regresními modely, například pro model $y = a \cdot x$ a model $y = a \cdot x + b$.
-Data proložíme pomocí obou modelů, spočítáme rozptyly a porovnáme je. Tak zjistíme, jestli přídavek konstatny $b$ do modelu
-vedl k~signifikantnímu zlepšení modelu, nebo jestli to bylo jen zbytečné zesložitění modelu.
 
 V~modelové úloze, na které si ukážeme analysu rozptylu v~kombinaci s~regresí, nás bude zajímat, jestli
 účinnost potenciálního léčiva závisí na jeho polárnosti lineárně nebo jestli je lepší použít polynom
@@ -154,3 +134,14 @@ Model 2: aktivita ~ logp
 čímž zjistíme, že zlepšení modelu přídavkem polynomu druhého řádu není signifikantní.
 Jinými slovy nemáme dostatek důkazů pro to, abychom předpokládali, že binomický model
 vystihuje experimentální data lépe než lineární model.
+
+## Tips and Tricks
+
+* as already mentioned, linear models can use continuous as well as categorial independent variables.
+In order to do ANOVA with two factors use a linear model with `y~x1+x2`. In order to do ANOVA with
+two factors and their interactions use a linear model with `y~x1*x2`. Beside other ANOVA presumptions
+(normal distribution, homogeneity of variances) it is necessary to 
+
+* contingency tables are an alternative to ANOVA with categorial dependent and independent variables.
+To test statistical significance you can use `chisq.test` function.
+
