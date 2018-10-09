@@ -65,6 +65,9 @@ newx<-0:100/10
 
 ## Tips and Tricks
 
+* you can compare models "model1" and "model2" by `anova(model2, model1)`. This will tell you whether
+"model2" is significantly better than "model1".
+
 * as already mentioned, linear models can use continuous as well as categorial independent variables.
 In order to do ANOVA with two factors use a linear model with `y~x1+x2`. In order to do ANOVA with
 two factors and their interactions use a linear model with `y~x1*x2`. Beside other ANOVA presumptions
