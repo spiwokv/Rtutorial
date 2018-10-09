@@ -38,6 +38,24 @@ Riders at the top reached good results in flat stages. These are typically mascu
 poorly in mountain stages. Riders in the bottom right cloud are "domestiques" who don't care much about
 their own results or rides who bet on just one stage and performed poorly in other stages.
 
+## Tips and Tricks
 
+* the data can be centered and or normalized before PCA. Centering is a usual step in PCA and PCA without
+centering is rarely used. Normalization is used if you analyze apples and pears. They are controled by:
+`center`, `scale.` (note: there is a dot after "scale").
 
+* you can use PC1 and PC2 values using `predict` function, e.g.:
+```R
+plot(predict(pcamodel))
+```
+To plot PC1 vs. PC3 use:
+```R
+plot(predict(pcamodel)[,c(1,3)])
+```
+
+* in `biplot` you can control size of red arrows by `expand`. You can switch them off by setting it to
+zero:
+```R
+biplot(pcamodel, expand=0)
+```
 
