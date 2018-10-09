@@ -12,5 +12,9 @@ one or few stages. This can be done by:
 kmodel <- kmeans(tdf[,3:22], 5)
 kmodel
 ```
+The 
 We can illustrate the results on the plot from PCA:
-
+```R
+pcamodel <- prcomp(tdf[,3:22])
+plot(predict(pcamodel), col=rainbow(5))
+```
