@@ -61,7 +61,33 @@ it will calculate values of y for each x by a linear model. Iw you want to calcu
 some other values of x (here called "newx") you can type:
 ```R
 newx<-0:100/10
+newy<-predict(object=linfit, newdata=data.frame(x=newx))
 ```
+
+More interesting is calculation of confidence intervals. You can use:
+```R
+newx<-0:100/10
+newy<-predict(object=linfit, newdata=data.frame(x=newx), interval = 'prediction')
+plot(x,y)
+abline(linfit)
+lines(newx, newy[,2], col="red")
+lines(newx, newy[,3], col="red")
+```
+This will plot an interval to wich 95 % of samples should fall (the level could be changed by
+option `level`). If you change "prediction" to "confidence" it will print confidence intervals
+for the model. Provided that there is some exact linear relationships between x and (inaccurately
+measured) y, we can accuratelly determine this relationship by doing an infinite number of
+measurements. If we do enough measurements we can get a vary narrow confidence interval:
+```R
+newx<-0:100/10
+newy<-predict(object=linfit, newdata=data.frame(x=newx), interval = 'confidence')
+plot(x,y)
+abline(linfit)
+lines(newx, newy[,2], col="blue")
+lines(newx, newy[,3], col="blue")
+```
+Prediction intervals are analogous to standard deviation, confidence intervals to standard error
+of the mean.
 
 ## Tips and Tricks
 
