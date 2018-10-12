@@ -21,7 +21,7 @@ for(i in 1:10) {
   }
 }
 ```
-If-else statement and swich statement works as well.
+If-else statement and switch statement works as well.
 
 * you can define a function:
 ```R
@@ -42,5 +42,5 @@ R --no-save < program.R
 
 * you can use a kind of object oriented programming in R
 
-* you can use generic functin, such as plot, defined to an object you define
+* you can use generic function, such as plot, defined to an object you define
 
