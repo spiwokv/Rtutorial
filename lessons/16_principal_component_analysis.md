@@ -18,7 +18,7 @@ To plot importance of components you can use `plot` function on the model:
 ```R
 plot(pcamodel)
 ```
-This shows that there is 1-2 important components describing the data very well. Yoo can plot PC1 vs. PC2:
+This shows that there is 1-2 important components describing the data very well. You can plot PC1 vs. PC2:
 ```R
 biplot(pcamodel)
 ```
@@ -41,7 +41,7 @@ their own results or rides who bet on just one stage and performed poorly in oth
 ## Tips and Tricks
 
 * the data can be centered and or normalized before PCA. Centering is a usual step in PCA and PCA without
-centering is rarely used. Normalization is used if you analyze apples and pears. They are controled by:
+centering is rarely used. Normalization is used if you analyze apples and pears. They are controlled by:
 `center`, `scale.` (note: there is a dot after "scale").
 
 * you can use PC1 and PC2 values using `predict` function, e.g.:
