@@ -12,7 +12,7 @@ Covariance can be calculated manually as:
 ```R
 sum((x-mean(x))*(y-mean(y)))/(length(x)-1)
 ```
-Pearson corelation can be calculated as:
+Pearson correlation can be calculated as:
 ```R
 sum((x-mean(x))*(y-mean(y)))/sqrt(sum((x-mean(x))^2)*sum((y-mean(y))^2))
 ```
@@ -29,7 +29,7 @@ cov(x,y)/(sd(x)*sd(y))
 
 ## Tips and Tricks
 
-* it is possible to apply these functions on data frame or matrix. This will make a paiwise correlation
+* it is possible to apply these functions on data frame or matrix. This will make a pairwise correlation
 of all columns.
 
 
