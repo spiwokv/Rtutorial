@@ -1,5 +1,5 @@
 #https://volby.cz/pls/ps2013/ps111?xjazyk=CZ&xkraj=1&xstrana=0&xv=1&xt=1
-cislo;strana;porc;jmeno;vek;nav;pol;abs;rel;man;porman
+partyno;party;order;name;age;cendid;affiliation;abs;rel;mandate;manord
 15;SPOZ;23;Abt Jaroslav;40;SPOZ;SPOZ;8;0,14;-;-
 1;CSSD;3;Adamek Frantisek Bc.;58;CSSD;CSSD;2492;3,01;*;4
 16;OBC_2011;10;Adamek Karel Ing.;61;OBC_2011;BEZPP;12;2,63;-;-
