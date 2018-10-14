@@ -13,13 +13,13 @@ classoption:
 
 ### Basic R commands
 First function in R will ask you whether you want to save data and then it will close R:
-```{r}
-#q()
+```
+q()
 ```
 This will close R without asking you:
-```{r}
-#q("n")
-#q(save="n")
+```
+q("n")
+q(save="n")
 ```
 To show `plot` as an example of function, type:
 ```{r}
@@ -32,24 +32,24 @@ This will work:
 plot(a, b, main="My plot")
 ```
 The R engine knows that first two parameters of the function `plot` are coordinates `x` and `y`, respectively. However, this will not work:
-```{r}
-#plot(a, b, "My plot")
+```
+plot(a, b, "My plot")
 ```
 because R does not know that `"My plot"` links to the parameter `main` (the main title). It is possible to specify all options:
 ```{r}
 plot(x=a, y=b, main="My plot")
 ```
 Help could be found by:
-```{r}
-#help(plot)
-#?plot
-#apropos("svd")
-#help.search("svd")
+```
+help(plot)
+?plot
+apropos("svd")
+help.search("svd")
 ```
 Example or demo can be found as well:
-```{r}
-#example(image)
-#demo(graphics)
+```
+example(image)
+demo(graphics)
 ```
 Basic operations:
 ```{r}
@@ -270,11 +270,13 @@ sinpluscos(1)
 ```
 R contains many pre-defined datasets:
 ```{r}
-faithful
+head(faithful)
+```
+```
 data()
 ```
 Beside standard R functions and datasets it is possible to install new packages from R repositories:
-```{r}
+```
 installed.packages()
 install.packages("igraph")
 library(igraph)
@@ -308,16 +310,15 @@ mydata<-read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/d
 mydata
 ```
 Alternatively you can download the file to a working directory of your computer and open it:
-```{r}
+```
 mydata<-read.table("mydata.txt")
-mydata
 ```
 If you don't know which directory is the working one, you can type:
-```{r}
+```
 getwd()
 ```
 or you can change it by:
-```{r}
+```
 setwd("C:/Documents")
 ```
 The function `read.table` can be modified by the parameter `header`, it indicates that the first line of the file contains names of columns.
@@ -330,15 +331,20 @@ There are special functions to read formated files, such as `read.csv`, `read.cs
 Data can be written by the function `write.table`:
 ```{r}
 mydata<-read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/data/mydata.txt")
-mydata
+head(mydata)
+```
+```
 write.table(mydata, "mydata2.txt")
 ```
 
 R also contains sample data for demonstration of functions. You can see the list by typing:
-```{r}
+```
 data()
 ```
 For example `faithful` dataset contains waiting times between eruptions and the duration of eruptions of the Old Faithful geyser in Yellowstone National Park (Wyoming, USA).
+```{r}
+head(faithful)
+```
 
 #### Tips and tricks
 * data in a file may be large and it is not useful to print it when you want to check whether data was read correctly. You can use `head` function instead to print the header with the first six lines.
@@ -380,14 +386,14 @@ To inverse the order of elements you can use the colon operator as `jmena[9:1]` 
 
 Let us move to more complicated dataset. You can load the results of municipal elections 2015 in Prague:
 ```{r}
-volby <- read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/data/volby2013praha.txt",
+volby <- read.table("https://raw.githubusercontent.com/spiwokv/Rtutorial/master/data/volby2013prahaASCII.txt",
                     sep=";", header=T, dec=",")
 ```
 Parameter `sep=";"` indicates that individual items are separated by a semicolon. The option
 `header=T` indicates that the first line contains names of columns. In fact the first line contains
 the remark, because it starts with `#`. The option `dec=","` tells us that the Czech decimal is used.
-For users with troubles with Czech characters you can replace "volby2013praha.txt" by
-"volby2013prahaASCII.txt".
+For users who can handle Czech characters you can replace "volby2013prahaASCII.txt" by
+"volby2013praha.txt".
 
 For the first inspection you can type:
 ```{r}
@@ -410,7 +416,7 @@ volby[1,]
 ```
 Columns can be selected by:
 ```{r}
-volby[,4]
+head(volby[,4])
 ```
 This prints names of candidates. 
 
@@ -422,9 +428,8 @@ prints names of columns, such as party number and name, candidate's name and age
 
 As an alternative to `volby[,4]` you can use `$` operator followed by the name of the column:
 ```{r}
-volby$jmeno
+head(volby$name)
 ```
-("jmeno" = "name" in Czech).
 
 The function `levels` determines levels of a vector. For example, if you type:
 ```{r}
@@ -443,18 +448,18 @@ table(volby[,2])
 ```
 In order to print only the lines containing candidates of "Piráti" you can use following expressions:
 The expression `volby[,2]` will print parties in the alphabet order of names of candidates. You can
-extend it by `volby[,2]=="Piráti"`. This will return the series of `TRUE` and `FALSE` values in the same
+extend it by `volby[,2]=="Pirati"`. This will return the series of `TRUE` and `FALSE` values in the same
 order. For example, first 16 candidates in alphabet were not Pirates, so first 16 values are `FALSE`. The
 candidate number 17 is Pirate, so output number 17 is `TRUE`. You can apply `sum` function on the output.
 This function counts `TRUE` as 1 and `FALSE` as 0.
 
-If you insert the previous expression `volby[,2]=="Piráti"` into the square brackets of `volby[]` you can
+If you insert the previous expression `volby[,2]=="Pirati"` into the square brackets of `volby[]` you can
 select lines containing Pirates:
 ```{r}
-volby[volby[,2]=="Piráti",]
+volby[volby[,2]=="Pirati",]
 ```
-The square brackets contain comma inside, because we select lines or columns. The expression `volby[,2]=="Piráti"`
-is in front of the comma because we select lines. Lines with `TRUE` as the output of `volby[,2]=="Piráti"` are
+The square brackets contain comma inside, because we select lines or columns. The expression `volby[,2]=="Pirati"`
+is in front of the comma because we select lines. Lines with `TRUE` as the output of `volby[,2]=="Pirati"` are
 printed, others are not printed.
 
 Let us look at numbers of votes in the column number 8. We can check the range by function `range`:
@@ -464,23 +469,23 @@ range(volby[,8])
 This shows that the least successful candidate was not voted at all, the most successful got 37794 votes.
 You can print all votes sorted by the function `sort`:
 ```{r}
-sort(volby[,8])
+head(sort(volby[,8]))
 ```
 To get the reverse order use option:
 ```{r}
-sort(volby[,8], decreasing=TRUE)
+head(sort(volby[,8], decreasing=TRUE))
 ```
 You may be interested who scored the best and worst in elections. You can use function `order`. This function prints
 the index of the lowest value, the index of the second lowest value and so forth. The expression:
 ```{r}
-volby[order(volby[,8]),]
+head(volby[order(volby[,8]),])
 ```
 will print the table sorted by the number of votes from the lowest to highest. You can revert the order by option
 `decreasing=T` in the order function.
 
 Finally, we are interested in number of votes for each party. This can be obtained manually, party by party as:
 ```{r}
-sum(volby[volby[,2]=="Piráti",8])
+sum(volby[volby[,2]=="Pirati",8])
 ```
 and so forth for each party. As an alternative you can use function `aggregate`:
 ```{r}
@@ -502,13 +507,14 @@ barplot(vysledky[,2], names.arg=vysledky[,1])
 
 There is a family of "apply" functions. To calculate a sum for each row of an array or matrix use:
 ```{r}
+myarray <- matrix(1:10, nrow=5)
 apply(myarray, 1, FUN=sum)
 ```
 If you want to calculate the same for columns replace `1` by `2`. You can use any other function with
 a single input, or even a user defined function defined by `function()`. For example you can count
-positive values per column as:
+values higher than 5 per column as:
 ```{r}
-apply(myarray, 2, function(x) length(x[x>0])
+apply(myarray, 2, function(x) length(x[x>5]))
 ```
 
 There are specialized packages for data analysis such as "dplyr". It uses a special "pipe" operator (`%>%`).
@@ -517,7 +523,7 @@ Special functions `mutate`, `select`, `filter`, `summarise`, `arrange` and other
 You can replace the `aggregate` function from the previous example as:
 ```{r}
 library(dplyr)
-ifile %>% group_by(strana) %>% summarise(abs=sum(abs))
+volby %>% group_by(party) %>% summarise(abs=sum(abs))
 ```
 
 Another useful package for data analysis is "TidyR". Both dplyr and TidyR are from a tidyverse package
@@ -557,7 +563,7 @@ lines(x, sin(x), col="green", lwd=4)
 ```
 Range of the horizontal and vertical axis can be controlled by `xlim` and `ylim`:
 ```{r}
-plot(1:10, xlim=c(0,100), ylim=c(-20,20)))
+plot(1:10, xlim=c(0,100), ylim=c(-20,20))
 ```
 The function plot can be applied not only to a pair of vectors, but also to a single vector, `data.frame` and other objects. Lets try on `data.frame`:
 ```{r}
@@ -959,8 +965,7 @@ plot(growth~health, data=df)
 t.test(growth~health, data=df)
 ```
 
-
-# Non-parametric tests
+### Non-parametric tests
 
 Up to now we considered normal distribution of a variable. Here we will show how we can test whether
 the variable follows the normal distribution and what can we do if data do not follow normal distribution.
@@ -999,7 +1004,7 @@ Let us try to compare with t-test:
 t.test(x,y)
 ```
 
-## Tips and tricks
+#### Tips and tricks
 
 * non-parametric variant of analysis of variance will be shown later.
 
@@ -1020,9 +1025,9 @@ placebo
 ```
 First, let us calculate variances in each group:
 ```{r}
-sdrug<-sum((drug-mean(drug))ˆ2)
-scontrol<-sum((control-mean(control))ˆ2)
-splacebo<-sum((placebo-mean(placebo))ˆ2)
+sdrug<-sum((drug-mean(drug))^2)
+scontrol<-sum((control-mean(control))^2)
+splacebo<-sum((placebo-mean(placebo))^2)
 ```
 We will sum this and we will call it sum of squares within the group (SSW):
 ```{r}
@@ -1032,7 +1037,7 @@ Next, we will concatenate all samples and calculate mean of this supersample. We
 as sum of squares total (SST):
 ```{r}
 all<-c(control, drug, placebo)
-SST<-sum((all-mean(all))ˆ2)
+SST<-sum((all-mean(all))^2)
 ```
 In an extreme example that means of all samples are the same, the SSW and SST are the same, otherwise SST is bigger than SSW.
 The difference of SST and SSW is thus a measure of difference between the samples. We will cal this sum of squares between
@@ -1056,7 +1061,7 @@ In an automated way we can make use of a data frame:
 ```{r}
 labels<-rep(c("control", "drug", "placebo"), each=10)
 all<-c(control, drug, placebo)
-df<-data.frame(ident, all)
+df<-data.frame(labels, all)
 ```
 We will make a model by the function analysis of variance and we will obtain all results by summary of the model:
 ```{r}
@@ -1072,7 +1077,7 @@ anova(lm(all~labels, data=df))
 Data for ANOVA must follow normal distribution and there must be homogeneous variances of samples. For other than normal
 distribution try data transformation or Kruskal-Walis test (bellow). For different variances try transformation.
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * to test normality of data you can use the function `mshapiro.test`. It is a multivariate alternative
 to Shapiro and Wilk test.
@@ -1085,7 +1090,8 @@ kruskal.test(all~labels, data=df)
 ```
 
 * two-way ANOVA will be introduced together with linear models.
-# P-value adjustment and other approaches for multiple comparisons
+
+### P-value adjustment and other approaches for multiple comparisons
 
 In the previous chapter we have shown ANOVA on drug testing example:
 ```{r}
@@ -1094,7 +1100,7 @@ control<-rnorm(10, mean=100, sd=25)
 placebo<-rnorm(10, mean=90, sd=25)
 labels<-rep(c("control", "drug", "placebo"), each=10)
 all<-c(control, drug, placebo)
-df<-data.frame(ident, all)
+df<-data.frame(labels, all)
 mymodel<-aov(all~labels, data=df)
 mymodel
 summary(mymodel)
@@ -1115,7 +1121,7 @@ The option `p.adjust.method` can be "none" (no adjustment), "bonferroni" (Bonfer
 "holm" (Holm and Bonferroni) and "BH" or "fdr" (Benjamini and Hochberg). There is also an option
 `pool.sd` defining whether variances are homogeneous.
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * in biological sciences we often compare every sample with a single control. For this it is useful
 to use Dunnett test. It requires package `multicomp`:
@@ -1146,7 +1152,7 @@ plot(mydata.dunnett)
 indicating the significance of a test, often with a horizontal lines that connect tested samples.
 In R you can generate such plots by the package "ggplot2" with "ggsignif" and "ggpubr". 
 
-# Bi- and multivariate descriptive statistics
+### Bi- and multivariate descriptive statistics
 
 Let us generate a set of two well correlating variables `x` and `y`:
 ```{r}
@@ -1175,13 +1181,13 @@ Correlation can be calculated by dividing covariance by standard deviations of b
 cov(x,y)/(sd(x)*sd(y))
 ```
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * it is possible to apply these functions on data frame or matrix. This will make a pairwise correlation
 of all columns.
 
 
-# Linear models
+### Linear models
 
 In R you can use function `lm` to build a linear model. It can fit a dependent variable by one
 or multiple independent variables. Independent variables can quantitative, categorical or both.
@@ -1272,7 +1278,7 @@ lines(newx, newy[,3], col="blue")
 Prediction intervals are analogous to standard deviation, confidence intervals to standard error
 of the mean.
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * you can compare models "model1" and "model2" by `anova(model2, model1)`. This will tell you whether
 "model2" is significantly better than "model1".
@@ -1286,7 +1292,7 @@ two factors and their interactions use a linear model with `y~x1*x2`. Beside oth
 To test statistical significance you can use `chisq.test` function.
 
 
-# Principal Component Analysis
+### Principal Component Analysis
 
 Principal Component Analysis (PCA) is frequently used data analysis method. Let us demonstrate it
 on the results of Tour de France 2013. You can load the data by typing:
@@ -1326,7 +1332,7 @@ Riders at the top reached good results in flat stages. These are typically mascu
 poorly in mountain stages. Riders in the bottom right cloud are "domestiques" who don't care much about
 their own results or rides who bet on just one stage and performed poorly in other stages.
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * the data can be centered and or normalized before PCA. Centering is a usual step in PCA and PCA without
 centering is rarely used. Normalization is used if you analyze apples and pears. They are controlled by:
@@ -1341,13 +1347,7 @@ To plot PC1 vs. PC3 use:
 plot(predict(pcamodel)[,c(1,3)])
 ```
 
-* in `biplot` you can control size of red arrows by `expand`. You can switch them off by setting it to
-zero:
-```{r}
-biplot(pcamodel, expand=0)
-```
-
-# Cluster Analysis
+### Cluster Analysis
 
 We can demonstrate cluster analysis on the same dataset as PCA:
 ```{r}
@@ -1381,7 +1381,7 @@ plot(hmodel)
 You can again inspect identities of riders to find which branch corresponds to sprinters, which corresponds to
 general classification specialists etc.
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * the algorithm used for K-means clustering can be controlled by `algorithm` option.
 
@@ -1389,11 +1389,11 @@ general classification specialists etc.
 
 * the parameter `method` controls the method used to construct the tree in `hclust`.
 
-# Programming
+### Programming
 
 R is a programming language. You can make loops and other programming constructions in R.
 
-## Tips and Tricks
+#### Tips and Tricks
 
 * you can make a for-loop by:
 ```{r}
@@ -1417,7 +1417,7 @@ If-else statement and switch statement works as well.
 * you can define a function:
 ```{r}
 sem <- function(x) {
-  return(sd(x)/sqrt(len(x)))
+  return(sd(x)/sqrt(length(x)))
 }
 sem(rnorm(10))
 ```
@@ -1435,8 +1435,9 @@ R --no-save < program.R
 
 * you can use generic function, such as plot, defined to an object you define
 
-# Next Steps
-## Tips and Tricks
+### Next Steps
+
+#### Tips and Tricks
 
 * you can use any or packages available in [CRAN](https://cran.r-project.org/)
 
