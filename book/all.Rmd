@@ -352,6 +352,7 @@ head(faithful)
 head(faithful)
 ```
 Analogously you can use the `tail` function.
+
 # Analyzing data in R
 
 We can show how to extract and manipulate data from a dataset. Let us create a simple "dataset" containing names:
