@@ -6,7 +6,7 @@ q()
 This will close R without asking you:
 ```R
 q("n")
-q(save="n")
+q(save="no")
 ```
 To show `plot` as an example of function, type:
 ```R
